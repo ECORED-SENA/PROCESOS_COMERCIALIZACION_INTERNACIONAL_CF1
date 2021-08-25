@@ -2,140 +2,81 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    
     .titulo-principal
-      .h3 Producción Audiovisual
+      .titulo-principal__numero
+        span 2
+      h1 UNIDAD 2. SECTORES DE LA ECONOMÍA 
+
+    p.mb-3 Al realizar un análisis de la economía de un país, es posible observar que algunos sectores se desarrollan más que otros; identificar cuáles son los sectores de la economía que contribuyen al crecimiento de esta o los más atrasados, le permiten dimensionar y planear las políticas económicas y sociales de un país. 
+
+    p.mb-3 Conocer el comportamiento de los tres sectores económicos en que se ha dividido la producción:  las fuentes primarias como los recursos naturales, renovables o no renovables; el sector industrial  y el sector de prestación de servicios, son indispensables para examinar el desarrollo económico de un país. (Meléndez, 2013).
+
+    h4.mb-5 6. Teorías económicas
+    .row
+        .col-12.col-md-8.col-lg-10.col-xl-12.mb-5
+          figure.mb-5
+              img(src="@/assets/curso/images/tema2/img_1.svg", alt="", style="width:800px; display:block; margin:0 auto;")
+
+    p.mb-3 La actividad económica de un país se encuentra dividida por conjuntos de actividades productivas o comerciales, cada uno de estos conjuntos o sectores, se agrupan de acuerdo a características comunes que guardan relación entre sí. Su división se realiza de acuerdo a los procesos de producción que ocurren al interior de cada uno de estos. 
+
+    p.mb-5 La teoría económica desarrollada por Colin Clark y Jean Fourastié, divide las economías en tres sectores, según esta teoría “el principal objeto de la actividad de una economía varía desde el primario, a través del secundario hasta llegar al sector terciario” (Fourastié, 1956).
+
+    .row
+      .col-12.col-md-8.col-lg-10.col-xl-12.mb-5
+        figure.mb-5
+            img(src="@/assets/curso/images/tema2/img_2.svg", alt="", style="width:800px; display:block; margin:0 auto;")
+  
+    h4.mb-5 7. Distribución de los sectores económicos
+
+    .row
+      .col-12.col-md-8.col-lg-10.col-xl-12.mb-5
+        figure.mb-5
+            img(src="@/assets/curso/images/tema2/img_3.svg", alt="", style="width:600px; display:block; margin:0 auto;")
+            br
+            | Fuente: Fourastié (1956)
+
+    h4.mb-5 8. Clasificación de los sectores económicos
+
+    p.mb-3 Según estudios económicos presentados por la subgerencia cultural del Banco de la República los sectores se clasifican según el tipo de productos o servicios que ofrecen en:
+    .row.justify-content-center.align-items-center.mb-3
+      .col-12
+        table.mb-5
+          tbody
+            tr
+              td.table-color-1 Sector primario o agropecuario
+              td.table-color-2 Obtiene el producto de sus actividades directamente de la naturaleza, sin ningún proceso de transformación.<br><br> La agricultura, la ganadería, la silvicultura, la caza y la pesca.
+              td
+                img(src="@/assets/curso/images/tema2/img_4.svg", alt="", style="width:600px; display:block; margin:0 auto;")
+            tr
+              td.table-color-3 Sector secundario o industrial 
+              td.table-color-4 Comprende todas las actividades económicas de un país relacionadas con la transformación industrial de los alimentos y otros tipos de bienes o mercancías, los cuales se utilizan como base para la fabricación de nuevos productos. <br><br> Extracción minera y de petróleo. Envasado de legumbres y frutas, embotellado de refrescos, fabricación de abonos y fertilizantes, vehículos, cementos y aparatos electrodomésticos, entre otros.
+              td 
+                img(src="@/assets/curso/images/tema2/img_5.svg", alt="", style="width:600px; display:block; margin:0 auto;")
+            tr
+              td.table-color-5 Sector terciario o de servicios 
+              td.table-color-6 Este sector se enfoca en los intangibles o servicios. <br><br> Hotelería y turismo, espectáculos, banca, comunicaciones, comercio, software, servicios públicos, salud, tercerización y servicios BPO.
+              td 
+                img(src="@/assets/curso/images/tema2/img_6.svg", alt="", style="width:600px; display:block; margin:0 auto;")
+            br
+            | Fuente: Subgerencia Cultural del Banco de la República (2005)
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-10 
+        figure.mb-5
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+
+
+
+
+
+
+
+
+
+
+
     
-    #t_2_1.titulo-segundo
-      .h4 2.1 Infografía Animada
-    
-    p.mb-4 Propuesta infográfica en animación que refuerce un tema y matice conceptos dados de manera creativa y con intención pedagógica.
-
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2cnKTwQ85fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
-    #t_2_2.titulo-segundo
-      .h4 2.2 Video Motion
-
-    p.mb-4 Animación digital que crea la ilusión de movimiento mediante imágenes, fotografías, títulos, colores y diseños.
-
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/E7-BaX6ox9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
-    #t_2_3.titulo-segundo
-      .h4 2.3 Motion + Presentador
-
-    p.mb-4 Es el uso locutor + acompañamiento de imágenes como fondo, el estilo tiene una mezcla entre imagen viva y recursos gráficos vectoriales  se usa cuando un material tiene información de datos numéricos o gráficos de valores. 
-
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Ky73iaXuuTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
-    #t_2_4.titulo-segundo
-      .h4 2.4 Animación 2D
-
-    p.mb-4 Es el uso locutor + acompañamiento de imágenes como fondo, el estilo tiene una mezcla entre imagen viva y recursos gráficos vectoriales  se usa cuando un material tiene información de datos numéricos o gráficos de valores. 
-
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/3b8VctSm558" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
-    #t_2_5.titulo-segundo
-      .h4 2.5 Video interactivo
-
-    p.mb-4 Visualización de videos con diferentes tipos de preguntas o anotaciones.
-
-    figure.mb-5
-      .video
-        iframe(src="https://vizia.co/videos/94d994c5fe93f1b08a60eb/embed" allowtransparency="true" frameborder="0" scrolling="no" width="640" height="390")
-
-    #t_2_6.titulo-segundo
-      .h4 2.6 Infografías
-
-    p.mb-4 Es una herramienta de comunicación de alta precisión, el cual tiene una narrativa gráfica con un texto corto acompañada de elementos visuales que tienen como intención de captar rápidamente la atención del lector. 
-
-    figure.mb-5
-      img(src='@/assets/curso/infografia-1.jpg', alt='Infografía Fundamentos del Servicio de Interpretación')
-      figcaption Fundamentos del Servicio de Interpretación
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Fundamentos del Servicio de Interpretación
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/fundamentos_del_servicio_de_Interpretacion.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
-    
-    figure.mb-5
-      img(src='@/assets/curso/infografia-2.jpg', alt='Infografía Plan de Negocios')
-      figcaption Plan de Negocios
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Plan de Negocios
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/plan_de_negocios.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
-    
-    figure.mb-5
-      img(src='@/assets/curso/infografia-3.jpg', alt='Infografía Cobertura poblacional')
-      figcaption Cobertura poblacional
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Cobertura poblacional
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/cobertura_poblacional.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
-    
-    figure.mb-5
-      img(src='@/assets/curso/infografia-4.jpg', alt='Infografía Historia de las microfinanzas: Mohammad Yunus')
-      figcaption Historia de las microfinanzas: Mohammad Yunus
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Historia de las microfinanzas: Mohammad Yunus
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/historia_de_las_microfinanzas_mohammad_yunus.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
-    
-    figure.mb-5
-      img(src='@/assets/curso/infografia-5.jpg', alt='Infografía Psicología de la moda: sexualidad, ropa mágica, ropa malévola y ropa neurótica')
-      figcaption Psicología de la moda: sexualidad, ropa mágica, ropa malévola y ropa neurótica
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Psicología de la moda: sexualidad, ropa mágica, ropa malévola y ropa neurótica
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/psicologia_de_la_moda.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
-
 </template>
 
 <script>
