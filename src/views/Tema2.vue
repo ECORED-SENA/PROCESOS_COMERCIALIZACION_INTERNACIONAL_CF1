@@ -20,7 +20,7 @@
             .h5.mb-0 Meléndez, 2013
       .col-12.col-md-8.col-lg-6.col-xl-6.mb-4
           img.my-3(src="@/assets/curso/images/tema2/img_1_1.svg", alt= "",style="width:400px; display:block; margin:0 auto;") 
-
+    Separador 
     #t_2_1.titulo-segundo
       .h4 2.1 Teorías económicas
     
@@ -51,7 +51,7 @@
       .col-12.col-md-8.col-lg-10.col-xl-12.mb-5
         figure.mb-5
             img(src="@/assets/curso/images/tema2/img_2_1.svg", alt="", style="width:800px; display:block; margin:0 auto;")
-  
+    Separador 
    
     #t_2_3.titulo-segundo
       .h4 2.3 Clasificación de los sectores económicos
@@ -151,7 +151,7 @@
               br
               br
               p Algunos autores ya hablan de un sector quinario, relativo a las actividades relacionadas con la cultura, la educación, el arte y el entretenimiento. Sin embargo, las actividades incluidas en este sector varían de unos autores a otros, incluyendo en ocasiones actividades relacionadas con la sanidad. (Fernández, Llorente y Pérez, 2007, p. 84)
-     
+    Separador  
     #t_2_4.titulo-segundo
       .h4 2.4 Subsectores económicos
 
@@ -170,8 +170,8 @@
         .tarjeta_Sp-15.p-4
           p.text-center.small.text Construcción, electricidad, gas y vapor, comercio, transporte, almacenaje y comunicaciones. 
           p.text-center.small.text Servicios financieros, hotel, restaurante y similares. Turismo, actividades deportivas y esparcimiento, software u otros. 
-    br
-    br
+    
+    Separador 
     #t_2_5.titulo-segundo
       .h4  2.5 Crecimiento económico colombiano
     
@@ -1084,8 +1084,15 @@
                   span(style='color:black') 3,3
                   span(style='background-color:#D9D9D9')
 
+    p.mb-3 Al analizar los resultados del Producto Interno Bruto (PIB) de 2019, podemos afirmar que la economía del país registró un crecimiento de 3,3 por ciento, lo que significa una notable aceleración frente al PIB de 2,5 por ciento valorado en 2018. Así mismo, es de destacar un importante crecimiento en la economía colombiana en el tercer y cuarto trimestre de 2019, con registros del 3,5 y 3,4 por ciento, respectivamente.
 
+    p.mb-3 Dentro de las actividades económicas de mayor crecimiento durante el 2019 podemos resaltar las actividades financieras que pasaron de un crecimiento del 3,6 por ciento en 2018 a un 5,7 por ciento en 2019 lo que representa una variación del 2,1 por ciento con respecto al 2018, también tenemos el comercio al por mayor y al por menor; reparación de automotores y motocicletas; transporte y almacenamiento; alojamiento y servicios de comida que presentaron un crecimiento del 2,7 por ciento en 2018 y del 4,9 por ciento en 2019.
 
+    p.mb-3 Conviene mencionar aquellas actividades económicas que presentaron un crecimiento inferior con respecto al comportamiento presentado en 2018, dichas actividades son las industrias de manufactura que pasaron de un crecimiento del 1,8 por ciento en 2018 a 1,6 por ciento en 2019, también está el sector de la información y las comunicaciones que en 2018 logro crecer un 2,9 por ciento y en 2019 apenas logro un crecimiento del 1,7 por ciento.
+
+    p.mb-3 Es de resaltar la fuerte aceleración experimentada por el sector de la explotación de minas y canteras que paso de un crecimiento negativo del 1,9 por ciento en 2018 a un crecimiento del 2,1 por ciento en 2019, resulta preocupante el comportamiento del sector de la construcción el cual presenta un comportamiento negativo que va en picada pasando de un crecimiento negativo del 0,4 por ciento en 2018 a un inquietante crecimiento negativo del 1,3 por ciento en 2019.
+ 
+    figcaption Fuente: (ANDI)
 
 
 
