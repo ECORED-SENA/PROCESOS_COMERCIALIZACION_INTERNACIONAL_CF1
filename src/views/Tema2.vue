@@ -160,16 +160,16 @@
     .row.justify-content-center.align-items-center   
       .col-md-3.mb-4.mb-md-0.d-flex
         .tarjeta_Sp-13.p-4
-          p Acuícola, biocombustibles, cacao, chocolatería, carnico, forestal, hortofrutícola y lácteo. 
+          p.text-center.small.text Acuícola, biocombustibles, cacao, chocolatería, carnico, forestal, hortofrutícola y lácteo. 
   
       .col-md-3.mb-4.mb-md-0.d-flex
         .tarjeta_Sp-14.p-4
-          p Manufactura de alimentos y textiles  (prendas de vestir y cuero), fabricación de productos minerales y otros, industria de madera (corcho y papel) y fabricación de automóviles y accesorios.  
+          p.text-center.small.text Manufactura de alimentos y textiles  (prendas de vestir y cuero), fabricación de productos minerales y otros, industria de madera (corcho y papel) y fabricación de automóviles y accesorios.  
 
       .col-md-3.mb-4.mb-md-0.d-flex
         .tarjeta_Sp-15.p-4
-          p Construcción, electricidad, gas y vapor, comercio, transporte, almacenaje y comunicaciones. 
-          p Servicios financieros, hotel, restaurante y similares. Turismo, actividades deportivas y esparcimiento, software u otros. 
+          p.text-center.small.text Construcción, electricidad, gas y vapor, comercio, transporte, almacenaje y comunicaciones. 
+          p.text-center.small.text Servicios financieros, hotel, restaurante y similares. Turismo, actividades deportivas y esparcimiento, software u otros. 
     br
     br
     #t_2_5.titulo-segundo
@@ -187,7 +187,7 @@
                   span(style='background-color:#FD8F25') 
                   p.text-center.text-white <b>PIB POR ACTIVIDAD ECONÓMICA - VARIACIÓN ANUAL (%)</b>
                   span(style='background-color:#D9D9D9') 
-                th.tg-0pky(colspan='10')
+                th.tg-0pky(colspan='10').th-4
                   span(style='background-color:#FD8F25') 
                   p.text-center.text-white <b>TRIMESTRES</b>
                   span(style='background-color:#D9D9D9') 
