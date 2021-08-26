@@ -77,7 +77,7 @@
               .tarjeta_Sp.p-4
                 h5.text-center.mb-5 Mercados locales y/o regionales
                 p.text-center.mb-5.m-top En el ámbito geográfico es el espacio más reducido del mercado. Hace referencia a las empresas, emprendimientos y negocios que se encuentran ubicados y desarrollan sus operaciones en veredas, municipios y departamentos. Por ejemplo: “una panadería o fruver” ubicado en el municipio de Espinal (Tolima). 
-    
+              
             .col-md-3.mb-3.mb-md-0.d-flex
               .tarjeta_Sp-1.p-4
                 h5.text-center.mb-5 Mercados nacionales

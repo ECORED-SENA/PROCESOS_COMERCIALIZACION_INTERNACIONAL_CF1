@@ -53,7 +53,7 @@
             img(src="@/assets/curso/images/tema2/img_2_1.svg", alt="", style="width:800px; display:block; margin:0 auto;")
   
    
-    #t_2_2.titulo-segundo
+    #t_2_3.titulo-segundo
       .h4 2.3 Clasificación de los sectores económicos
     .row.mb-5
       br
@@ -94,29 +94,995 @@
                 .bloque-texto-a__texto.p-4
                   .col-sm.mt-3   
                     p.mb-3 El sector agroindustrial es un gran jugador en la economía nacional, generando cerca del 6,2% del PIB (Producto Interno Bruto). En materia de exportaciones, se presentó un crecimiento del 32,2% en los últimos cinco años.
+   
+    p.mb-5 El PIB agropecuario creció 5,2% entre 2012 y 2013. 
+    
+    .row.mb-5
+      .col-lg-6.mb-5.mb-lg-0
+         
+        ul.lista-ul
+            li 
+              i.fas.fa-angle-right
+              | Colombia es uno de los países latinoamericanos con mayores tasas de precipitación anual y el cuarto a nivel mundial con mayor disponibilidad de agua. 
+            li 
+              i.fas.fa-angle-right
+              |  Al estar ubicado en el Trópico cuenta con diversidad de pisos térmicos con alturas sobre el nivel del mar que van desde los 0 metros sobre el nivel del mar (m.s.n.m) (> 24 C°) hasta los 4.000 m.s.n.m (< 6 C°). (ProColombia, 2012).
 
-      
+        .col-lg-6.mb-5.mb-lg-0.mb-5
+        .bloque-texto-d.color-secundario.p-4
+          .bloque-texto-d__texto.mb-2
+            i.fas.fa-quote-left
+            h3.text-regular En el caso de la industria manufacturera, si bien aún se observa cierto rezago frente al total del PIB, es importante anotar que en esta actividad comienza a observarse una leve recuperación en sus principales indicadores, especialmente los tendenciales
+            i.fas.fa-quote-right
+          .bloque-texto-d__autor 
+            .h5.mb-0 RCN Radio, 2015
+        br
+        p.mb-3 La predominancia del sector terciario en el porcentaje de participación frente a los demás sectores denota mayor desarrollo y a esto se le denomina proceso de tercerización. 
+      .col-lg-6.mb-5.mb-lg-0 
+          img.my-3(src="@/assets/curso/images/tema2/img_8_1.svg", alt="", style="width:500px; display:block; margin:0 auto;")
+      .row.justify-content-center.align-items-center.mb-3
+        .col-12.col-md-8.col-lg-8.col-xl-10
+          .cajon.color-custom.p-4.mb-4
+            p.mb-0 Por medio del Programa de Transformación Productiva, iniciativa liderada por el Gobierno Nacional, se busca desarrollar sectores de clase mundial dentro de los cuales se encuentran subsectores de servicios tales como software y servicios de Tecnologías de la Información (TI), tercerización de procesos de negocio, energía eléctrica, bienes y servicios conexos. Más del 30% del PIB nacional proviene de actividades de servicios (ProColombia, s.f.).
 
+      p.mb-3 Además de los tres sectores clásicos, en los últimos tiempos y gracias al desarrollo tecnológico y gerencial, ha tomado fuerza el concepto de dos sectores adicionales:
 
+      AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
+        .row(titulo="Sector cuaternario:")
+          .col-md-6
+            figure
+              img(src="@/assets/curso/images/tema2/img_9.svg", alt='Texto que describa la imagen')
+            
 
-      
+          .col-md-6.mb-4.mb-md-0
+            p Aglutina actividades empresariales y políticas con un alto grado de especialización y relacionadas con la gestión y distribución (compra, venta y alquiler) de la información, el bien económico fundamental. La sociedad se centraba antes en actividades materiales de tipo industrial y ahora se aglutina en torno a tareas que tienen que ver con el valor intangible de la información, tales como la dirección, la alta investigación, las nuevas tecnologías y la toma de decisiones. Se dice que ha surgido una nueva sociedad en el nuevo milenio, la sociedad de la información (cuyos antecedentes se encuentran en el concepto de Daniel Bell sobre la sociedad postindustrial) o la sociedad del conocimiento, que plasma la revolución de la información y tecnológica que se vive en el sistema del mundo actual, tal vez de similares proporciones a la industrial de finales del siglo XVIII. 
+          .row.justify-content-center.align-items-center    
+            .col-md-12.mb-4.mb-md-0
+              p.mb-3 Se consideran dentro del sector cuaternario las empresas que tradicionalmente se integran en el sector industrial, pero que están ligadas con las tecnologías de la información, como los fabricantes de ordenadores, programas de ordenador y nuevas tecnologías como los CAD/CAM por sus siglas en inglés Computer Aided Design / Computer Aided Manufacturing (diseño asistido por ordenador / fabricación asistida por computadora); SIG-Geographic Information System (Sistema de información geográfica) y los portales de internet. Así mismo, las actividades relacionadas con las finanzas (cuestiones bancarias y bursátiles, seguros y grandes negocios mercantiles, entre otros)].
 
+              p También se consideran dentro del cuaternario ciertos trabajos ligados a la información, como el realizado en las editoriales, los medios de comunicación, las bibliotecas, las consultorías y hasta las empresas telefónicas y el teletrabajo.
 
+        .row(titulo="Sector quinario:")
+          .col-md-6
+            figure
+              img(src="@/assets/curso/images/tema2/img_10.svg", alt='Texto que describa la imagen')
+            
+          .col-md-6.mb-4.mb-md-0
+              br
+              br
+              p Algunos autores ya hablan de un sector quinario, relativo a las actividades relacionadas con la cultura, la educación, el arte y el entretenimiento. Sin embargo, las actividades incluidas en este sector varían de unos autores a otros, incluyendo en ocasiones actividades relacionadas con la sanidad. (Fernández, Llorente y Pérez, 2007, p. 84)
+     
+    #t_2_4.titulo-segundo
+      .h4 2.4 Subsectores económicos
 
+    p.mb-5 Los sectores económicos se subdividen a su vez en una clasificación estandarizada internacional bastante específica, por ejemplo, en la rama de la industria manufacturera que pertenece al sector secundario, se encuentra la industria del vidrio y del calzado, entre otros.
 
+    .row.justify-content-center.align-items-center   
+      .col-md-3.mb-4.mb-md-0.d-flex
+        .tarjeta_Sp-13.p-4
+          p Acuícola, biocombustibles, cacao, chocolatería, carnico, forestal, hortofrutícola y lácteo. 
+  
+      .col-md-3.mb-4.mb-md-0.d-flex
+        .tarjeta_Sp-14.p-4
+          p Manufactura de alimentos y textiles  (prendas de vestir y cuero), fabricación de productos minerales y otros, industria de madera (corcho y papel) y fabricación de automóviles y accesorios.  
 
+      .col-md-3.mb-4.mb-md-0.d-flex
+        .tarjeta_Sp-15.p-4
+          p Construcción, electricidad, gas y vapor, comercio, transporte, almacenaje y comunicaciones. 
+          p Servicios financieros, hotel, restaurante y similares. Turismo, actividades deportivas y esparcimiento, software u otros. 
+    br
+    br
+    #t_2_5.titulo-segundo
+      .h4  2.5 Crecimiento económico colombiano
+    
+    p.mb-5 A continuación, encuentra un análisis comparativo del crecimiento económico comprendido entre el 2018 al 2019: 
 
-
-
-
-
-
-
-
-
-
-
-
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12
+        .table_overflow
+          table(style="min-width:1042px;").tg
+            thead
+              tr.th-1
+                th.tg-0pky(rowspan='4',colspan='8')
+                  span(style='background-color:#FD8F25') 
+                  p.text-center.text-white <b>PIB POR ACTIVIDAD ECONÓMICA - VARIACIÓN ANUAL (%)</b>
+                  span(style='background-color:#D9D9D9') 
+                th.tg-0pky(colspan='10')
+                  span(style='background-color:#FD8F25') 
+                  p.text-center.text-white <b>TRIMESTRES</b>
+                  span(style='background-color:#D9D9D9') 
+              tr.th-1
+                th.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:white') <b>2018-I</b>
+                  span(style='background-color:#D9D9D9') 
+                th.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:white') <b>2018-II</b>
+                  span(style='background-color:#D9D9D9') 
+                th.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:white') <b>2018-III</b>
+                  span(style='background-color:#D9D9D9') 
+                th.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:white') <b>2018-IV</b>
+                  span(style='background-color:#D9D9D9') 
+                th.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:white') <b>Total 2018</b>
+                  span(style='background-color:#D9D9D9') 
+                th.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:white') <b>2019-I</b>
+                  span(style='background-color:#D9D9D9') 
+                th.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:white') <b>2019-II</b>
+                  span(style='background-color:#D9D9D9') 
+                th.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:white') <b>2019-III</b>
+                  span(style='background-color:#D9D9D9') 
+                th.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:white') <b>2019-IV</b>
+                  span(style='background-color:#D9D9D9') 
+                th.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:white') <b>Total 2019</b>
+                  span(style='background-color:#D9D9D9')      
+            tbody
+              tr.th-2
+                td.text-center.tg-0pky(colspan='8')
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') Agricultura, ganadería, caza, silvicultura y pesca
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -5,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -2,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 0,8
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -1,3
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -1,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,5
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 0,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 1,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,1
+                  span(style='background-color:#D9D9D9')  
+              tr.th-3
+                td.text-center.tg-0pky(colspan='8')
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') Explotación de minas y canteras
+                  span(style='background-color:#D9D9D9')  
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 1,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 5,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,3
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 0,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 1,8
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 1,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 1,2
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,0
+                  span(style='background-color:#D9D9D9')   
+              tr.th-2
+                td.text-center.tg-0pky(colspan='8')
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') Industrias manufactureras
+                  span(style='background-color:#D9D9D9')  
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -2,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,3
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,6
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 1,8
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 0,6
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 1,5
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 1,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 1,6
+                  span(style='background-color:#D9D9D9')   
+              tr.th-3
+                td.text-center.tg-0pky(colspan='8')
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') Electricidad,gas,vapor y aire acondicionado, Distribución de agua, evacuación y tratamiento de aguas residuales, gestión desechos y actividades de saneamiento
+                  span(style='background-color:#D9D9D9')  
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,5
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,6
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,8
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,8
+                  span(style='background-color:#D9D9D9')
+              tr.th-2
+                td.text-center.tg-0pky(colspan='8')
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') Construcción
+                  span(style='background-color:#D9D9D9')  
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -1,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -5,3
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,3
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -0,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -3,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 1,2
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -2,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -0,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -1,3
+                  span(style='background-color:#D9D9D9')
+              tr.th-3
+                td.text-center.tg-0pky(colspan='8')
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') Comercio al por mayor y al por menor; Reparación de vehiculos automotores y motociletas; Transporte y almacenamiento; Alojamiento y servicios de comida
+                  span(style='background-color:#D9D9D9')  
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 1,8
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 5,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,9
+                  span(style='background-color:#D9D9D9')
+              tr.th-2
+                td.text-center.tg-0pky(colspan='8')
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') Información y comunicaciones 
+                  span(style='background-color:#D9D9D9')  
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 0,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 6,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,3
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -0,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 0,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 1,7
+                  span(style='background-color:#D9D9D9')
+              tr.th-3
+                td.text-center.tg-0pky(colspan='8')
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') Actividades financieras y de seguros 
+                  span(style='background-color:#D9D9D9')  
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,6
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,2
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,6
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 5,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 8,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,6
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 5,7
+                  span(style='background-color:#D9D9D9')
+              tr.th-2
+                td.text-center.tg-0pky(colspan='8')
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') Actividades inmobiliarias
+                  span(style='background-color:#D9D9D9')  
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,8
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,8
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,0
+                  span(style='background-color:#D9D9D9')
+              tr.th-3
+                td.text-center.tg-0pky(colspan='8')
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') Actividades profesionales, científicas y técnicas; Actividades de servicio administrativo y de apoyo
+                  span(style='background-color:#D9D9D9')  
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,2
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,5
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,8
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,6
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,6
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,7
+                  span(style='background-color:#D9D9D9')
+              tr.th-2
+                td.text-center.tg-0pky(colspan='8')
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') Administración pública y defensa; planes de seguridad social de afiliación obligatoria; Educación; Actividades de atención de la salud humana y de servicios sociales 
+                  span(style='background-color:#D9D9D9')  
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 5,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,6
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,2
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 5,3
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 5,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,9
+                  span(style='background-color:#D9D9D9')
+              tr.th-3
+                td.text-center.tg-0pky(colspan='8')
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') Actividades artisticas, de entrenamiento y recreación y otras actividades de servicios; Actividades de los hogares individuales en calidad de empleadores; Actividdes no diferenciadas de los hogares individuales como productores de bienes y servicios para uso propio
+                  span(style='background-color:#D9D9D9')  
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,8
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 1,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,6
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,3
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,3
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,4
+                  span(style='background-color:#D9D9D9')
+              tr.th-2
+                td.text-center.tg-0pky(colspan='8')
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') <b>Valor agregado bruto</b>
+                  span(style='background-color:#D9D9D9')  
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 1,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,8
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,6
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,5
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,2
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,2
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,3
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,2
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,2
+                  span(style='background-color:#D9D9D9')
+              tr.th-3
+                td.text-center.tg-0pky(colspan='8')
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') Impuestos menos subvenciones sobre los productos
+                  span(style='background-color:#D9D9D9')  
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,1
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 5,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 5,3
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,6
+                  span(style='background-color:#D9D9D9')
+              tr.th-2
+                td.text-center.tg-0pky(colspan='8')
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') <b>PRODUCTO INTERNO BRUTO</b>
+                  span(style='background-color:#D9D9D9')  
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 1,7
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,8
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,6
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,5
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,2
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,3
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,5
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,4
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 3,3
+                  span(style='background-color:#D9D9D9')
 
 
 
