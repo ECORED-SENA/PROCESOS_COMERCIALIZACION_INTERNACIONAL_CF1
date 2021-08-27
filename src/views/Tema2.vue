@@ -127,7 +127,7 @@
 
       p.mb-3 Además de los tres sectores clásicos, en los últimos tiempos y gracias al desarrollo tecnológico y gerencial, ha tomado fuerza el concepto de dos sectores adicionales:
 
-      AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
+      AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--cafe")
         .row(titulo="Sector cuaternario:")
           .col-md-6
             figure

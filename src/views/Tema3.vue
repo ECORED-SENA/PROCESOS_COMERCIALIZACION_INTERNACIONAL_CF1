@@ -47,36 +47,36 @@
             table(style="min-width:1042px;").tg
               thead
                 tr.th-1
-                  th.tg-0pky(rowspan='4',colspan='4')
+                  th.tg-0pky(rowspan='4',colspan='2')
                     span(style='background-color:#FD8F25') 
                     p.text-center.text-white <b>PRECIO (por galón))</b>
                     span(style='background-color:#D9D9D9') 
-                  th.tg-0pky(colspan='4')
+                  th.tg-0pky(colspan='2')
                     span(style='background-color:#FD8F25') 
                     p.text-center.text-white <b>CANTIDAD OFRECIDA (millones de galones)</b>
                     span(style='background-color:#D9D9D9') 
               tbody
                 tr
-                  td(width='50')(colspan='4').text-center $1.00
-                  td(width='50')(colspan='4').text-center 500
+                  td.text-center.th-2(colspan='2') $1.00
+                  td.text-center.th-2(colspan='2') 500
                 tr
-                  td(width='50').text-center(colspan='4')  $1.20
-                  td(width='50').text-center(colspan='4') 550
+                  td.text-center(colspan='2').th-3  $1.20
+                  td.text-center(colspan='2').th-3  550
                 tr
-                  td(width='50').text-center(colspan='4')  $1.40
-                  td(width='50').text-center(colspan='4') 600
+                  td.text-center(colspan='2').th-2  $1.40
+                  td.text-center(colspan='2').th-2   600
                 tr
-                  td(width='50').text-center(colspan='4')  $1.60
-                  td(width='50').text-center(colspan='4') 640
+                  td.text-center(colspan='2').th-3   $1.60
+                  td.text-center(colspan='2').th-3  640
                 tr
-                  td(width='50').text-center(colspan='4')  $1.80
-                  td(width='50').text-center(colspan='4') 680
+                  td.text-center(colspan='2').th-2  $1.80
+                  td.text-center(colspan='2').th-2   680
                 tr
-                  td(width='50').text-center(colspan='4')  $2.00
-                  td(width='50').text-center(colspan='4') 700
+                  td.text-center(colspan='2').th-3   $2.00
+                  td.text-center(colspan='2').th-3  700
                 tr
-                  td(width='50').text-center(colspan='4')  $2.20
-                  td(width='50').text-center(colspan='4') 720
+                  td.text-center(colspan='2').th-2   $2.20
+                  td.text-center(colspan='2').th-2   720
 
       p.mb-3 El precio se mide en dólares por galón de gasolina y la cantidad ofrecida se mide en millones de galones.
 
@@ -131,18 +131,195 @@
 
       p.mb-3 Una disminución de los costos tendrá el efecto opuesto y ocasionará que la curva de oferta se desplace a la derecha, hacia O2. Las empresas ganarán más por automóvil, así que estarán más motivadas para fabricar más a cualquier precio y aumentarán la cantidad ofrecida
 
-      p.mb-3 Existen diferentes variables que desplazan la curva de la oferta, entre ellas se encuentran: 
+      p.mb-5 Existen diferentes variables que desplazan la curva de la oferta, entre ellas se encuentran: 
+
+      SlyderB.mb-5(:datos="datosSlyder")
+
+      h5.mb-3 La elasticidad de la oferta
+
+      p.mb-3 Hace referencia a la variación que tiene la cantidad ofertada de un bien o servicio frente a un cambio en el precio de los mismos.
+
+      p.mb-3 La elasticidad se representa en forma numérica y está definida como la variación porcentual en la cantidad que se ofrece, dividida entre la variación porcentual en el precio. Es deseable que una empresa sea altamente receptiva a las variaciones en el precio y a otras condiciones del mercado (Corvo, s.f.). 
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-12.col-md-8.col-lg-10.col-xl-10.mb-4
+          img.my-3(src="@/assets/curso/images/tema3/img_4.svg", alt= "",style="width:700px; display:block; margin:0 auto;") 
+
+      h5.mb-3 Tipos
+
+      p.mb-3 Se puede describir la oferta del producto como inelástica cuando el coeficiente es menor que uno; a las empresas les resulta difícil cambiar la producción en un período de tiempo determinado. Por ejemplo: la oferta de habitaciones de hotel es inelástica.
+
+      p.mb-5 Por otro lado, la oferta se puede describir como elástica cuando el coeficiente es mayor que uno; las empresas pueden aumentar la producción fácilmente sin que aumente el costo o haya retrasos de tiempo. La oferta de libros es elástica.
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-12.col-md-8.col-lg-10.col-xl-10.mb-4
+          img.my-3(src="@/assets/curso/images/tema3/img_5.svg", alt= "",style="width:700px; display:block; margin:0 auto;") 
+
+      p.mb-3 Para cualquier curva de oferta dada, es probable que la elasticidad de la oferta varíe en toda la curva. Hay tres casos extremos de elasticidad de la oferta: 
 
 
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-8
+        .tarjeta-avatar-b.mb-5
+          img(src='@/assets/curso/images/tema3/ico_13.svg' alt='AvatarTop')
+          .tarjeta.color-tarjeta-1
+            .p-4
+              h4 Títulos valores a la orden:
+              p Mediante la figura del endoso, se transfiere la responsabilidad de pago de una persona a otra sin interesar quién es el que porte el documento, se agrega la expresión “a la orden”. Con la firma del endosante se transfiere responsabilidades al endosatario. Dos ejemplos son: la letra de cambio y el pagaré. 
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-8
+        .tarjeta-avatar-b.mb-5.margin
+          .tarjeta.color-tarjeta-1.tar-av
+            .p-4.margin-1
+              h4 Títulos al portador:
+              p Donde el reconocimiento se hace a quien ostente el título, un ejemplo son los cheques al portador, poco usados por tema de seguridad, pero vigentes aún.
+          img(src='@/assets/curso/images/tema3/ico_14.svg' alt="", style="width:100px; display; margin:auto 0;")
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-8
+        .tarjeta-avatar-b.mb-5
+          img(src='@/assets/curso/images/tema3/ico_15.svg', alt="", style="width:100px; display:block; margin:0 auto;")
+          .tarjeta.color-tarjeta-1
+            .p-4
+              h4 Títulos valores nominativos:
+              p  Estos títulos son expedidos a favor de una determinada persona. En el Código de Comercio se determina que la persona que gira, o transfiere el título debe realizar la inscripción del tenedor en el registro que lleva el creador del título (Secretaría del Senado, 2020. Art. 648).
+          
+      p.mb-5 Gráficamente, se muestra como una curva lineal que parte desde el origen:  
 
+       .row.justify-content-center.align-items-center.mb-5
+        .col-12.col-md-8.col-lg-10.col-xl-10.mb-4
+          img.my-3(src="@/assets/curso/images/tema3/img_6.svg", alt= "",style="width:700px; display:block; margin:0 auto;") 
 
+      h5.mb-5 Factores que influyen 
 
+      AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
+        .row(titulo="Complejidad de la producción:")
+          .col-md-6.mb-4.mb-md-0
 
+            p.mb-3 La elasticidad de la oferta depende mucho de la complejidad del proceso de producción. Por ejemplo, la producción textil es relativamente simple.
+            p.mb-3 La mano de obra es en gran parte no calificada y no se necesitan estructuras especiales como instalaciones de producción. Por tanto, la elasticidad de la oferta para textiles es alta.
+            p Por otro lado, la elasticidad de la oferta para ciertos tipos de vehículos de motor es relativamente baja debido a que su fabricación es un proceso de varias etapas que requiere equipos especializados, mano de obra calificada, una gran red de proveedores y grandes costos de investigación y desarrollo.
+          .col-md-6
+            br
+            br
+            figure
+              img(src="@/assets/curso/images/tema3/ico_16.svg", alt= "",style="width:150px; display:block; margin:0 auto;")
+          
+        .row(titulo="Movilidad de los componentes de la producción:")        
+          .col-md-6.mb-4.mb-md-0
+              
+              p Si los componentes asociados a la producción (mano de obra, máquinas, capital y demás.) de una empresa que fabrica un producto están fácilmente disponibles y la empresa puede cambiar sus recursos para ponerlos a fabricar otro producto requerido, entonces se puede decir que su elasticidad de oferta es alta. Si se aplica lo contrario, entonces su elasticidad es baja. Por ejemplo, una imprenta que puede cambiar fácilmente de imprimir revistas a tarjetas de felicitación tiene una oferta elástica.
+          .col-md-6
+            figure
+              img(src="@/assets/curso/images/tema3/ico_17.svg", alt= "",style="width:150px; display:block; margin:0 auto;")
 
+        .row(titulo="Tiempo de respuesta")
 
+          .col-md-6.mb-4.mb-md-0
+              
+              p.mb-3 La oferta es normalmente más elástica a largo plazo que a corto plazo para los bienes producidos. Se espera que a largo plazo puedan ser utilizados todos los componentes de la producción para aumentar la oferta. A corto plazo solo se puede aumentar la mano de obra, e incluso entonces los cambios pueden ser prohibitivamente costosos.
 
+              p.mb-3 Por ejemplo, un agricultor de algodón no puede responder a corto plazo a un aumento en el precio de la soja, debido al tiempo que llevaría conseguir la tierra necesaria.
 
+              p En contraste, la oferta de leche es elástica debido al corto período de tiempo existente desde que las vacas producen la leche hasta que los productos llegan al mercado.
 
+          .col-md-6
+            br
+            br
+            figure
+              img(src="@/assets/curso/images/tema3/ico_20.svg",  alt= "",style="width:150px; display:block; margin:0 auto;")
+
+        .row(titulo="Disponibilidad de inventarios")
+                  
+          .col-md-6.mb-4.mb-md-0
+              
+              p.mb-3 Si las existencias de materias primas y productos terminados están en un nivel alto, entonces una empresa puede responder a un cambio en el precio: su oferta será elástica.
+
+              p Por el contrario, cuando las existencias son bajas la disminución de los suministros obliga a aumentar los precios debido a la escasez.
+
+          .col-md-6
+            figure
+              img(src="@/assets/curso/images/tema3/ico_19.svg",  alt= "",style="width:150px; display:block; margin:0 auto;")
+
+        .row(titulo="Capacidad de producción adicional")
+            
+          .col-md-6.mb-4.mb-md-0
+              
+              p.mb-3 Un productor con una capacidad no utilizada puede responder rápidamente a los cambios de precios en el mercado, asumiendo que los componentes de producción estén fácilmente disponibles.
+
+              p.mb-3 La capacidad excedente dentro de una empresa es un indicativo de una respuesta más proporcional en la cantidad ofertada a los cambios en el precio, lo que sugiere una elasticidad de la oferta. Indica que el productor podría responder adecuadamente a los cambios en el precio para que coincidan con la oferta.
+
+              p.mb-3 Cuanto mayor sea la capacidad adicional de producción, las empresas pueden responder más rápido a los cambios de precios. Por tanto, cuanto más elástica sea la oferta, mejor será el producto o servicio.
+
+              pLa oferta de productos y servicios es más elástica durante una recesión, cuando hay disponible una gran cantidad de mano de obra y recursos de capital (Riley, 2018).
+          .col-md-6
+            br
+            br
+            br
+            figure
+              img(src="@/assets/curso/images/tema3/ico_18.svg", alt= "",style="width:150px; display:block; margin:0 auto;")
+
+      p.mb-3 ¿Cómo se calcula la elasticidad de la oferta?
+      .row
+        figure.mb-5
+        .video.mb-5
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+      p.mb-3 Se utilizan varios métodos de investigación para calcular las elasticidades de la oferta en la vida real, incluido el análisis de datos históricos de ventas y el uso de encuestas sobre las preferencias de los clientes, para así construir mercados de prueba capaces de modelar la elasticidad de dichos cambios.
+
+      p.mb-3 Alternativamente, se puede usar un análisis conjunto, clasificando las preferencias de los usuarios para luego poder analizarlas estadísticamente.
+
+      p.mb-5 <b>La siguiente ecuación se utiliza para calcular la </b>    <b> Elasticidad de la oferta (Eo): </b>
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-12
+          img(src="@/assets/curso/images/tema3/ecu_1.svg", alt= "",style="width:950px; display:block; margin:0 auto;")
+      
+      p.mb-5 <b>El Cambio Porcentual en la Cantidad Ofertada (CPCO) se calcula como:</b>
+
+      .row.mb-5
+        .col-8
+          img(src="@/assets/curso/images/tema3/ecu_2.svg", alt= "",style="width:950px; display:block; margin:0 auto;")
+          
+      p.mb-5 De la misma forma, se calcula el Cambio Porcentual en el Precio (CPP):
+
+      .row.mb-5
+        .col-8
+          img(src="@/assets/curso/images/tema3/ecu_3.svg", alt= "",style="width:900px; display:block; margin:0 auto;")
+          
+      figcaption.mb-3 Fuente: (Pettinge, 2016) 
+
+      h5.mb-5 Ejemplo
+
+      .row.justify-content-center.align-items-center.mb-3
+        .col-10
+          .bloque-texto-a.color-custom.p-3.mb-5
+            .row.m-4.align-items-center.justify-content-between
+                .col-lg-5.mb-4.mb-lg-12
+                    img(src="@/assets/curso/images/tema3/img_13.svg" alt="", style="width:200px; display:block; margin:0 auto;")
+                .col-lg-7
+                  .bloque-texto-a__texto.p-4
+                    .col-sm.mt-3   
+                      p.mb-3 El precio de mercado de una mermelada aumenta de $4.100 a $4.600, incrementando con ello su cantidad ofertada de 10.000 a 12.500 unidades. 
+
+                        p DESCRIPCIÓN DEL PRODUCTO
+                        p NOMBRE: Mermelada de fruta
+                        p SABOR: Fresa
+                        p PESO: 330 gr
+                        p PRECIO ACTUAL: $4.100
+
+      p.mb-5 Aplicando las fórmulas anteriores, la elasticidad de la oferta es:
+
+      .row.mb-5
+        .col-8
+          img(src="@/assets/curso/images/tema3/ecu_4.svg", alt= "",style="width:900px; display:block; margin:0 auto;")
+      .row.mb-5
+        .col-8
+          img(src="@/assets/curso/images/tema3/ecu_5.svg", alt= "",style="width:900px; display:block; margin:0 auto;")
+      .row.mb-5
+        .col-8
+          img(src="@/assets/curso/images/tema3/ecu_6.svg", alt= "",style="width:900px; display:block; margin:0 auto;")
+
+      p.mb-3 El signo positivo refleja el hecho de que el aumento de los precios operará como incentivo para ofertar más. Por ser el coeficiente mayor que uno, la oferta es elástica, respondiendo la empresa a los cambios de precio. Esto le dará una ventaja competitiva sobre sus rivales.
 
 
 
@@ -154,7 +331,32 @@
 export default {
   name: 'Tema3',
   data: () => ({
-    // variables de vue
+    datosSlyder: [
+      {
+        titulo: 'El precio de los insumos',
+        texto:
+          'Para producir el pan, los vendedores utilizan varios insumos: margarina, harina, polvo de hornear, azúcar, levadura, máquinas, la infraestructura que se requiere para producirlo y la mano de obra de los trabajadores para mezclar los ingredientes y operar las máquinas. <br> Cuando el precio de uno o más de estos insumos se incrementa, producir pan es menos rentable y las empresas ofrecen menos pan. Si los precios de los insumos aumentan de forma significativa, una empresa podrá cerrar y no ofrecer pan en absoluto. Entonces, la oferta de un bien es inversamente proporcional al precio de los insumos empleados para producir dicho bien.',
+        imagen: require('@/assets/curso/images/tema3/img_9.svg'),
+      },
+      {
+        titulo: 'Tecnología',
+        texto:
+          'La tecnología disponible para convertir los insumos en el producto final, para nuestro ejemplo, el pan, es otro factor determinante de la oferta. <br> Por ejemplo: la invención de la máquina para cortar los panes en diferentes formas y tamaños redujo la cantidad necesaria de mano de obra para producirlo. En otras palabras, las empresas invierten una vez en una maquinaria que les permitirá dejar de incurrir en el gasto permanente de mano de obra, disminuyendo los costos de producción, por ende, aumentar la oferta del pan. ',
+        imagen: require('@/assets/curso/images/tema3/img_10.svg'),
+      },
+      {
+        titulo: 'Expectativas',
+        texto:
+          'La cantidad de pan que una empresa ofrece hoy puede depender de sus expectativas sobre el futuro. Por ejemplo: si la empresa espera que el precio del pan aumente en el futuro, almacenará una parte de la materia prima e insumos necesarios, reduciendo la oferta actual del pan y teniendo existencias para la producción futura.',
+        imagen: require('@/assets/curso/images/tema3/img_11.svg'),
+      },
+      {
+        titulo: 'Número de vendedores',
+        texto:
+          'En este aspecto se revisa de manera colectiva el mercado, en el cual, si Bimbo o Ramo detiene su producción de pan para Colombia, la cantidad ofertada va a ser menor (Mankiw, 2017).',
+        imagen: require('@/assets/curso/images/tema3/img_12.svg'),
+      },
+    ],
   }),
   mounted() {
     this.$nextTick(() => {
