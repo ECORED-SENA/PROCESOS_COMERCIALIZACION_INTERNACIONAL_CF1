@@ -8,7 +8,7 @@
       h1 Diagnóstico del mercado
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-5.mb-lg-0
         .bloque-texto-d.color-secundario.p-4
           .bloque-texto-d__texto.mb-2
@@ -77,14 +77,14 @@
           .bloque-texto-d__autor 
             .h5.mb-0 Rouco, 1997
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-up-right")
       .col-lg-6.mb-5.mb-lg-0 
           img.my-3(src="@/assets/curso/images/tema2/img_6_1.svg", alt="", style="width:400px; display:block; margin:0 auto;")
       .col-lg-6.mb-5.mb-lg-0
         p.mb-3 Colombia cuenta con ventajas competitivas y comparativas que lo sitúan con condiciones privilegiadas, posibilitando la negociación internacional a lo largo y ancho de los sectores, pero para mantener esta posición se requiere de profesionales, técnicos y tecnólogos visionarios e innovadores que puedan fortalecer las cualidades que tiene la nación.
         p.mb-3 En Colombia existe una alianza de carácter público-privado denominada Programa de Transformación Productiva para desarrollar Sectores de Clase Mundial, lo que permite enfocar los esfuerzos por parte de las empresas y las personas, todo a partir de varios estudios técnicos preliminares con potencial exportador y de inversión, en donde se concentran los mayores esfuerzos institucionales, corporativos y gubernamentales, mediante la implementación de incentivos en materia financiera y tributaria, entre otras (Proexport Colombia, 2013).
     
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="flip-left")
       .col-12
         .bloque-texto-a.color-custom.p-3.mb-5
           .row.m-4.align-items-center.justify-content-between
@@ -97,7 +97,7 @@
    
     p.mb-5 El PIB agropecuario creció 5,2% entre 2012 y 2013. 
     
-    .row.mb-5
+    .row.mb-5(data-aos="fade-left")
       .col-lg-6.mb-5.mb-lg-0
          
         ul.lista-ul

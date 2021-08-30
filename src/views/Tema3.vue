@@ -7,7 +7,7 @@
         span 3
       h1 Sectores de la economía 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-5.mb-lg-0
 
         p.mb-3 Actualmente, el mercadeo internacional, es la herramienta más útil para las empresas en su deseo de aprovechar las oportunidades que se encuentran a nivel mundial, permitiendo valorar los recursos propios (nacionales), por ejemplo, el café o el algodón en el caso colombiano; y la experiencia que se posee dentro de las empresas para poder procesarlos y adaptarlos a las necesidades de los clientes del exterior.  
@@ -31,7 +31,7 @@
       
       p.mb-5 Aquí te mostramos un ejemplo de una tabla de oferta del mercado de gasolina:
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-6 
           img.my-3(src="@/assets/curso/images/tema3/img_2.svg", alt= "",style="width:400px; display:block; margin:0 auto;") 
 
@@ -105,7 +105,7 @@
       #t_3_2.titulo-segundo
         .h4 3.2 Desplazamientos de la curva de oferta
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-12.col-md-8.col-lg-6.col-xl-6.mb-4
             img.my-3(src="@/assets/curso/images/tema3/img_8.svg", alt= "",style="width:400px; display:block; margin:0 auto;") 
         .col-lg-6.mb-5.mb-lg-0
@@ -158,7 +158,7 @@
       p.mb-3 Para cualquier curva de oferta dada, es probable que la elasticidad de la oferta varíe en toda la curva. Hay tres casos extremos de elasticidad de la oferta: 
 
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-up-left")
       .col-lg-8
         .tarjeta-avatar-b.mb-5
           img(src='@/assets/curso/images/tema3/ico_13.svg' alt='AvatarTop')
@@ -166,15 +166,15 @@
             .p-4
               h4 Títulos valores a la orden:
               p Mediante la figura del endoso, se transfiere la responsabilidad de pago de una persona a otra sin interesar quién es el que porte el documento, se agrega la expresión “a la orden”. Con la firma del endosante se transfiere responsabilidades al endosatario. Dos ejemplos son: la letra de cambio y el pagaré. 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-up-right")
       .col-lg-8
-        .tarjeta-avatar-b.mb-5.margin
-          .tarjeta.color-tarjeta-1.tar-av
-            .p-4.margin-1
+        .tarjeta-avatar-b.mb-5
+          img(src='@/assets/curso/images/tema3/ico_14.svg' alt='AvatarTop')
+          .tarjeta.color-tarjeta-1
+            .p-5
               h4 Títulos al portador:
               p Donde el reconocimiento se hace a quien ostente el título, un ejemplo son los cheques al portador, poco usados por tema de seguridad, pero vigentes aún.
-          img(src='@/assets/curso/images/tema3/ico_14.svg' alt="", style="width:100px; display; margin:auto 0;")
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
       .col-lg-8
         .tarjeta-avatar-b.mb-5
           img(src='@/assets/curso/images/tema3/ico_15.svg', alt="", style="width:100px; display:block; margin:0 auto;")
@@ -290,7 +290,7 @@
 
       h5.mb-5 Ejemplo
 
-      .row.justify-content-center.align-items-center.mb-3
+      .row.justify-content-center.align-items-center.mb-3(data-aos="flip-left")
         .col-10
           .bloque-texto-a.color-custom.p-3.mb-5
             .row.m-4.align-items-center.justify-content-between

@@ -15,7 +15,7 @@
       .video.mb-5
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-5.mb-lg-0
         .bloque-texto-d.color-secundario.p-4
           .bloque-texto-d__texto.mb-2
@@ -30,16 +30,16 @@
         p.mb-3 Las organizaciones deben entender que los procesos de administración de clientes, se deben ver como una función estructural, y que no afecta solo al departamento de Marketing sino a toda la organización. Si las empresas, primero piensan en productos, y luego en el mercado, están destinadas a “elaborar zapatos, y luego ver a quien le quedan.
 
         p.mb-3 En éste sentido, el marketing debe ayudarnos a hacer desarrollos de productos importantes, con diferenciales que sean valorados por un mercado específico, con unas condiciones de precio acorde al beneficio, ubicados en los sitios preferidos por el consumidor, y permitiéndole el acceso con todos los medios de pago.
-        
-      .col-lg-6.mb-5.mb-lg-0
-          img.my-3(src="@/assets/curso/images/tema1/img_1.svg") 
 
+      .col-lg-6.mb-5.mb-lg-0
+        img.my-3(src="@/assets/curso/images/tema1/img_1.svg" alt="", style="width:500px; display:block; margin:0 auto;")
+         
     #t_1_2.titulo-segundo
       .h4 1.2 Función
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-6.mb-5.mb-lg-0
-          img.my-3(src="@/assets/curso/images/tema1/img_2.svg") 
+          img.my-3(src="@/assets/curso/images/tema1/img_2.svg" alt="", style="width:400px; display:block; margin:0 auto;") 
       .col-lg-6.mb-5.mb-lg-0  
 
         p.mb-3 La función principal del marketing se centra en desarrollar productos y servicios que satisfagan las expectativas de los clientes, que posean un valor agregado y diferenciador que permita el crecimiento empresarial. 
@@ -157,17 +157,7 @@
 
 
 
-    br
-    br
-    br
-    br
-    br
-    br
-    br
-    br
-    br
-
-    Muestras
+   
   
 </template>
 

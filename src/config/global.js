@@ -86,7 +86,7 @@ export default {
         ],
       },
       {
-        nombreRuta: 'Tema3',
+        nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
         titulo: 'Fundamentación Textil',
@@ -107,7 +107,7 @@ export default {
         ],
       },
       {
-        nombreRuta: 'Tema4',
+        nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
         titulo: 'Oferta exportable de Colombia',
@@ -134,7 +134,7 @@ export default {
         ],
       },
       {
-        nombreRuta: 'Tema5',
+        nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
         titulo: '¿Qué es planear?',
@@ -167,14 +167,8 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '5.5',
-            titulo: '',
+            titulo: 'Planeación estratégica de mercados.',
             hash: 't_5_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.6',
-            titulo: '',
-            hash: 't_5_6',
           },
         ],
       },
