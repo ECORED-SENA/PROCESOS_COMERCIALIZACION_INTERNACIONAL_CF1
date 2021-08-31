@@ -106,7 +106,60 @@
                   td.text-center(colspan='2').th-2  <b> 39.489.168 </b>
                   td.text-center(colspan='2').th-2  <b> 100,0 </b>
 
-     
+      .row(data-aos="flip-up")
+        .col-12.col-md-8.col-lg-10.col-xl-12.mb-3
+            figure.mb-5
+                img(src="@/assets/curso/images/tema4/img_4.svg", alt="", style="width:1000px; display:block; margin:0 auto;")
+
+        p.mb-3 Evidenciando una diversidad de oportunidades de exportación con las que cuenta Colombia, aprovechando los recursos naturales que posee al igual que los beneficios que obtiene por tener diferentes tratados de libre comercio (TLC) suscritos y vigentes con diversos países. 
+        p.mb-3 Desde 2002 Colombia ha exportado aproximadamente hacia 180 mercados, triplicando sus exportaciones en los últimos 10 años. 
+        p.mb-3 Las exportaciones tradicionales se refieren a los bienes que no sufren transformaciones durante su proceso. De acuerdo con la clasificación del DANE (Departamento Administrativo Nacional de Estadísticas), los productos que corresponden a esta categoría son petróleo, carbón y ferroníquel. 
+        p.mb-3 Sin embargo, la mayoría de los productos nacionales representan las exportaciones no tradicionales las cuales, en términos generales, crean un amplio uso del manual de procedimientos y requieren innovación y desarrollo para lograr un nivel competitivo de talla mundial. 
+        
+      Separador 
+      #t_4_2.titulo-segundo
+          .h4 4.2  Regiones económicas de Colombia
+
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+        .col-lg-6.mb-5.mb-lg-0
+
+          p.mb-3 La división de Colombia por regiones es un tema de gran actualidad desde la expedición de la Constitución Política de Colombia de 1991, ya que esta abrió la posibilidad para la creación de organismos supra-departamentales que tengan como propósito el desarrollo económico y social de los territorios involucrados. 
+          p.mb-3 A su vez, el más reciente Proyecto de Ley Orgánica de Ordenamiento Territorial (PLOOT) presentado por el gobierno, valida la creación de regiones, aunque no hace explícitos los criterios que deben seguirse para conformarlas. 
+          p.mb-3 Pero ¿Para qué sirve saber cuáles son las regiones económicas de Colombia? La respuesta es que conocer en qué medida están integrados los departamentos, ayuda a entender mejor cómo funciona la economía nacional y la economía regional. 
+          p.mb-3 Además, la importancia de definir las regiones económicas también radica en el reconocimiento de los efectos que en el ámbito regional tienen las políticas nacionales y los sucesos internacionales. Saber cómo reaccionan los entes regionales ante situaciones determinadas permite que se puedan tomar mejores decisiones, tanto a nivel departamental como nacional, a su vez, la regionalización sirve para analizar los ciclos y tendencias regionales (Barón, 2002).
+
+        .col-12.col-md-8.col-lg-6.col-xl-6.mb-4
+            img.my-3(src="@/assets/curso/images/tema4/img_5.svg", alt= "",style="width:400px; display:block; margin:0 auto;") 
+
+        Separador 
+        #t_4_3.titulo-segundo
+          .h4 4.3  Mapa oferta exportable por regiones económicas
+        
+        ImagenInfografica.color-secundario.mb-5
+
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/images/tema4/img_6.svg', alt= "",style="width:500px; display:block; margin:0 auto;")
+              
+          .tarjeta.color-acento-botones.p-3(x="48%" y="18%") 
+            .h5.mb-2 Región Caribe
+            p Turismo, huilas, polímeros de propilenos, ferroaleaciones, vehículos para carga, abonos, insecticidas, medicamentos, aceite de palma, polímeros de cloruro y bananas. Y
+
+          .tarjeta.color-acento-botones.p-3(x="48%" y="41%")
+            .h5.mb-2 Región Andina/Central
+            p Tercerización de servicios, manufacturas de alto valor agregado y agroindustria especializada.
+
+          .tarjeta.color-acento-botones.p-3(x="40%" y="47%")
+            .h5.mb-2 Región Pacífico
+            p Manufacturas, agroindustria, logística y biotecnología
+          
+          .tarjeta.color-acento-botones.p-3(x="59%" y="47%")
+            .h5.mb-2 Región Orinoquía
+            p Agricultura, forestal, biocombustibles e hidrocarburos
+
+          .tarjeta.color-acento-botones.p-3(x="56%" y="70%")
+            .h5.mb-2 Región Amazonía
+            p Conservación y agroturismos
 
 
 
