@@ -1,1 +1,1 @@
-module.exports = 'Diagnóstico del mercado.'
+module.exports = 'Diagnóstico del mercado'
