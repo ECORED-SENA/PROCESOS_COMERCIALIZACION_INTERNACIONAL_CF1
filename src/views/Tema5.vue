@@ -111,9 +111,9 @@
       #t_5_5.titulo-segundo
         .h4 5.5  Planeación estratégica de mercados.
 
-      p.mb-3 Es un documento escrito que define y especifica las acciones necesarias para alcanzar los objetivos empresariales. Se realiza para un bien o servicio, una marca o una línea de producto. Contiene los lineamientos a desarrollar por el área de marketing en un periodo futuro y que responde al plan general o corporativo (plan estratégico gerencial de la empresa). 
+      p.mb-3 Es un documento escrito que define y especifica las acciones necesarias para alcanzar los objetivos empresariales. Se realiza para un bien o servicio, una marca o una línea de producto. Contiene los lineamientos a desarrollar por el área de <i>marketing</i> en un periodo futuro y que responde al plan general o corporativo (plan estratégico gerencial de la empresa). 
 
-      p.mb-3 Este incluye dos niveles: el estratégico y el táctico. En el nivel estratégico se toman decisiones para cumplir con el objetivo de marketing, están relacionadas con la definición del mercado meta, posicionamiento, ventaja competitiva y demás decisiones con base en oportunidades de mercadeo. En el nivel táctico, se especifican acciones de marketing para concretar la estrategia de mercadeo, con base en las herramientas de producto, precio, plaza y promoción. (Limas, 2012, p. 246)
+      p.mb-3 Este incluye dos niveles: el estratégico y el táctico. En el nivel estratégico se toman decisiones para cumplir con el objetivo de <i>marketing</i>, están relacionadas con la definición del mercado meta, posicionamiento, ventaja competitiva y demás decisiones con base en oportunidades de mercadeo. En el nivel táctico, se especifican acciones de <i>marketing</i> para concretar la estrategia de mercadeo, con base en las herramientas de producto, precio, plaza y promoción. (Limas, 2012, p. 246)
 
       p.mb-5 Este plan cuenta con la siguiente secuencia: 
 
@@ -244,7 +244,7 @@
                   i.fas.fa-angle-right 
                   | Capacidad competitiva.
 
-        .row(titulo="Objetivos de marketing")
+        .row(titulo="Objetivos de <i>marketing</i>")
           .col-md-6
             br
             br
@@ -253,7 +253,7 @@
               img(src="@/assets/curso/images/tema5/img_10.svg",  alt= "",style="width:350px; display:block; margin:0 auto;")   
           .col-md-6.mb-4.mb-md-0
               
-            p.mb-3 El objetivo del marketing responde a la siguiente pregunta ¿que deseamos lograr como empresa en un periodo determinado?; y así desarrollar lo siguiente: aumentar su participación, Identificar oportunidades, posicionar su imagen, innovar o ser más competitiva.
+            p.mb-3 El objetivo del <i>marketing</i> responde a la siguiente pregunta ¿que deseamos lograr como empresa en un periodo determinado?; y así desarrollar lo siguiente: aumentar su participación, Identificar oportunidades, posicionar su imagen, innovar o ser más competitiva.
 
             p.mb-3 Para formular los objetivos de mercadeo, es importante tener en cuenta lo siguiente: 
 

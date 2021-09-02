@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 Diagnóstico del mercado
+      h1 Sectores de la economía 
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -13,8 +13,7 @@
         .bloque-texto-d.color-secundario.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h3.text-regular Al realizar un análisis de la economía de un país, es posible observar que algunos sectores se desarrollan más que otros; identificar cuáles son los sectores de la economía que contribuyen al crecimiento de esta o los más atrasados, le permiten dimensionar y planear las políticas económicas y sociales de un país. 
-            <br>Conocer el comportamiento de los tres sectores económicos en que se ha dividido la producción:  las fuentes primarias como los recursos naturales, renovables o no renovables; el sector industrial      y el sector de prestación de servicios, son indispensables para examinar el desarrollo económico de un país. 
+            h3.text-regular Al realizar un análisis de la economía de un país, es posible observar que algunos sectores se desarrollan más que otros; identificar cuáles son los sectores de la economía que contribuyen al crecimiento de esta o los más atrasados, le permiten dimensionar y planear las políticas económicas y sociales de un país.<br> Conocer el comportamiento de los tres sectores económicos en que se ha dividido la producción:  las fuentes primarias como los recursos naturales, renovables o no renovables; el sector industrial y el sector de prestación de servicios, son indispensables para examinar el desarrollo económico de un país. 
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .h5.mb-0 Meléndez, 2013
@@ -43,9 +42,7 @@
     Separador
 
     #t_2_2.titulo-segundo
-      .h4 2.2 Distribución de los sectores económicos
-
-    p.mb-5 Para definir la palabra mercado, debemos tener claro desde qué punto de vista se va a contemplar. Económicamente hablando, el mercado se puede definir como el conjunto de compradores y vendedores en un lugar determinado, quienes, a través de sus interacciones, determinan el precio de un bien o servicio y lo adecúan según sean las necesidades y requerimientos. 
+      .h2.mb-3 2.2 Distribución de los sectores económicos
 
     .row
       .col-12.col-md-8.col-lg-10.col-xl-12.mb-5
@@ -123,7 +120,7 @@
       .row.justify-content-center.align-items-center.mb-3
         .col-12.col-md-8.col-lg-8.col-xl-10
           .cajon.color-custom.p-4.mb-4
-            p.mb-0 Por medio del Programa de Transformación Productiva, iniciativa liderada por el Gobierno Nacional, se busca desarrollar sectores de clase mundial dentro de los cuales se encuentran subsectores de servicios tales como software y servicios de Tecnologías de la Información (TI), tercerización de procesos de negocio, energía eléctrica, bienes y servicios conexos. Más del 30% del PIB nacional proviene de actividades de servicios (ProColombia, s.f.).
+            p.mb-0 Por medio del Programa de Transformación Productiva, iniciativa liderada por el Gobierno Nacional, se busca desarrollar sectores de clase mundial dentro de los cuales se encuentran subsectores de servicios tales como <i>software</i> y servicios de Tecnologías de la Información (TI), tercerización de procesos de negocio, energía eléctrica, bienes y servicios conexos. Más del 30% del PIB nacional proviene de actividades de servicios (ProColombia, s.f.).
 
       p.mb-3 Además de los tres sectores clásicos, en los últimos tiempos y gracias al desarrollo tecnológico y gerencial, ha tomado fuerza el concepto de dos sectores adicionales:
 
@@ -169,7 +166,7 @@
       .col-md-3.mb-4.mb-md-0.d-flex
         .tarjeta_Sp-15.p-4
           p.text-center.small.text Construcción, electricidad, gas y vapor, comercio, transporte, almacenaje y comunicaciones. 
-          p.text-center.small.text Servicios financieros, hotel, restaurante y similares. Turismo, actividades deportivas y esparcimiento, software u otros. 
+          p.text-center.small.text Servicios financieros, hotel, restaurante y similares. Turismo, actividades deportivas y esparcimiento, <i>software</i> u otros. 
     
     Separador 
     #t_2_5.titulo-segundo
@@ -1134,7 +1131,7 @@ export default {
       {
         titulo: 'Sector primario o agropecuario',
         texto:
-          'Obtiene el producto de sus actividades directamente de la naturaleza, sin ningún proceso de transformación.La agricultura, la ganadería, la silvicultura, la caza y la pesca',
+          'Obtiene el producto de sus actividades directamente de la naturaleza, sin ningún proceso de transformación. La agricultura, la ganadería, la silvicultura, la caza y la pesca',
         imagen: require('@/assets/curso/images/tema2/img_3_1.png'),
       },
       {
@@ -1146,7 +1143,7 @@ export default {
       {
         titulo: 'Sector terciario o de servicios ',
         texto:
-          'Este sector se enfoca en los intangibles o servicios. <br> Hotelería y turismo, espectáculos, banca, comunicaciones, comercio, software, servicios públicos, salud, tercerización y servicios BPO.',
+          'Este sector se enfoca en los intangibles o servicios. <br> Hotelería y turismo, espectáculos, banca, comunicaciones, comercio, <i>software</i>, servicios públicos, salud, tercerización y servicios BPO.',
         imagen: require('@/assets/curso/images/tema2/img_5_1.png'),
       },
     ],

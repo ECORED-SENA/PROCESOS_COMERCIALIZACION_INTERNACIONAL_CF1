@@ -112,7 +112,7 @@
 
           p.mb-3 Puesto que la curva de oferta del mercado mantiene todo lo demás constante, la curva se desplaza cuando cambia uno de los factores (Mankiw, 2017).
 
-          p.mb-3 Una curva de oferta muestra cómo cambiará la cantidad ofrecida si el precio sube o cae, bajo el supuesto de ceteris paribus, que indica que ningún otro factor económico relevante está cambiando. 
+          p.mb-3 Una curva de oferta muestra cómo cambiará la cantidad ofrecida si el precio sube o cae, bajo el supuesto de <i>ceteris paribus</i>, que indica que ningún otro factor económico relevante está cambiando. 
 
           p.mb-3 Si otros factores relevantes para la oferta cambian, entonces toda la curva de oferta se desplazará. Un desplazamiento de la oferta significa un cambio en la cantidad ofrecida a los diferentes precios.
 

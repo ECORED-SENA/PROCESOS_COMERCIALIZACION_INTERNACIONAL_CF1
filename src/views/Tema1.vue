@@ -20,16 +20,16 @@
         .bloque-texto-d.color-secundario.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h3.text-regular El marketing es una ciencia que después de estudiar el comportamiento de los mercados (personas naturales, personas jurídicas -empresas-, y la sociedad) e identificado el nivel de competencia, permite diseñar productos, capaces de satisfacer necesidades, generar mayor valor, lograr relaciones perdurables.” 
+            h3.text-regular El <i>marketing</i> es una ciencia que después de estudiar el comportamiento de los mercados (personas naturales, personas jurídicas -empresas-, y la sociedad) e identificado el nivel de competencia, permite diseñar productos, capaces de satisfacer necesidades, generar mayor valor, lograr relaciones perdurables.” 
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .h5.mb-0 Prettel, 2016
         br
-        p.mb-3 El marketing es el arte de explorar, crear y entregar valor a un producto o servicio para satisfacer necesidades de un mercado objetivo con fines económicos.
+        p.mb-3 El <i>marketing</i> es el arte de explorar, crear y entregar valor a un producto o servicio para satisfacer necesidades de un mercado objetivo con fines económicos.
 
-        p.mb-3 Las organizaciones deben entender que los procesos de administración de clientes, se deben ver como una función estructural, y que no afecta solo al departamento de Marketing sino a toda la organización. Si las empresas, primero piensan en productos, y luego en el mercado, están destinadas a “elaborar zapatos, y luego ver a quien le quedan.
+        p.mb-3 Las organizaciones deben entender que los procesos de administración de clientes, se deben ver como una función estructural, y que no afecta solo al departamento de <i>Marketing</i> sino a toda la organización. Si las empresas, primero piensan en productos, y luego en el mercado, están destinadas a "elaborar zapatos, y luego ver a quien le quedan."
 
-        p.mb-3 En éste sentido, el marketing debe ayudarnos a hacer desarrollos de productos importantes, con diferenciales que sean valorados por un mercado específico, con unas condiciones de precio acorde al beneficio, ubicados en los sitios preferidos por el consumidor, y permitiéndole el acceso con todos los medios de pago.
+        p.mb-3 En este sentido, el <i>marketing</i> debe ayudarnos a hacer desarrollos de productos importantes, con diferenciales que sean valorados por un mercado específico, con unas condiciones de precio acorde al beneficio, ubicados en los sitios preferidos por el consumidor, y permitiéndole el acceso con todos los medios de pago.
 
       .col-lg-6.mb-5.mb-lg-0
         img.my-3(src="@/assets/curso/images/tema1/img_1.svg" alt="", style="width:500px; display:block; margin:0 auto;")
@@ -42,9 +42,9 @@
           img.my-3(src="@/assets/curso/images/tema1/img_2.svg" alt="", style="width:400px; display:block; margin:0 auto;") 
       .col-lg-6.mb-5.mb-lg-0  
 
-        p.mb-3 La función principal del marketing se centra en desarrollar productos y servicios que satisfagan las expectativas de los clientes, que posean un valor agregado y diferenciador que permita el crecimiento empresarial. 
+        p.mb-3 La función principal del <i>marketing</i> se centra en desarrollar productos y servicios que satisfagan las expectativas de los clientes, que posean un valor agregado y diferenciador que permita el crecimiento empresarial. 
 
-        p.mb-3 Así mismo, desde la función empresarial del marketing, este se encargará de:
+        p.mb-3 Así mismo, desde la función empresarial del <i>marketing</i>, este se encargará de:
 
         .col-sm.mb-5.mb-sm-0
    
@@ -54,7 +54,7 @@
               | Recolectar y procesar la información sobre las necesidades y deseos de los consumidores (investigación de mercados, procesar esos deseos y proponer productos y servicios para satisfacerlos en cooperación con el área de producción).
             li 
               i.fas.fa-angle-right
-              | Fijar un precio adecuado a las posibilidades de los consumidores (coordinado con -finanzas y contabilidad).
+              | Fijar un precio adecuado a las posibilidades de los consumidores (coordinado con finanzas y contabilidad).
             li 
               i.fas.fa-angle-right
               | Organizar su puesta física en el mercado (distribución).
@@ -66,6 +66,9 @@
     #t_1_3.titulo-segundo
       .h4   1.3 ¿Qué es un mercado?
     p.mb-5 Para definir la palabra mercado, debemos tener claro desde qué punto de vista se va a contemplar. Económicamente hablando, el mercado se puede definir como el conjunto de compradores y vendedores en un lugar determinado, quienes, a través de sus interacciones, determinan el precio de un bien o servicio y lo adecúan según sean las necesidades y requerimientos. 
+
+    #t_1_4.titulo-segundo
+      .h4 1.4 Clasificación de los mercados
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.mb-5.mb-lg-0
@@ -131,7 +134,7 @@
             .col-md-3.mb-4.mb-md-0.d-flex
               .tarjeta_Sp-10.p-4
                 h6.text-center.mb-2 Mercados real
-                p.text-center.mb-3.small.text jemplo serían todos aquellos consumidores que  compran un jabón líquido. En esta primera clasificación es importante notar que no todos aquellos consumidores tienen una necesidad y las características especificas para comprar un producto serán consumidores reales, pero si serán consumidores disponibles. . 
+                p.text-center.mb-3.small.text Son todos aquellos consumidores del mercado disponible que compra un producto un producto especifico El ejemplo serían todos aquellos consumidores que  compran un jabón líquido. En esta primera clasificación es importante notar que no todos aquellos consumidores tienen una necesidad y las características especificas para comprar un producto serán consumidores reales, pero si serán consumidores disponibles.
     
             .col-md-3.mb-4.mb-md-0.d-flex
               .tarjeta_Sp-11.p-4

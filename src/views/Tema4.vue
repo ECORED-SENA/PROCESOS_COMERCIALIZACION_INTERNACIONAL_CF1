@@ -35,7 +35,7 @@
           ul.lista-ul.p-4.mb-5
             li 
               i.fas.fa-angle-right
-              | Ganar competitividad mediante la adquisición de tecnología, Know how y capacidad gerencial obtenidas en el mercado.
+              | Ganar competitividad mediante la adquisición de tecnología, <i>Know how</i> y capacidad gerencial obtenidas en el mercado.
             li 
               i.fas.fa-angle-right
               |  Hacer alianzas estratégicas con empresas extranjeras para reducir costos, mejorar la eficiencia y diversificar productos.

@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Diagnóstico del mercado',
+    componenteFormativo: 'La oferta exportable de bienes y servicios',
     descripcionCurso:
-      'Las empresas colombianas se enfrentan a diferentes cambios y retos que afectan directa e indirectamente la dinámica de sus operaciones, en el momento en el cual desean incursionar en mercados internacionales.<br> Estos retos hacen que las mismas busquen soluciones basadas en el estudio y conocimiento de los diferentes sectores de la economía nacional para lograr localizar, en primer lugar, la oferta exportable y posteriormente, las posibilidades de éxito o fracaso a nivel internacional.<br> Así mismo, es conveniente pensar en la adaptación de los bienes y servicios según el perfil y necesidades del mercado potencial, sin dejar a un lado las estrategias de marketing digital que son indispensables en el momento de realizar la comercialización internacional y las ventajas que los acuerdos comerciales otorgan a los países participantes.',
+      'Las empresas colombianas se enfrentan a diferentes cambios y retos que afectan directa e indirectamente la dinámica de sus operaciones, en el momento en el cual desean incursionar en mercados internacionales.<br> Estos retos hacen que las mismas busquen soluciones basadas en el estudio y conocimiento de los diferentes sectores de la economía nacional para lograr localizar, en primer lugar, la oferta exportable y posteriormente, las posibilidades de éxito o fracaso a nivel internacional',
     imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
   },
@@ -44,13 +44,19 @@ export default {
             titulo: '¿Qué es un mercado?',
             hash: 't_1_3',
           },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo: 'Clasificación de los mercados',
+            hash: 't_1_4',
+          },
         ],
       },
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Diagnóstico del mercado',
+        titulo: 'Sectores de la economía',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -89,20 +95,26 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Fundamentación Textil',
+        titulo: 'La oferta exportable',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: '¿Qué es la Oferta Exportable?',
+            titulo: 'Introducción al mercado internacional.',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Desplazamientos de la curva de oferta',
+            titulo: '¿Qué es la oferta exportable?',
             hash: 't_3_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.3',
+            titulo: 'Desplazamientos de la curva de oferta',
+            hash: 't_3_3',
           },
         ],
       },
@@ -137,25 +149,25 @@ export default {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: '¿Qué es planear?',
+        titulo: 'La planeación estratégica',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '5.1',
-            titulo: 'Ventajas de planear',
+            titulo: '¿Qué es planear?',
             hash: 't_5_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '5.2',
-            titulo: 'Partes del proceso de planeación',
+            titulo: 'Ventajas de planear',
             hash: 't_5_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '5.3',
-            titulo: 'Clasificación de los hilos',
+            titulo: 'Partes del proceso de planeación',
             hash: 't_5_3',
           },
           {
