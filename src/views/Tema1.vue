@@ -145,8 +145,7 @@
               .tarjeta_Sp-12.p-4
                 h6.text-center.mb-2 Mercados meta
                 p.text-center.mb-3.small.text  Puede definirse como el conjunto de consumidores que pertenecen al mercado disponible, que pueden formar parte del mercado real y potencial; y al cual se dirigen todos los esfuerzos y acciones mercadológicos de la empresa, con la finalidad de que todos logren convertirse en consumidores reales del producto.  
-    
-    Muestras
+
 
         
 
