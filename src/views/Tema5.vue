@@ -80,7 +80,8 @@
       h5.mb-3 Tipos de planes en una empresa
 
       p.mb-5 En una empresa, existen diferentes tipos y niveles de planes, todos ellos interrelacionados. Estos son de tres tipos: estratégicos, tácticos y operacionales. Véase figura 4.1. a continuación.
-
+      .col-md-10
+          p.BorTit Figura 4.1
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10.mb-5.mb-lg-0
           img.my-3(src="@/assets/curso/images/tema5/img_4.svg") 
@@ -187,7 +188,7 @@
             br
             br
             figure
-              img(src="@/assets/curso/images/tema5/img_9.svg",  alt= "",style="width:350px; display:block; margin:0 auto;")   
+              img(src="@/assets/curso/images/tema5/img_13.svg",  alt= "",style="width:350px; display:block; margin:0 auto;")   
           .col-md-6.mb-4.mb-md-0
               
               p.mb-3 Inicialmente se deben identificar los factores críticos de éxito del sector al que pertenece la empresa, los cuales deben ser las variables más importantes, después se deben identificar los factores que afectan la empresa desde diferentes enfoques como:

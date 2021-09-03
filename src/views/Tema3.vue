@@ -277,7 +277,7 @@
         .col-8
           img(src="@/assets/curso/images/tema3/ecu_2.svg", alt= "",style="width:950px; display:block; margin:0 auto;")
           
-      p.mb-5 De la misma forma, se calcula el Cambio Porcentual en el Precio (CPP):
+      p.mb-5 <b>De la misma forma, se calcula el Cambio Porcentual en el Precio (CPP):</b>
 
       .row.mb-5
         .col-8
