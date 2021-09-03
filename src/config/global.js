@@ -221,10 +221,15 @@ export default {
   },
   referencias: [
     {
+      referencia: '',
+      link: '',
+    },
+    {
       referencia: 'ANDI. (2016). ANDI MÁS PAÍS.',
       link:
         'http://www.andi.com.co/Home/Pagina/3-desarrollo-economico-y-competitividad',
     },
+
     {
       referencia: 'Banco de la República. (2005). Sectores económicos.',
       link: 'http://www.banrepcultural.org  ',
@@ -251,7 +256,7 @@ export default {
     },
     {
       referencia: 'Colombian Trade. (s.f.).Colombina. (2008). Colombina.',
-      link: 'www.colombina.com',
+      link: 'https://www.colombina.com',
     },
     {
       referencia: 'Corvo, H. S. (s.f.). Lifeder',
@@ -269,7 +274,7 @@ export default {
     },
     {
       referencia: 'Economics Online. (2018). Price elasticity of supply',
-      link: 'https:// economicsonline.co.uk ',
+      link: 'https://economicsonline.co.uk ',
     },
     {
       referencia:
@@ -360,7 +365,7 @@ export default {
     },
     {
       referencia: 'Pettinge, T. (2016). economicshelp.org',
-      link: 'https:// economicshelp.org',
+      link: 'https://economicshelp.org',
     },
     {
       referencia:
@@ -392,7 +397,7 @@ export default {
     },
     {
       referencia:
-        'Tejvan Pettinger (2016). Price Elasticity of Supply. Economics Help ',
+        'Tejvan Pettinger (2016). Price Elasticity of Supply. Economics Help',
       link: 'https://conomicshelp.org',
     },
     {
@@ -595,7 +600,7 @@ export default {
       texto:
         'Salvador Lledó Balaguer, (2013), Importancia de la dirección estratégica en la empresa.',
       tipo: 'Articulo',
-      descarga:
+      link:
         'https://www.3ciencias.com/wp-content/uploads/2013/04/4.Importancia-de-la-direcci%C3%B3n-estrat%C3%A9gica-en-la-empresa.pdf',
     },
     {
@@ -617,7 +622,7 @@ export default {
   creditos: {
     liderEquipo: [
       {
-        nombre: 'Ingry Dayanna Bonilla Monzon',
+        nombre: 'Maria Camila Garcia Santamaria',
         cargo: 'Líder del equipo',
         centro: 'Dirección General',
       },
@@ -627,40 +632,41 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Gloria Matilde Lee Mejia',
-        cargo: 'Responsable Equipo',
-        centro: 'Centro de comercio y servicios – Regional Tolima',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Kateryn Valderrama',
-        cargo: 'Experta Técnica',
-        centro: 'Centro de Comercio y Servicios - Regional Distrito Capital',
+        cargo: 'Experta técnica',
+        centro: 'Centro de comercio y servicios – Regional Tolima',
       },
       {
         nombre: 'José Gregorio Ramírez',
-        cargo: 'Experto tematica',
-        centro: 'Centro de Comercio y Servicios- Regional Distrito Capital',
+        cargo: 'Experto técnico',
+        centro: 'Centro de comercio y servicios – Regional Tolima',
       },
       {
-        nombre: 'Bertha Paola Bejarano Avila',
-        cargo: 'Diseñador Instruccional ',
+        nombre: 'Bertha Paola Bejarano Ávila',
+        cargo: 'Diseñador instruccional',
         centro:
-          'Centro para La Industria de la Comunicación Gráfica - Regional Distrito Capital',
+          'Centro para La Industria de la Comunicación Gráfica - Distrito Capital',
+      },
+      {
+        nombre: 'Liliana Victoria Morales Gualdrón',
+        cargo: 'Evaluador instruccional',
+        centro:
+          'Centro para La Industria de la Comunicación Gráfica - Distrito Capital',
       },
       {
         nombre: 'Liliana Victoria Morales Gualdron',
         cargo: 'Evaluador instruccional',
         centro:
-          'Centro para La Industria de la Comunicación Gráfica - Regional Distrito Capital',
+          'Centro para La Industria de la Comunicación Gráfica - Distrito Capital',
       },
       {
-        nombre: 'Julieth Paola Vital Lópeza',
-        cargo: 'Revisora de estilo',
+        nombre: 'Julieth Paola Vital',
+        cargo: 'Corrector de estilo',
         centro:
-          'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
+          'Centro para la Industria y la Comunicación Gráfica – Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -668,48 +674,36 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Carlos Julián Ramírez Benítez',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Lady Adriana Ariza Luque ',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: ['Luis Zenen Arévalo Mantilla'],
+        nombre: 'Luis Zenen Arévalo Mantilla',
         cargo: 'Diseño web',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Andrés Mauricio Santaella Ochoa',
-        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Gustavo Adolfo Marún Suárez',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
         nombre: 'Nombre',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [

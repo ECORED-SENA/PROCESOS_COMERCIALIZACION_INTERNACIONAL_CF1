@@ -69,7 +69,7 @@
         .bloque-texto-d.color-secundario.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h3.text-regular El dominio del sector primario, tanto si se reduce al sector agrario como si se considera la totalidad de los sectores extractivos, suele ser una característica definitoria de la economía de los países subdesarrollados
+            h3.text-regular <b>El dominio del sector primario, tanto si se reduce al sector agrario como si se considera la totalidad de los sectores extractivos, suele ser una característica definitoria de la economía de los países subdesarrollados</b>
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .h5.mb-0 Rouco, 1997

@@ -5,11 +5,11 @@
     .titulo-principal
       .titulo-principal__numero
         span 3
-      h1 Sectores de la economía 
+      h1 La oferta exportable 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-5.mb-lg-0
-
+        h5.mb-3 Introducción al mercadeo internacional
         p.mb-3 Actualmente, el mercadeo internacional, es la herramienta más útil para las empresas en su deseo de aprovechar las oportunidades que se encuentran a nivel mundial, permitiendo valorar los recursos propios (nacionales), por ejemplo, el café o el algodón en el caso colombiano; y la experiencia que se posee dentro de las empresas para poder procesarlos y adaptarlos a las necesidades de los clientes del exterior.  
 
         p.mb-5 En este sentido, el mercadeo internacional se puede definir como la forma en que una empresa extiende sus esfuerzos para incluir mercados en el extranjero, exportando sus productos y servicios y adaptándose a las condiciones de la economía global.
@@ -22,8 +22,8 @@
         .video.mb-5
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       Separador 
-      #t_3_1.titulo-segundo
-        .h4 3.1 ¿Qué es la Oferta Exportable?
+      #t_3_2.titulo-segundo
+        .h4 3.2 ¿Qué es la Oferta Exportable?
       
       p.mb-3 La oferta es definida como “la cantidad ofrecida de cualquier bien o servicio”, es la cantidad que los vendedores quieren y pueden vender (Mankiw, 2017).
 
@@ -38,7 +38,7 @@
           .bloque-texto-d.color-secundario.p-4
             .bloque-texto-d__texto.mb-2
               i.fas.fa-quote-left
-              h3.text-regular la cantidad ofrecida de cualquier bien o servicio”, es la cantidad que los vendedores quieren y pueden vender
+              h3.text-regular <b> La cantidad ofrecida de cualquier bien o servicio, es la cantidad que los vendedores quieren y pueden vender </b>
               i.fas.fa-quote-right
             .bloque-texto-d__autor 
               .h5.mb-0 Mankiw, 2017
@@ -102,8 +102,8 @@
             .bloque-texto-d__autor 
               .h5.mb-0 Mankiw, 2017
       Separador 
-      #t_3_2.titulo-segundo
-        .h4 3.2 Desplazamientos de la curva de oferta
+      #t_3_3.titulo-segundo
+        .h4 3.3 Desplazamientos de la curva de oferta
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-12.col-md-8.col-lg-6.col-xl-6.mb-4
@@ -117,9 +117,6 @@
           p.mb-3 Si otros factores relevantes para la oferta cambian, entonces toda la curva de oferta se desplazará. Un desplazamiento de la oferta significa un cambio en la cantidad ofrecida a los diferentes precios.
 
           p.mb-3 Digamos que tenemos una curva de oferta inicial para cierto automóvil. Ahora imagina que aumenta el precio del acero —un material importante de la fabricación de automóviles— de manera que fabricar un automóvil se vuelve más caro.
- 
-
-          p.mb-5 En este sentido, el mercadeo internacional se puede definir como la forma en que una empresa extiende sus esfuerzos para incluir mercados en el extranjero, exportando sus productos y servicios y adaptándose a las condiciones de la economía global.
 
       p.mb-5 Desplazamiento de la oferta: el ejemplo de un automóvil.
 
@@ -164,24 +161,24 @@
           img(src='@/assets/curso/images/tema3/ico_13.svg' alt='AvatarTop')
           .tarjeta.color-tarjeta-1
             .p-4
-              h4 Títulos valores a la orden:
-              p Mediante la figura del endoso, se transfiere la responsabilidad de pago de una persona a otra sin interesar quién es el que porte el documento, se agrega la expresión “a la orden”. Con la firma del endosante se transfiere responsabilidades al endosatario. Dos ejemplos son: la letra de cambio y el pagaré. 
+              h4 Perfectamente elástica
+              p Un cambio porcentual de casi cero en el precio produce un cambio porcentual muy grande en la cantidad ofertada.
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-up-right")
       .col-lg-8
         .tarjeta-avatar-b.mb-5
           img(src='@/assets/curso/images/tema3/ico_14.svg' alt='AvatarTop')
           .tarjeta.color-tarjeta-1
-            .p-5
-              h4 Títulos al portador:
-              p Donde el reconocimiento se hace a quien ostente el título, un ejemplo son los cheques al portador, poco usados por tema de seguridad, pero vigentes aún.
+            .p-4
+              h4 Perfectamente inelástica
+              p Solo se puede ofertar una cantidad, independientemente del precio. Una elasticidad de cero indica que la cantidad que se ofrece no responde ante un cambio de precio, la cantidad ofertada es fija. La oferta de lotes de terreno frente a la playa es perfectamente inelástica
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
       .col-lg-8
         .tarjeta-avatar-b.mb-5
           img(src='@/assets/curso/images/tema3/ico_15.svg', alt="", style="width:100px; display:block; margin:0 auto;")
           .tarjeta.color-tarjeta-1
             .p-4
-              h4 Títulos valores nominativos:
-              p  Estos títulos son expedidos a favor de una determinada persona. En el Código de Comercio se determina que la persona que gira, o transfiere el título debe realizar la inscripción del tenedor en el registro que lleva el creador del título (Secretaría del Senado, 2020. Art. 648).
+              h4 Elasticidad unitaria
+              p El cambio porcentual en la cantidad que se ofrece es igual al cambio porcentual en el precio. La oferta de pescado tiene elasticidad unitaria.
           
       p.mb-5 Gráficamente, se muestra como una curva lineal que parte desde el origen:  
 
@@ -189,7 +186,7 @@
         .col-12.col-md-8.col-lg-10.col-xl-10.mb-4
           img.my-3(src="@/assets/curso/images/tema3/img_6.svg", alt= "",style="width:700px; display:block; margin:0 auto;") 
 
-      h5.mb-5 Factores que influyen 
+      h4.mb-5 Factores que influyen 
 
       AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
         .row(titulo="Complejidad de la producción:")
@@ -258,7 +255,7 @@
             figure
               img(src="@/assets/curso/images/tema3/ico_18.svg", alt= "",style="width:150px; display:block; margin:0 auto;")
 
-      p.mb-3 ¿Cómo se calcula la elasticidad de la oferta?
+      h4.mb-3 ¿Cómo se calcula la elasticidad de la oferta?
       .row
         figure.mb-5
         .video.mb-5

@@ -5,12 +5,12 @@
     .titulo-principal
       .titulo-principal__numero
         span 4
-      h1 Oferta exportable de Colombia 
+      h1 Oferta exportable de Colombia
 
     #t_4_1.titulo-segundo
-        .h4 4.1  Introducción
+      .h4 4.1  Introducción
     
-    p.mb-5 Antes de hablar de la oferta exportable de Colombia es necesario entender el término exportación, el cual se define como el proceso de comercializar un bien o servicio en territorio extranjero, es decir, la acción de vender productos y servicios en otros paises. 
+    p.mb-3 Antes de hablar de la oferta exportable de Colombia es necesario entender el término exportación, el cual se define como el proceso de comercializar un bien o servicio en territorio extranjero, es decir, la acción de vender productos y servicios en otros paises. 
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-5.mb-lg-0
@@ -116,7 +116,14 @@
         p.mb-3 Las exportaciones tradicionales se refieren a los bienes que no sufren transformaciones durante su proceso. De acuerdo con la clasificación del DANE (Departamento Administrativo Nacional de Estadísticas), los productos que corresponden a esta categoría son petróleo, carbón y ferroníquel. 
         p.mb-3 Sin embargo, la mayoría de los productos nacionales representan las exportaciones no tradicionales las cuales, en términos generales, crean un amplio uso del manual de procedimientos y requieren innovación y desarrollo para lograr un nivel competitivo de talla mundial. 
         
+      .row.justify-content-center.align-items-center.mb-3 
+        .col-12.col-md-8.col-lg-8.col-xl-10.mb-4
+          img.my-3(src="@/assets/curso/images/tema4/img_7.jpg", alt= "",style="width:900px; display:block; margin:0 auto;") 
+
+        p Colombia tiene una oferta exportable diversa que cobija productos post- industriales, manufacturas, rendas y servicios, con presencia en los cinco continentes (PROCOLOMBIA, 2011).
+
       Separador 
+
       #t_4_2.titulo-segundo
           .h4 4.2  Regiones económicas de Colombia
 
@@ -143,7 +150,7 @@
               
           .tarjeta.color-acento-botones.p-3(x="48%" y="18%") 
             .h5.mb-2 Región Caribe
-            p Turismo, huilas, polímeros de propilenos, ferroaleaciones, vehículos para carga, abonos, insecticidas, medicamentos, aceite de palma, polímeros de cloruro y bananas. Y
+            p Turismo, hullas, polímeros de propilenos, ferroaleaciones, vehículos para carga, abonos, insecticidas, medicamentos, aceite de palma, polímeros de cloruro y bananas. 
 
           .tarjeta.color-acento-botones.p-3(x="48%" y="41%")
             .h5.mb-2 Región Andina/Central

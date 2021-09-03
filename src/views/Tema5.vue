@@ -7,6 +7,7 @@
         span 5
       h1 La planeación estratégica 
 
+    h4 ¿Qué es planear? 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-5.mb-lg-0
         .bloque-texto-d.color-secundario.p-4
@@ -56,11 +57,10 @@
       Separador 
       #t_5_3.titulo-segundo
         .h4 5.3 Partes del proceso de planeación
-      .row.mb-3(data-aos="fade-right")
-        .col-lg-6.mb-5.mb-lg-0 
-            img.my-3(src="@/assets/curso/images/tema5/img_3.svg", alt="", style="width:500px; display:block; margin:0 auto;")
-        .col-lg-6.mb-5.mb-lg-0
-            p.mb-3 Es la etapa que forma parte del proceso administrativo mediante la cual se establecen directrices, se definen estrategias y se seleccionan las alternativas y rutas de acción, en función de objetivos y metas generales económicas, sociales y políticas, tomando en consideración los recursos reales y potenciales que permitan establecer un marco de referencia necesario para concretar programas y acciones específicas en tiempo y espacio, logrando una predicción del futuro para generar planes que puedan garantizar el éxito (Rojas y Medina, 2011).
+
+      .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
+        .col-lg-10.mb-5.mb-lg-0 
+            img.my-3(src="@/assets/curso/images/tema5/img_3.svg", alt="", style="width:800px; display:block; margin:0 auto;")
 
       Separador
       #t_5_4.titulo-segundo
@@ -96,11 +96,13 @@
             .bloque-texto-d__autor 
               .h5.mb-0 Limas, 2012
 
-      h5.mb-3 Planeación táctica 
+      h4.mb-3 Planeación táctica 
 
       p.mb-3 Se refiere a la planeación de un producto o de publicidad, los cuales los hacen y coordinan los directivos de nivel medio para orientarla hacia la distribución de los recursos, además se dan a mediano plazo (entre 1 y 5 años).
 
-      h5.mb-3 Planeación operativa 
+      h4.mb-3 Planeación operativa 
+
+      p.mb-3 Es a corto plazo (menos de 1 año) y consiste en la formulación y asignación de actividades más desarrolladas que deben realizar los últimos niveles jerárquicos de la organización. Se rigen por los parámetros establecidos por la planeación táctica.
 
       p.mb-5 Para evitar riesgos en la toma de decisiones al ingresar a mercados internacionales se puede tener en cuenta lo siguiente: 
 
@@ -109,7 +111,7 @@
 
       Separador
       #t_5_5.titulo-segundo
-        .h4 5.5  Planeación estratégica de mercados.
+        .h4 5.5  Planeación estratégica de mercados
 
       p.mb-3 Es un documento escrito que define y especifica las acciones necesarias para alcanzar los objetivos empresariales. Se realiza para un bien o servicio, una marca o una línea de producto. Contiene los lineamientos a desarrollar por el área de <i>marketing</i> en un periodo futuro y que responde al plan general o corporativo (plan estratégico gerencial de la empresa). 
 
@@ -175,25 +177,41 @@
             figure
               img(src="@/assets/curso/images/tema5/img_8.svg",  alt= "",style="width:350px; display:block; margin:0 auto;")       
           .col-md-6.mb-4.mb-md-0
-              
+              br
+              br
+              br
               p.mb-3 Es el insumo para realizar el plan de mercadeo, por lo que es el primer paso de la planeación, al momento de hacerlo, se debe efectuar un análisis interno y externo de la organización. 
+
+        .row(titulo="Análisis externo")
+          .col-md-6
+            br
+            br
+            figure
+              img(src="@/assets/curso/images/tema5/img_9.svg",  alt= "",style="width:350px; display:block; margin:0 auto;")   
+          .col-md-6.mb-4.mb-md-0
+              
+              p.mb-3 Inicialmente se deben identificar los factores críticos de éxito del sector al que pertenece la empresa, los cuales deben ser las variables más importantes, después se deben identificar los factores que afectan la empresa desde diferentes enfoques como:
 
               ul.lista-ul.p-4.mb-5
                 li 
                   i.fas.fa-angle-right
-                  | Económico, financiero y monetario (variables económicas, entes de control, entidades y servicios financieros 
+                  | Económico, financiero y monetario (variables económicas, entes de control, entidades y servicios financieros
                 li 
                   i.fas.fa-angle-right
-                  |  Social, cultural y demográfico. 
+                  |  Social, cultural y demográfico.
                 li 
                   i.fas.fa-angle-right
-                  | Gubernamental, político y legal
+                  |  Gubernamental, político y legal.
                 li
                   i.fas.fa-angle-right
-                  |  Infraestructura (obras físicas, transporte y servicios públicos), geográficos y ecológicos
+                  |	Competitivo: competencia actual y nueva, productos (sustitutos y complementarios).
+                li 
+                  i.fas.fa-angle-right 
+                  | Infraestructura (obras físicas, transporte y servicios públicos), geográficos y ecológicos
                 li 
                   i.fas.fa-angle-right
-                  |  Tecnológico: equipos, maquinaria, nuevos materiales y Tecnologías de la Información y Comunicación.
+                  | Tecnológico: equipos, maquinaria, nuevos materiales y Tecnologías de la Información y Comunicación.
+
                      
         .row(titulo="Análisis interno")
           .col-md-6
@@ -244,7 +262,7 @@
                   i.fas.fa-angle-right 
                   | Capacidad competitiva.
 
-        .row(titulo="Objetivos de <i>marketing</i>")
+        .row(titulo="Objetivos de marketing")
           .col-md-6
             br
             br
@@ -315,19 +333,19 @@ export default {
   data: () => ({
     datosLineaTiempoB: [
       {
-        titulo: 'Capacidad física:',
+        titulo: 'Capacidad física',
         texto:
           'Corresponde a lo que la empresa está en capacidad de producir, debido a que la capacidad exportable corresponde al excedente que queda después de atender el mercado interno.',
         icono: require('@/assets/curso/images/tema5/ico_4.svg'),
       },
       {
-        titulo: 'Capacidad administrativa:',
+        titulo: 'Capacidad administrativa',
         texto:
           'Es el talento humano encargado de lo relacionado a las operaciones del comercio internacional de la empresa.',
         icono: require('@/assets/curso/images/tema5/ico_5.svg'),
       },
       {
-        titulo: 'Capacidad económica:',
+        titulo: 'Capacidad económica',
         texto:
           'Es el presupuesto asignado a la operación de comercio internacional que pueda responder a los requerimientos de la operación y a las contingencias que se puedan presentar durante esta.',
         icono: require('@/assets/curso/images/tema5/ico_6.svg'),
@@ -339,7 +357,7 @@ export default {
         icono: require('@/assets/curso/images/tema5/ico_7.svg'),
       },
       {
-        titulo: 'Preselección de mercados:',
+        titulo: 'Preselección de mercados',
         texto:
           'Evaluar el riesgo y las condiciones económicas del país al que desea ingresar. ',
         icono: require('@/assets/curso/images/tema5/ico_8.svg'),
