@@ -104,7 +104,7 @@
                 p.text-center.small.text Se compone de todos los compradores que buscan suplir una necesidad por medio de la adquisición de un bien y/o servicio de consumo. 
 
             .col-md-3.mb-3.mb-md-0.d-flex
-              .tarjeta_Sp-5.p-4
+              .tarjeta_Sp-5.p-5
                 h6.text-center.mb-2 Mercado de servicios
                 p.text-center.small.text  Todas aquellas empresas que realizan la transacción de intangibles, es decir, de los servicios que suplen las necesidades de los clientes potenciales. Ejemplo, las empresas de telefonía, educación, transporte, servicios públicos, entre otras. 
           
@@ -139,7 +139,7 @@
             .col-md-3.mb-4.mb-md-0.d-flex
               .tarjeta_Sp-11.p-4
                 h6.text-center.mb-2 Mercados potencial
-                p.text-center.mb-3.small.text  Es el conjunto de consumidores que  no hacen parte del mercado real, pero en ocasiones sí pueden tener parte del mercado disponible, Este grupo no consume el producto específico, debido a que no tienen las características del segmento o porque consume otro producto. Por ejemplo: los consumidores que cumplen con las características pero compran el jabón en pasta. 
+                p.text-center.mb-3.small.text  Es el conjunto de consumidores que  no hacen parte del mercado real, pero en ocasiones sí pueden tener parte del mercado disponible. Este grupo no consume el producto específico, debido a que no tienen las características del segmento o porque consume otro producto. Por ejemplo: los consumidores que cumplen con las características pero compran el jabón en pasta. 
 
             .col-md-3.mb-4.mb-md-0.d-flex
               .tarjeta_Sp-12.p-4

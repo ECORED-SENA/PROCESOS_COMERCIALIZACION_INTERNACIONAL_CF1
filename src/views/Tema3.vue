@@ -9,7 +9,8 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-5.mb-lg-0
-        h5.mb-3 Introducción al mercadeo internacional
+        #t_3_2.titulo-segundo
+         .h4 3.1 Introducción al mercadeo internacional
         p.mb-3 Actualmente, el mercadeo internacional, es la herramienta más útil para las empresas en su deseo de aprovechar las oportunidades que se encuentran a nivel mundial, permitiendo valorar los recursos propios (nacionales), por ejemplo, el café o el algodón en el caso colombiano; y la experiencia que se posee dentro de las empresas para poder procesarlos y adaptarlos a las necesidades de los clientes del exterior.  
 
         p.mb-5 En este sentido, el mercadeo internacional se puede definir como la forma en que una empresa extiende sus esfuerzos para incluir mercados en el extranjero, exportando sus productos y servicios y adaptándose a las condiciones de la economía global.
@@ -23,7 +24,7 @@
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       Separador 
       #t_3_2.titulo-segundo
-        .h4 3.2 ¿Qué es la Oferta Exportable?
+        .h4 3.2 ¿Qué es la Oferta exportable?
       
       p.mb-3 La oferta es definida como “la cantidad ofrecida de cualquier bien o servicio”, es la cantidad que los vendedores quieren y pueden vender (Mankiw, 2017).
 
@@ -123,6 +124,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-md-8.col-lg-10.col-xl-10.mb-4
           img.my-3(src="@/assets/curso/images/tema3/img_3.svg", alt= "",style="width:700px; display:block; margin:0 auto;") 
+        figcaption.mb-5 Fuente:  (Khan Academy, 2015)
 
       p.mb-3  Como resultado de los costos de fabricación más elevados, la curva de oferta se desplaza a la izquierda, hacia O1. Las empresas ganarán menos por automóvil, así que estarán menos motivadas y fabricarán menos a cualquier precio, lo cual disminuirá la cantidad ofrecida.
 
@@ -247,7 +249,7 @@
 
               p.mb-3 Cuanto mayor sea la capacidad adicional de producción, las empresas pueden responder más rápido a los cambios de precios. Por tanto, cuanto más elástica sea la oferta, mejor será el producto o servicio.
 
-              pLa oferta de productos y servicios es más elástica durante una recesión, cuando hay disponible una gran cantidad de mano de obra y recursos de capital (Riley, 2018).
+              p La oferta de productos y servicios es más elástica durante una recesión, cuando hay disponible una gran cantidad de mano de obra y recursos de capital (Riley, 2018).
           .col-md-6
             br
             br

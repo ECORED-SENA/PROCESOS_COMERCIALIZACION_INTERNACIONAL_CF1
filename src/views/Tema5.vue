@@ -7,7 +7,8 @@
         span 5
       h1 La planeación estratégica 
 
-    h4 ¿Qué es planear? 
+    #t_5_2.titulo-segundo
+        .h4 5.1 ¿Qué es planear? 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-5.mb-lg-0
         .bloque-texto-d.color-secundario.p-4
@@ -105,6 +106,8 @@
 
       p.mb-3 Es a corto plazo (menos de 1 año) y consiste en la formulación y asignación de actividades más desarrolladas que deben realizar los últimos niveles jerárquicos de la organización. Se rigen por los parámetros establecidos por la planeación táctica.
 
+      h4.mb-3 Planeación estratégica de penetración en mercados internacionales
+      
       p.mb-5 Para evitar riesgos en la toma de decisiones al ingresar a mercados internacionales se puede tener en cuenta lo siguiente: 
 
       .jumbotron 

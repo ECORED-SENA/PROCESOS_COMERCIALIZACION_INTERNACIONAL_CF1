@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'La oferta exportable de bienes y servicios',
     descripcionCurso:
-      'Las empresas colombianas se enfrentan a diferentes cambios y retos que afectan directa e indirectamente la dinámica de sus operaciones, en el momento en el cual desean incursionar en mercados internacionales.<br> Estos retos hacen que las mismas busquen soluciones basadas en el estudio y conocimiento de los diferentes sectores de la economía nacional para lograr localizar, en primer lugar, la oferta exportable y posteriormente, las posibilidades de éxito o fracaso a nivel internacional',
+      'Las empresas colombianas se enfrentan a diferentes cambios y retos que afectan directa e indirectamente la dinámica de sus operaciones, en el momento en el cual desean incursionar en mercados internacionales.<br> <br> Estos retos hacen que las mismas busquen soluciones basadas en el estudio y conocimiento de los diferentes sectores de la economía nacional para lograr localizar, en primer lugar, la oferta exportable y posteriormente, las posibilidades de éxito o fracaso a nivel internacional',
     imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
   },
@@ -221,15 +221,10 @@ export default {
   },
   referencias: [
     {
-      referencia: '',
-      link: '',
-    },
-    {
       referencia: 'ANDI. (2016). ANDI MÁS PAÍS.',
       link:
         'http://www.andi.com.co/Home/Pagina/3-desarrollo-economico-y-competitividad',
     },
-
     {
       referencia: 'Banco de la República. (2005). Sectores económicos.',
       link: 'http://www.banrepcultural.org  ',

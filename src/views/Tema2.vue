@@ -249,62 +249,6 @@
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
-                  span(style='color:red') -5,0
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:red') -2,0
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 0,8
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:red') -1,3
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:red') -1,9
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 4,5
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 0,9
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 1,0
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,0
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,1
-                  span(style='background-color:#D9D9D9')  
-              tr.th-3
-                td.text-center.tg-0pky(colspan='8')
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') Explotación de minas y canteras
-                  span(style='background-color:#D9D9D9')  
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
                   span(style='color:black') 1,4
                   span(style='background-color:#D9D9D9') 
                 td.text-center.tg-0pky
@@ -350,7 +294,64 @@
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
+                  span(style='color:black') 2,0 
+                  span(style='background-color:#D9D9D9')  
+              tr.th-3
+                td.text-center.tg-0pky(colspan='8')
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') Explotación de minas y canteras
+                  span(style='background-color:#D9D9D9')  
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -5,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -2,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 0,8
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -1,3
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:red') -1,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 4,5
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 0,9
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 1,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
                   span(style='color:black') 2,0
+                  span(style='background-color:#D9D9D9') 
+                td.text-center.tg-0pky
+                  span(style='background-color:#D9D9D9') 
+                  br
+                  span(style='color:black') 2,0
+                  br
                   span(style='background-color:#D9D9D9')   
               tr.th-2
                 td.text-center.tg-0pky(colspan='8')
@@ -1131,7 +1132,7 @@ export default {
       {
         titulo: 'Sector primario o agropecuario',
         texto:
-          'Obtiene el producto de sus actividades directamente de la naturaleza, sin ningún proceso de transformación. La agricultura, la ganadería, la silvicultura, la caza y la pesca',
+          'Obtiene el producto de sus actividades directamente de la naturaleza, sin ningún proceso de transformación. La agricultura, la ganadería, la silvicultura, la caza y la pesca.',
         imagen: require('@/assets/curso/images/tema2/img_3_1.png'),
       },
       {
