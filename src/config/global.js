@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'La oferta exportable de bienes y servicios',
+    componenteFormativo:
+      'Fundamentos conceptuales de unidades productivas según normativa',
     descripcionCurso:
-      'Las empresas colombianas se enfrentan a diferentes cambios y retos que afectan directa e indirectamente la dinámica de sus operaciones, en el momento en el cual desean incursionar en mercados internacionales.<br> <br> Estos retos hacen que las mismas busquen soluciones basadas en el estudio y conocimiento de los diferentes sectores de la economía nacional para lograr localizar, en primer lugar, la oferta exportable y posteriormente, las posibilidades de éxito o fracaso a nivel internacional',
+      'Las actividades diseñadas en este componente de formación permiten identificar y conocer la conceptualización de las unidades productivas y las normativas vigentes que regulan el funcionamiento de estas, con el fin de establecer las pautas necesarias para la formalización de las unidades productivas. ',
     imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
   },
