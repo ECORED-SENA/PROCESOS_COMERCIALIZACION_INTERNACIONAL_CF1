@@ -382,7 +382,7 @@ export default {
     },
     {
       referencia:
-        'Rojas, L. & Medina, M.  (2011). Planeación estratégica: Fundamentos y casos. ProQuest Ebook Central',
+        'Rojas, L. & Medina, M.  (2011). Planeación estratégica: Fundamentos y casos. ProQuest Ebook Central ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
@@ -397,7 +397,7 @@ export default {
     },
     {
       referencia:
-        'Vera, N. (2015) Microentorno y Macroentorno del marketing. [Video]. Youtube. ',
+        'Vera, N. (2015) Microentorno y Macroentorno del marketing. [Video]. Youtube.  ',
       link: 'https://www.youtube.com/watch?v=nCItrbLt6w8',
     },
     {
