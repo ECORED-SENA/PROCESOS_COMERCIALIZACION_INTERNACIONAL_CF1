@@ -64,7 +64,7 @@
 
     Separador 
     #t_1_3.titulo-segundo
-      .h4   1.3 ¿Qué es un mercado?
+       h4   1.3 ¿Qué es un mercado?
     p.mb-5 Para definir la palabra mercado, debemos tener claro desde qué punto de vista se va a contemplar. Económicamente hablando, el mercado se puede definir como el conjunto de compradores y vendedores en un lugar determinado, quienes, a través de sus interacciones, determinan el precio de un bien o servicio y lo adecúan según sean las necesidades y requerimientos. 
 
     #t_1_4.titulo-segundo
