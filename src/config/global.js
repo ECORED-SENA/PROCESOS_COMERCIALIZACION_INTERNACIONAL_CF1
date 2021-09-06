@@ -1,9 +1,8 @@
 export default {
   global: {
-    componenteFormativo:
-      'Fundamentos conceptuales de unidades productivas según normativa',
+    componenteFormativo: 'La oferta exportable de bienes y servicios',
     descripcionCurso:
-      'Las actividades diseñadas en este componente de formación permiten identificar y conocer la conceptualización de las unidades productivas y las normativas vigentes que regulan el funcionamiento de estas, con el fin de establecer las pautas necesarias para la formalización de las unidades productivas. ',
+      'Las empresas colombianas se enfrentan a diferentes cambios y retos que afectan directa e indirectamente la dinámica de sus operaciones, en el momento en el cual desean incursionar en mercados internacionales.<br> <br> Estos retos hacen que las mismas busquen soluciones basadas en el estudio y conocimiento de los diferentes sectores de la economía nacional para lograr localizar, en primer lugar, la oferta exportable y posteriormente, las posibilidades de éxito o fracaso a nivel internacional',
     imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
   },
@@ -222,17 +221,17 @@ export default {
   },
   referencias: [
     {
-      referencia: 'ANDI. (2016). ANDI MÁS PAÍS.',
+      referencia: 'ANDI. (2016). ANDI MÁS PAÍS. ',
       link:
         'http://www.andi.com.co/Home/Pagina/3-desarrollo-economico-y-competitividad',
     },
     {
-      referencia: 'Banco de la República. (2005). Sectores económicos.',
+      referencia: 'Banco de la República. (2005). Sectores económicos. ',
       link: 'http://www.banrepcultural.org  ',
     },
     {
       referencia:
-        'Barón, J. (2002). Las regiones económicas de Colombia: un análisis de clusters',
+        'Barón, J. (2002). Las regiones económicas de Colombia: un análisis de clusters ',
       link: 'http://www.banrep.gov.co/ ',
     },
     {
@@ -251,30 +250,30 @@ export default {
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co ',
     },
     {
-      referencia: 'Colombian Trade. (s.f.).Colombina. (2008). Colombina.',
+      referencia: 'Colombian Trade. (s.f.).Colombina. (2008). Colombina. ',
       link: 'https://www.colombina.com',
     },
     {
-      referencia: 'Corvo, H. S. (s.f.). Lifeder',
+      referencia: 'Corvo, H. S. (s.f.). Lifeder ',
       link: 'https://www.lifeder.com/elasticidad-oferta/',
     },
     {
       referencia:
-        'Dimitri, C. R., & Rodríguez, S. Á. (2009). Planeación estratégica. ProQuest Ebook Central',
+        'Dimitri, C. R., & Rodríguez, S. Á. (2009). Planeación estratégica. ProQuest Ebook Central ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
       referencia:
-        'Earle C. Traynham (2018). Chapter 5, Elasticities of Demand and Supply. University of North Florida.',
+        'Earle C. Traynham (2018). Chapter 5, Elasticities of Demand and Supply. University of North Florida. ',
       link: 'https://unf.edu ',
     },
     {
-      referencia: 'Economics Online. (2018). Price elasticity of supply',
+      referencia: 'Economics Online. (2018). Price elasticity of supply ',
       link: 'https://economicsonline.co.uk ',
     },
     {
       referencia:
-        'Esteban, T. Á. (2014). Principios de marketing (3a. ed.). ProQuest Ebook Central',
+        'Esteban, T. Á. (2014). Principios de marketing (3a. ed.). ProQuest Ebook Central ',
       Descarga: ' https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
@@ -283,20 +282,20 @@ export default {
     },
     {
       referencia:
-        'Fernández, R. A. (2005). Creatividad e innovación en empresas y organizaciones: Técnicas para la resolución de problemas. ProQuest Ebook Central',
+        'Fernández, R. A. (2005). Creatividad e innovación en empresas y organizaciones: Técnicas para la resolución de problemas. ProQuest Ebook Central ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co ',
     },
     {
       referencia:
-        'Fernández, R. (2009). Segmentación de Mercados . (3a. ed.). McGraw-Hill Interamericana.',
+        'Fernández, R. (2009). Segmentación de Mercados . (3a. ed.). McGraw-Hill Interamericana. ',
     },
     {
       referencia:
-        'Fourastié, J. (1956). La gran esperanza del siglo XX 1956. Barcelona, España:Luis Miracle. Geoff Riley (2018). Explaining Price Elasticity of Supply. Tomado de: tutor2u.net.',
+        'Fourastié, J. (1956). La gran esperanza del siglo XX 1956. Barcelona, España:Luis Miracle. Geoff Riley (2018). Explaining Price Elasticity of Supply. Tomado de: tutor2u.net. ',
     },
     {
       referencia:
-        'González, J. M. (2016). Economía de la Empresa. Editorial Algaida.',
+        'González, J. M. (2016). Economía de la Empresa. Editorial Algaida. ',
     },
     {
       referencia:
@@ -326,22 +325,22 @@ export default {
     },
     {
       referencia:
-        'Martínez, A. M., Torres Vargas, A. C., & Jaramillo Mejía, M. (2016). El comportamiento del mercado - SENA Martínez, S. J. M., & Jiménez, E. (2001). Marketing. ProQuest Ebook Central',
+        'Martínez, A. M., Torres Vargas, A. C., & Jaramillo Mejía, M. (2016). El comportamiento del mercado - SENA Martínez, S. J. M., & Jiménez, E. (2001). Marketing. ProQuest Ebook Central ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
       referencia:
-        'Meléndez, I. (2016). Cómo contribuyen los sectores económicos a la producción nacional de Colombia. Bogotá, Colombia.',
+        'Meléndez, I. (2016). Cómo contribuyen los sectores económicos a la producción nacional de Colombia. Bogotá, Colombia. ',
     },
     {
       referencia:
-        'Ministerio de Comercio, Industria y Turismo. (2020). Estudios Económicos. Oficina de Estudios Económicos. Sector Comercio',
+        'Ministerio de Comercio, Industria y Turismo. (2020). Estudios Económicos. Oficina de Estudios Económicos. Sector Comercio. ',
       link:
         'https://www.mincit.gov.co/estudios-economicos/perfiles-economicos-por-departamentos',
     },
     {
       referencia:
-        'Earle C. Traynham (2018). Chapter 5, Elasticities of Demand and Supply. University of North Florida.',
+        'Earle C. Traynham (2018). Chapter 5, Elasticities of Demand and Supply. University of North Florida. ',
       link: 'https://unf.edu ',
     },
     {
@@ -352,15 +351,15 @@ export default {
     },
     {
       referencia:
-        'Murcia, C. H. H. (2011). Creatividad e innovación para el desarrollo empresarial. ProQuest Ebook Central ',
+        'Murcia, C. H. H. (2011). Creatividad e innovación para el desarrollo empresarial. ProQuest Ebook Central. ',
       Descarga: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
       referencia:
-        'Palacios, L. (2010). Dirección estratégica. Bogotá, Colombia: D´Vinni Impresos.',
+        'Palacios, L. (2010). Dirección estratégica. Bogotá, Colombia: D´Vinni Impresos. ',
     },
     {
-      referencia: 'Pettinge, T. (2016). economicshelp.org',
+      referencia: 'Pettinge, T. (2016). economicshelp.org ',
       link: 'https://economicshelp.org',
     },
     {
@@ -393,12 +392,12 @@ export default {
     },
     {
       referencia:
-        'Tejvan Pettinger (2016). Price Elasticity of Supply. Economics Help',
+        'Tejvan Pettinger (2016). Price Elasticity of Supply. Economics Help ',
       link: 'https://conomicshelp.org',
     },
     {
       referencia:
-        'Vera, N. (2015) Microentorno y Macroentorno del marketing. [Video]. Youtube.',
+        'Vera, N. (2015) Microentorno y Macroentorno del marketing. [Video]. Youtube. ',
       link: 'https://www.youtube.com/watch?v=nCItrbLt6w8',
     },
     {
