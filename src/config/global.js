@@ -29,19 +29,19 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: '¿Qué es el mercadeo?',
+            titulo: 'Introducción',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Función',
+            titulo: '¿Qué es el mercadeo?',
             hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: '¿Qué es un mercado?',
+            titulo: 'Función',
             hash: 't_1_3',
           },
           {

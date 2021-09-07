@@ -8,8 +8,8 @@
       h1 Mercados
 
     #t_1_1.titulo-segundo
-      .h4 1.1 Introducción ¿Qué es el mercadeo?
-    
+      .h4 1.1 Introducción 
+    p.mb-3 Actualmente en el afán de ser cada día más competitivos y líderes en el mercado, los empresarios y emprendedores han enfocado sus esfuerzos en crear estrategias para lograr la satisfacción de las necesidades, gustos y preferencias de los clientes. En este sentido, el mercadeo se ha convertido en la pieza clave para el éxito y supervivencia de las empresas, ocupando un papel fundamental en el funcionamiento y dinámica de las mismas, las cuales evidencian un notorio cambio casi a diario de las condiciones del mercado y el entorno en el cual desarrollan sus operaciones. 
     .row
       figure.mb-5
       .video.mb-5
@@ -33,9 +33,13 @@
 
       .col-lg-6.mb-5.mb-lg-0
         img.my-3(src="@/assets/curso/images/tema1/img_1.svg" alt="", style="width:500px; display:block; margin:0 auto;")
-         
+    Separador 
     #t_1_2.titulo-segundo
-      .h4 1.2 Función
+       h4   1.2 ¿Qué es un mercado?
+    p.mb-5 Para definir la palabra mercado, debemos tener claro desde qué punto de vista se va a contemplar. Económicamente hablando, el mercado se puede definir como el conjunto de compradores y vendedores en un lugar determinado, quienes, a través de sus interacciones, determinan el precio de un bien o servicio y lo adecúan según sean las necesidades y requerimientos.  
+    Separador     
+    #t_1_3.titulo-segundo
+      .h4 1.3 Función
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-6.mb-5.mb-lg-0
@@ -61,12 +65,7 @@
             li 
               i.fas.fa-angle-right
               | Comunicar a los clientes la existencia de los productos e instarlos a preferirlos a aquellos de los competidores (publicidad y ventas).
-
     Separador 
-    #t_1_3.titulo-segundo
-       h4   1.3 ¿Qué es un mercado?
-    p.mb-5 Para definir la palabra mercado, debemos tener claro desde qué punto de vista se va a contemplar. Económicamente hablando, el mercado se puede definir como el conjunto de compradores y vendedores en un lugar determinado, quienes, a través de sus interacciones, determinan el precio de un bien o servicio y lo adecúan según sean las necesidades y requerimientos. 
-
     #t_1_4.titulo-segundo
       .h4 1.4 Clasificación de los mercados
 
