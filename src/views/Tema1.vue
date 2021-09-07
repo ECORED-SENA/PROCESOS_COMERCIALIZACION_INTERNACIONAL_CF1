@@ -8,7 +8,7 @@
       h1 Mercados
 
     #t_1_1.titulo-segundo
-      .h4 1.1 ¿Qué es el mercadeo?
+      .h4 1.1 Introducción ¿Qué es el mercadeo?
     
     .row
       figure.mb-5
