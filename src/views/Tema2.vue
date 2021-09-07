@@ -184,36 +184,11 @@
                   span(style='background-color:#FD8F25') 
                   p.text-center.text-white <b>PIB POR ACTIVIDAD ECONÓMICA - VARIACIÓN ANUAL (%)</b>
                   span(style='background-color:#D9D9D9') 
-                th.tg-0pky(colspan='10').th-4
+                th.tg-0pky(colspan='5').th-4
                   span(style='background-color:#FD8F25') 
                   p.text-center.text-white <b>TRIMESTRES</b>
                   span(style='background-color:#D9D9D9') 
               tr.th-1
-                th.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:white') <b>2018-I</b>
-                  span(style='background-color:#D9D9D9') 
-                th.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:white') <b>2018-II</b>
-                  span(style='background-color:#D9D9D9') 
-                th.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:white') <b>2018-III</b>
-                  span(style='background-color:#D9D9D9') 
-                th.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:white') <b>2018-IV</b>
-                  span(style='background-color:#D9D9D9') 
-                th.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:white') <b>Total 2018</b>
-                  span(style='background-color:#D9D9D9') 
                 th.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
@@ -246,31 +221,8 @@
                   br
                   span(style='color:black') Agricultura, ganadería, caza, silvicultura y pesca
                   span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 1,4
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 5,1
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,3
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 0,9
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,4
-                  span(style='background-color:#D9D9D9') 
+               
+                
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
@@ -294,7 +246,7 @@
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
-                  span(style='color:black') 2,0 
+                  span(style='color:black') 2,0
                   span(style='background-color:#D9D9D9')  
               tr.th-3
                 td.text-center.tg-0pky(colspan='8')
@@ -302,31 +254,7 @@
                   br
                   span(style='color:black') Explotación de minas y canteras
                   span(style='background-color:#D9D9D9')  
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:red') -5,0
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:red') -2,0
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 0,8
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:red') -1,3
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:red') -1,9
-                  span(style='background-color:#D9D9D9') 
+              
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
@@ -350,7 +278,7 @@
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
-                  span(style='color:black') 2,0
+                  span(style='color:black') 2,1
                   br
                   span(style='background-color:#D9D9D9')   
               tr.th-2
@@ -359,31 +287,7 @@
                   br
                   span(style='color:black') Industrias manufactureras
                   span(style='background-color:#D9D9D9')  
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:red') -2,1
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 4,1
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,3
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,6
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 1,8
-                  span(style='background-color:#D9D9D9') 
+               
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
@@ -415,31 +319,7 @@
                   br
                   span(style='color:black') Electricidad,gas,vapor y aire acondicionado, Distribución de agua, evacuación y tratamiento de aguas residuales, gestión desechos y actividades de saneamiento
                   span(style='background-color:#D9D9D9')  
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,1
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,7
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 3,0
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,4
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,5
-                  span(style='background-color:#D9D9D9') 
+               
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
@@ -471,31 +351,7 @@
                   br
                   span(style='color:black') Construcción
                   span(style='background-color:#D9D9D9')  
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:red') -1,4
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:red') -5,3
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,0
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,3
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:red') -0,4
-                  span(style='background-color:#D9D9D9') 
+                
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
@@ -527,31 +383,7 @@
                   br
                   span(style='color:black') Comercio al por mayor y al por menor; Reparación de vehiculos automotores y motociletas; Transporte y almacenamiento; Alojamiento y servicios de comida
                   span(style='background-color:#D9D9D9')  
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 3,4
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 3,1
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 1,8
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,7
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,7
-                  span(style='background-color:#D9D9D9') 
+                 
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
@@ -583,31 +415,7 @@
                   br
                   span(style='color:black') Información y comunicaciones 
                   span(style='background-color:#D9D9D9')  
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 0,7
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,0
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 6,0
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,9
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,9
-                  span(style='background-color:#D9D9D9') 
+                
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
@@ -639,31 +447,7 @@
                   br
                   span(style='color:black') Actividades financieras y de seguros 
                   span(style='background-color:#D9D9D9')  
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 3,6
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 4,2
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 4,4
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,1
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 3,6
-                  span(style='background-color:#D9D9D9') 
+                
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
@@ -695,31 +479,7 @@
                   br
                   span(style='color:black') Actividades inmobiliarias
                   span(style='background-color:#D9D9D9')  
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,8
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,7
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,7
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,4
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,7
-                  span(style='background-color:#D9D9D9') 
+                
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
@@ -751,31 +511,7 @@
                   br
                   span(style='color:black') Actividades profesionales, científicas y técnicas; Actividades de servicio administrativo y de apoyo
                   span(style='background-color:#D9D9D9')  
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 3,9
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 4,2
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 3,5
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 3,7
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 3,8
-                  span(style='background-color:#D9D9D9') 
+                
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
@@ -807,31 +543,7 @@
                   br
                   span(style='color:black') Administración pública y defensa; planes de seguridad social de afiliación obligatoria; Educación; Actividades de atención de la salud humana y de servicios sociales 
                   span(style='background-color:#D9D9D9')  
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 4,7
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 5,1
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 4,4
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 4,1
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 4,6
-                  span(style='background-color:#D9D9D9') 
+               
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
@@ -863,31 +575,7 @@
                   br
                   span(style='color:black') Actividades artisticas, de entrenamiento y recreación y otras actividades de servicios; Actividades de los hogares individuales en calidad de empleadores; Actividdes no diferenciadas de los hogares individuales como productores de bienes y servicios para uso propio
                   span(style='background-color:#D9D9D9')  
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,0
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,8
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 1,9
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,6
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,3
-                  span(style='background-color:#D9D9D9') 
+               
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
@@ -919,31 +607,7 @@
                   br
                   span(style='color:black') <b>Valor agregado bruto</b>
                   span(style='background-color:#D9D9D9')  
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 1,7
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,8
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,7
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,6
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,5
-                  span(style='background-color:#D9D9D9') 
+               
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
@@ -975,31 +639,7 @@
                   br
                   span(style='color:black') Impuestos menos subvenciones sobre los productos
                   span(style='background-color:#D9D9D9')  
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,1
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 3,7
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 3,0
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 3,0
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,9
-                  span(style='background-color:#D9D9D9') 
+               
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
@@ -1031,31 +671,7 @@
                   br
                   span(style='color:black') <b>PRODUCTO INTERNO BRUTO</b>
                   span(style='background-color:#D9D9D9')  
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 1,7
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,9
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,8
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,6
-                  span(style='background-color:#D9D9D9') 
-                td.text-center.tg-0pky
-                  span(style='background-color:#D9D9D9') 
-                  br
-                  span(style='color:black') 2,5
-                  span(style='background-color:#D9D9D9') 
+               
                 td.text-center.tg-0pky
                   span(style='background-color:#D9D9D9') 
                   br
