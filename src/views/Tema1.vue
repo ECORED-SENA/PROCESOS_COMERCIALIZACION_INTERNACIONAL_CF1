@@ -17,7 +17,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-5.mb-lg-0
-        .bloque-texto-d.color-secundario.p-4
+        .bloque-texto-b.color-custom-1.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
             h3.text-regular El marketing es una ciencia que después de estudiar el comportamiento de los mercados (personas naturales, personas jurídicas -empresas-, y la sociedad) e identificado el nivel de competencia, permite diseñar productos, capaces de satisfacer necesidades, generar mayor valor, lograr relaciones perdurables.” 
@@ -70,8 +70,8 @@
       .h4 1.4 Clasificación de los mercados
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10.mb-5.mb-lg-0
-          img.my-3(src="@/assets/curso/images/tema1/img_3.svg") 
+      .col-lg-12.mb-5.mb-lg-0
+          img.my-3(src="@/assets/curso/images/tema1/img_3.svg" alt="", style="width:1200px; display:block; margin:0 auto;")
 
     TabsC.color-primario.mb-5
         .py-3.py-md-4(titulo="Desde el punto de vista geográfico")
@@ -104,21 +104,21 @@
 
             .col-md-3.mb-3.mb-md-0.d-flex
               .tarjeta_Sp-5.p-5
-                h6.text-center.mb-2 Mercado de servicios
+                h6.text-center.mb-3 Mercado de servicios
                 p.text-center.small.text  Todas aquellas empresas que realizan la transacción de intangibles, es decir, de los servicios que suplen las necesidades de los clientes potenciales. Ejemplo, las empresas de telefonía, educación, transporte, servicios públicos, entre otras. 
           
             .col-md-3.mb-3.mb-md-0.d-flex
-              .tarjeta_Sp-6.p-4
-                h6.text-center.mb-2 Mercado Industrial
+              .tarjeta_Sp-6.p-5
+                h6.text-center.mb-3 Mercado Industrial
                 p.text-center.small.text Es un tipo de mercado profesional al que las empresas acceden para poder comprar los bienes y servicios que necesitan para realizar sus actividades. Un ejemplo sería el caso de una empresa de electricidad que compra materiales necesarios para el día a día de su actividad. 
           
         .py-3.py-md-4(titulo="Según el tipo de producto")
           .row.justify-content-center.align-items-center
-            .col-md-4.mb-4.mb-md-0.d-flex
+            .col-md-3.mb-4.mb-md-0.d-flex
               .tarjeta_Sp-7.p-5
                 h6.text-center.mb-4 Mercado de materias primas
                 p.text-center.small.text Como su nombre lo indica, es el mercado en el cual hay una oferta de productos que no han sufrido un proceso de transformación, productos extraídos de la naturaleza, tales como las frutas, verduras, petróleo, algodón entre otros. 
-            .col-md-4.mb-4.mb-md-0.d-flex
+            .col-md-3.mb-4.mb-md-0.d-flex
               .tarjeta_Sp-8.p-5
                 h6.text-center.mb-4 Mercado de productos industriales
                 p.text-center.small.text Se compone de los clientes o usuarios pertenecientes a las organizaciones que compran productos o servicios para elaborar otra clase de productos. Por ejemplo, el fabricante que compra madera para transformarla en camas.   
@@ -126,22 +126,22 @@
         .py-3.py-md-4(titulo="Según el tipo de demanda")
           .row
             .col-md-3.mb-4.mb-md-0.d-flex
-              .tarjeta_Sp-9.p-4
+              .tarjeta_Sp-9.p-5
                 h6.text-center.mb-2 Mercados disponible
                 p.text-center.mb-3.small.text  Son todos aquellos que tienen una necesidad especifica y cuenta con las características necesarias para consumir un producto. Un ejemplo de un mercado disponible puede estar constituido por aquellos consumidores que tienen la necesidad de un jabón liquido para manos, y además cuentan con las características del poder adquisitivo, costumbre entre otras; para comprarlos.  
         
             .col-md-3.mb-4.mb-md-0.d-flex
-              .tarjeta_Sp-10.p-4
+              .tarjeta_Sp-10.p-5
                 h6.text-center.mb-2 Mercados real
                 p.text-center.mb-3.small.text Son todos aquellos consumidores del mercado disponible que compra un producto un producto especifico El ejemplo serían todos aquellos consumidores que  compran un jabón líquido. En esta primera clasificación es importante notar que no todos aquellos consumidores tienen una necesidad y las características especificas para comprar un producto serán consumidores reales, pero si serán consumidores disponibles.
     
             .col-md-3.mb-4.mb-md-0.d-flex
-              .tarjeta_Sp-11.p-4
+              .tarjeta_Sp-11.p-5
                 h6.text-center.mb-2 Mercados potencial
                 p.text-center.mb-3.small.text  Es el conjunto de consumidores que  no hacen parte del mercado real, pero en ocasiones sí pueden tener parte del mercado disponible. Este grupo no consume el producto específico, debido a que no tienen las características del segmento o porque consume otro producto. Por ejemplo: los consumidores que cumplen con las características pero compran el jabón en pasta. 
 
             .col-md-3.mb-4.mb-md-0.d-flex
-              .tarjeta_Sp-12.p-4
+              .tarjeta_Sp-12.p-5
                 h6.text-center.mb-2 Mercados meta
                 p.text-center.mb-3.small.text  Puede definirse como el conjunto de consumidores que pertenecen al mercado disponible, que pueden formar parte del mercado real y potencial; y al cual se dirigen todos los esfuerzos y acciones mercadológicos de la empresa, con la finalidad de que todos logren convertirse en consumidores reales del producto.  
 

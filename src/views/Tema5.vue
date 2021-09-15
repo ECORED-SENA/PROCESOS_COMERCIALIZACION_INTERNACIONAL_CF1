@@ -10,15 +10,16 @@
     #t_5_2.titulo-segundo
         .h4 5.1 ¿Qué es planear? 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-6.mb-5.mb-lg-0
-        .bloque-texto-d.color-secundario.p-4
-          .bloque-texto-d__texto.mb-2
+      .col-lg-8.mb-5.mb-lg-0.mb-5
+        .bloque-texto-b.color-custom-1.p-4
+          .bloque-texto-d__texto.mb-3
             i.fas.fa-quote-left
             h3.text-regular Es la etapa que forma parte del proceso administrativo mediante la cual se establecen directrices, se definen estrategias y se seleccionan las alternativas y rutas de acción, en función de objetivos y metas generales económicas, sociales y políticas, tomando en consideración los recursos reales y potenciales que permitan establecer un marco de referencia necesario para concretar programas y acciones específicas en tiempo y espacio, logrando una predicción del futuro para generar planes que puedan garantizar el éxito.
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .h5.mb-0 Rojas y Medina, 2011)
-      .col-12.col-md-8.col-lg-6.col-xl-6.mb-4
+      .col-12.col-md-8.col-lg-4.col-xl-4.mb-4.p-5
+          br
           img.my-3(src="@/assets/curso/images/tema5/img_1.svg", alt= "",style="width:400px; display:block; margin:0 auto;") 
 
       Separador 
@@ -60,8 +61,9 @@
         .h4 5.3 Partes del proceso de planeación
 
       .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
-        .col-lg-10.mb-5.mb-lg-0 
-            img.my-3(src="@/assets/curso/images/tema5/img_3.svg", alt="", style="width:800px; display:block; margin:0 auto;")
+        .col-lg-12.mb-5.mb-lg-0.fondo 
+            img.my-3(src="@/assets/curso/images/tema5/img_3_1.svg", alt="", style="width:800px; display:block; margin:0 auto;")
+            figcaption Fuente: Rojas y Medina (2011).
 
       Separador
       #t_5_4.titulo-segundo
@@ -69,7 +71,7 @@
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-6.mb-5.mb-lg-0
-          .bloque-texto-d.color-secundario.p-4
+          .bloque-texto-b.color-custom-1.p-4
             .bloque-texto-d__texto.mb-2
               i.fas.fa-quote-left
               h3.text-regular <b> Los planes son el resultado del proceso de planeación y pueden definirse como diseños o esquemas detallados de lo que habrá de hacerse en el futuro, y las especificaciones necesarias para realizarlos. </b>
@@ -89,8 +91,8 @@
       figcaption.mb-5 Fuente: Limas, 2012,p 241
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-8.mb-5.mb-lg-0
-          .bloque-texto-d.color-secundario.p-4
+        .col-lg-10.mb-5.mb-lg-0
+          .bloque-texto-b.color-custom-1.p-4
             .bloque-texto-d__texto.mb-2
               i.fas.fa-quote-left
               h3.text-regular Se hará el enfoque en los planes estratégicos que son los que establecen los lineamientos generales de la planeación, sirviendo de base a los demás planes (táctico y operativos), son diseñados por los miembros de mayor jerarquía de la empresa y su función consiste en regir la obtención, uso y disposición de los medios necesarios para alcanzar los objetivos generales de la organización, son a largo plazo (más de 5 años) y comprenden toda la empresa. 

@@ -146,25 +146,25 @@
 
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/images/tema4/img_6.svg', alt= "",style="width:500px; display:block; margin:0 auto;")
+              img(src='@/assets/curso/images/tema4/img_6.svg', alt= "",style="width:1200px; display:block; margin:0 auto;")
               
-          .tarjeta.color-acento-botones.p-3(x="48%" y="18%") 
+          .tarjeta.slyder-color-1.p-3(x="48%" y="18%") 
             .h5.mb-2 Región Caribe
             p Turismo, hullas, polímeros de propilenos, ferroaleaciones, vehículos para carga, abonos, insecticidas, medicamentos, aceite de palma, polímeros de cloruro y bananas. 
 
-          .tarjeta.color-acento-botones.p-3(x="48%" y="41%")
+          .tarjeta.slyder-color-1.p-3(x="48%" y="41%")
             .h5.mb-2 Región Andina/Central
             p Tercerización de servicios, manufacturas de alto valor agregado y agroindustria especializada.
 
-          .tarjeta.color-acento-botones.p-3(x="40%" y="47%")
+          .tarjeta.slyder-color-1.p-3(x="40%" y="47%")
             .h5.mb-2 Región Pacífico
             p Manufacturas, agroindustria, logística y biotecnología
           
-          .tarjeta.color-acento-botones.p-3(x="59%" y="47%")
+          .tarjeta.slyder-color-1.p-3(x="59%" y="47%")
             .h5.mb-2 Región Orinoquía
             p Agricultura, forestal, biocombustibles e hidrocarburos
 
-          .tarjeta.color-acento-botones.p-3(x="56%" y="70%")
+          .tarjeta.slyder-color-1.p-3(x="56%" y="70%")
             .h5.mb-2 Región Amazonía
             p Conservación y agroturismos
 

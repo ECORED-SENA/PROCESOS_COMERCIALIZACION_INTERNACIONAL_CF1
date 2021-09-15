@@ -10,7 +10,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-5.mb-lg-0
-        .bloque-texto-d.color-secundario.p-4
+        .bloque-texto-b.color-custom-1.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
             h3.text-regular Al realizar un análisis de la economía de un país, es posible observar que algunos sectores se desarrollan más que otros; identificar cuáles son los sectores de la economía que contribuyen al crecimiento de esta o los más atrasados, le permiten dimensionar y planear las políticas económicas y sociales de un país.<br> Conocer el comportamiento de los tres sectores económicos en que se ha dividido la producción:  las fuentes primarias como los recursos naturales, renovables o no renovables; el sector industrial y el sector de prestación de servicios, son indispensables para examinar el desarrollo económico de un país. 
@@ -31,10 +31,10 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.mb-5.mb-lg-0
-        .bloque-texto-d.color-secundario.p-4
+        .bloque-texto-b.color-custom-1.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h3.text-regular Los países con una baja renta per cápita están en un estadio temprano de desarrollo; la mayor parte de sus ingresos nacionales son a base de la producción del sector primario. Los países con un estadio más avanzado de desarrollo, con ingresos nacionales intermedios, obtienen sus ingresos del sector secundario principalmente. En los países altamente desarrollados con elevados ingresos, el sector terciario domina las salidas totales de la economía 
+            h3.text-regular <b>Los países con una baja renta per cápita están en un estadio temprano de desarrollo; la mayor parte de sus ingresos nacionales son a base de la producción del sector primario. Los países con un estadio más avanzado de desarrollo, con ingresos nacionales intermedios, obtienen sus ingresos del sector secundario principalmente. En los países altamente desarrollados con elevados ingresos, el sector terciario domina las salidas totales de la economía </b>
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .h5.mb-0 Fourastié, 1956
@@ -45,9 +45,8 @@
       .h2.mb-3 2.2 Distribución de los sectores económicos
 
     .row
-      .col-12.col-md-8.col-lg-10.col-xl-12.mb-5
-        figure.mb-5
-            img(src="@/assets/curso/images/tema2/img_2_1.svg", alt="", style="width:800px; display:block; margin:0 auto;")
+      .col-lg-12.mb-5.mb-lg-0
+            img(src="@/assets/curso/images/tema2/img_2.svg", alt="", style="width:1200px; display:block; margin:0 auto;")
     Separador 
    
     #t_2_3.titulo-segundo
@@ -59,14 +58,14 @@
     
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6.mb-5.mb-lg-0
+      .col-lg-12.mb-5.mb-lg-0
          
         p.mb-3 La minería y otros sectores extractivos, a pesar de ser actividades cuya definición corresponde con la obtención de materias primas, no suelen considerarse como parte del sector primario para efectos de contabilidad nacional y se engloban con el sector energético y otros sectores industriales con los que comparten características (como la industria pesada). Por el contrario, los procesos industriales que se limitan a empacar, preparar o purificar los recursos naturales suelen ser considerados parte del sector primario, especialmente si dicho producto es difícil de ser transportado en condiciones normales a grandes distancias. 
 
         p.mb-3 La industria agroalimentaria está tan estrechamente ligada al sector primario que se la suele considerar conjuntamente con éste en muchas cuestiones. 
-
-      .col-lg-6.mb-5.mb-lg-0
-        .bloque-texto-d.color-secundario.p-4
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8.mb-5.mb-lg-0
+        .bloque-texto-b.color-custom-1.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
             h3.text-regular <b>El dominio del sector primario, tanto si se reduce al sector agrario como si se considera la totalidad de los sectores extractivos, suele ser una característica definitoria de la economía de los países subdesarrollados</b>
@@ -106,10 +105,10 @@
               |  Al estar ubicado en el Trópico cuenta con diversidad de pisos térmicos con alturas sobre el nivel del mar que van desde los 0 metros sobre el nivel del mar (m.s.n.m) (> 24 C°) hasta los 4.000 m.s.n.m (< 6 C°). (ProColombia, 2012).
 
         .col-lg-6.mb-5.mb-lg-0.mb-5
-        .bloque-texto-d.color-secundario.p-4
+        .bloque-texto-b.color-custom-1.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h3.text-regular En el caso de la industria manufacturera, si bien aún se observa cierto rezago frente al total del PIB, es importante anotar que en esta actividad comienza a observarse una leve recuperación en sus principales indicadores, especialmente los tendenciales
+            h3.text-regular <b>En el caso de la industria manufacturera, si bien aún se observa cierto rezago frente al total del PIB, es importante anotar que en esta actividad comienza a observarse una leve recuperación en sus principales indicadores, especialmente los tendenciales </b>
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .h5.mb-0 RCN Radio, 2015
@@ -124,11 +123,11 @@
 
       p.mb-3 Además de los tres sectores clásicos, en los últimos tiempos y gracias al desarrollo tecnológico y gerencial, ha tomado fuerza el concepto de dos sectores adicionales:
 
-      AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--cafe")
+      AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
         .row(titulo="Sector cuaternario:")
           .col-md-6
             figure
-              img(src="@/assets/curso/images/tema2/img_9.svg", alt='Texto que describa la imagen')
+              img(src="@/assets/curso/images/tema2/img_9.svg", alt="", style="width:300px; display:block; margin:0 auto;")
             
 
           .col-md-6.mb-4.mb-md-0
@@ -142,7 +141,7 @@
         .row(titulo="Sector quinario:")
           .col-md-6
             figure
-              img(src="@/assets/curso/images/tema2/img_10.svg", alt='Texto que describa la imagen')
+              img(src="@/assets/curso/images/tema2/img_10.svg", alt="", style="width:300px; display:block; margin:0 auto;")
             
           .col-md-6.mb-4.mb-md-0
               br
@@ -697,38 +696,13 @@
                   br
                   span(style='color:black') 3,3
                   span(style='background-color:#D9D9D9')
+      .row.my-5
+        br
+        SlyderB.slyder-color-5.mb-5(:datos="datosSlyder1")
+        figcaption Fuente: (ANDI)
+    
 
-    p.mb-3 Al analizar los resultados del Producto Interno Bruto (PIB) de 2019, podemos afirmar que la economía del país registró un crecimiento de 3,3 por ciento, lo que significa una notable aceleración frente al PIB de 2,5 por ciento valorado en 2018. Así mismo, es de destacar un importante crecimiento en la economía colombiana en el tercer y cuarto trimestre de 2019, con registros del 3,5 y 3,4 por ciento, respectivamente.
-
-    p.mb-3 Dentro de las actividades económicas de mayor crecimiento durante el 2019 podemos resaltar las actividades financieras que pasaron de un crecimiento del 3,6 por ciento en 2018 a un 5,7 por ciento en 2019 lo que representa una variación del 2,1 por ciento con respecto al 2018, también tenemos el comercio al por mayor y al por menor; reparación de automotores y motocicletas; transporte y almacenamiento; alojamiento y servicios de comida que presentaron un crecimiento del 2,7 por ciento en 2018 y del 4,9 por ciento en 2019.
-
-    p.mb-3 Conviene mencionar aquellas actividades económicas que presentaron un crecimiento inferior con respecto al comportamiento presentado en 2018, dichas actividades son las industrias de manufactura que pasaron de un crecimiento del 1,8 por ciento en 2018 a 1,6 por ciento en 2019, también está el sector de la información y las comunicaciones que en 2018 logro crecer un 2,9 por ciento y en 2019 apenas logro un crecimiento del 1,7 por ciento.
-
-    p.mb-3 Es de resaltar la fuerte aceleración experimentada por el sector de la explotación de minas y canteras que paso de un crecimiento negativo del 1,9 por ciento en 2018 a un crecimiento del 2,1 por ciento en 2019, resulta preocupante el comportamiento del sector de la construcción el cual presenta un comportamiento negativo que va en picada pasando de un crecimiento negativo del 0,4 por ciento en 2018 a un inquietante crecimiento negativo del 1,3 por ciento en 2019.
- 
-    figcaption Fuente: (ANDI)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   
 
 
 
@@ -762,6 +736,32 @@ export default {
         texto:
           'Este sector se enfoca en los intangibles o servicios. <br> Hotelería y turismo, espectáculos, banca, comunicaciones, comercio, <i>software</i>, servicios públicos, salud, tercerización y servicios BPO.',
         imagen: require('@/assets/curso/images/tema2/img_5_1.png'),
+      },
+    ],
+    datosSlyder1: [
+      {
+        titulo: '',
+        texto:
+          'Al analizar los resultados del Producto Interno Bruto (PIB) de 2019, podemos afirmar que la economía del país registró un crecimiento de 3,3 por ciento, lo que significa una notable aceleración frente al PIB de 2,5 por ciento valorado en 2018. Así mismo, es de destacar un importante crecimiento en la economía colombiana en el tercer y cuarto trimestre de 2019, con registros del 3,5 y 3,4 por ciento, respectivamente.',
+        imagen: require('@/assets/curso/images/tema2/img_11.svg'),
+      },
+      {
+        titulo: '',
+        texto:
+          'Dentro de las actividades económicas de mayor crecimiento durante el 2019 podemos resaltar las actividades financieras que pasaron de un crecimiento del 3,6 por ciento en 2018 a un 5,7 por ciento en 2019 lo que representa una variación del 2,1 por ciento con respecto al 2018, también tenemos el comercio al por mayor y al por menor; reparación de automotores y motocicletas; transporte y almacenamiento; alojamiento y servicios de comida que presentaron un crecimiento del 2,7 por ciento en 2018 y del 4,9 por ciento en 2019.',
+        imagen: require('@/assets/curso/images/tema2/img_12.svg'),
+      },
+      {
+        titulo: '',
+        texto:
+          'Conviene mencionar aquellas actividades económicas que presentaron un crecimiento inferior con respecto al comportamiento presentado en 2018, dichas actividades son las industrias de manufactura que pasaron de un crecimiento del 1,8 por ciento en 2018 a 1,6 por ciento en 2019, también está el sector de la información y las comunicaciones que en 2018 logro crecer un 2,9 por ciento y en 2019 apenas logro un crecimiento del 1,7 por ciento.',
+        imagen: require('@/assets/curso/images/tema2/img_13.svg'),
+      },
+      {
+        titulo: '',
+        texto:
+          'Es de resaltar la fuerte aceleración experimentada por el sector de la explotación de minas y canteras que paso de un crecimiento negativo del 1,9 por ciento en 2018 a un crecimiento del 2,1 por ciento en 2019, resulta preocupante el comportamiento del sector de la construcción el cual presenta un comportamiento negativo que va en picada pasando de un crecimiento negativo del 0,4 por ciento en 2018 a un inquietante crecimiento negativo del 1,3 por ciento en 2019.',
+        imagen: require('@/assets/curso/images/tema2/img_14.svg'),
       },
     ],
   }),

@@ -36,7 +36,7 @@
         .col-6 
           img.my-3(src="@/assets/curso/images/tema3/img_2.svg", alt= "",style="width:400px; display:block; margin:0 auto;") 
 
-          .bloque-texto-d.color-secundario.p-4
+          .bloque-texto-b.color-custom-1.p-4
             .bloque-texto-d__texto.mb-2
               i.fas.fa-quote-left
               h3.text-regular <b> La cantidad ofrecida de cualquier bien o servicio, es la cantidad que los vendedores quieren y pueden vender </b>
@@ -48,36 +48,36 @@
             table(style="min-width:1042px;").tg
               thead
                 tr.th-1
-                  th.tg-0pky(rowspan='4',colspan='2')
+                  th.tg-0pky(rowspan='1',colspan='1')
                     span(style='background-color:#FD8F25') 
                     p.text-center.text-white <b>PRECIO (por galón))</b>
                     span(style='background-color:#D9D9D9') 
-                  th.tg-0pky(colspan='2')
+                  th.tg-0pky(colspan='1')
                     span(style='background-color:#FD8F25') 
                     p.text-center.text-white <b>CANTIDAD OFRECIDA (millones de galones)</b>
                     span(style='background-color:#D9D9D9') 
               tbody
                 tr
-                  td.text-center.th-2(colspan='2') $1.00
-                  td.text-center.th-2(colspan='2') 500
+                  td.text-center.th-2(colspan='1') $1.00
+                  td.text-center.th-2(colspan='1') 500
                 tr
-                  td.text-center(colspan='2').th-3  $1.20
-                  td.text-center(colspan='2').th-3  550
+                  td.text-center(colspan='1').th-3  $1.20
+                  td.text-center(colspan='1').th-3  550
                 tr
-                  td.text-center(colspan='2').th-2  $1.40
-                  td.text-center(colspan='2').th-2   600
+                  td.text-center(colspan='1').th-2  $1.40
+                  td.text-center(colspan='1').th-2   600
                 tr
-                  td.text-center(colspan='2').th-3   $1.60
-                  td.text-center(colspan='2').th-3  640
+                  td.text-center(colspan='1').th-3   $1.60
+                  td.text-center(colspan='1').th-3  640
                 tr
-                  td.text-center(colspan='2').th-2  $1.80
-                  td.text-center(colspan='2').th-2   680
+                  td.text-center(colspan='1').th-2  $1.80
+                  td.text-center(colspan='1').th-2   680
                 tr
-                  td.text-center(colspan='2').th-3   $2.00
-                  td.text-center(colspan='2').th-3  700
+                  td.text-center(colspan='1').th-3   $2.00
+                  td.text-center(colspan='1').th-3  700
                 tr
-                  td.text-center(colspan='2').th-2   $2.20
-                  td.text-center(colspan='2').th-2   720
+                  td.text-center(colspan='1').th-2   $2.20
+                  td.text-center(colspan='1').th-2   720
 
       p.mb-3 El precio se mide en dólares por galón de gasolina y la cantidad ofrecida se mide en millones de galones.
 
@@ -95,7 +95,7 @@
       
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10.mb-5.mb-lg-0
-          .bloque-texto-d.color-secundario.p-4
+          .bloque-texto-b.color-custom-1.p-4
             .bloque-texto-d__texto.mb-2
               i.fas.fa-quote-left
               h3.text-regular Esta relación entre el precio y la cantidad ofrecida se llama ley de la oferta y establece que, con todo lo demás constante, cuando aumenta el precio de un bien, la cantidad ofrecida del mismo también aumenta, y cuando el precio de un bien disminuye, la cantidad ofrecida del mismo también disminuye (Mankiw, 2017).
@@ -134,63 +134,72 @@
 
       SlyderB.mb-5(:datos="datosSlyder")
 
-      h5.mb-3 La elasticidad de la oferta
+      TabsB.color-acento-contenido.tab-color.mb-5
+        .py-4.py-md-5(titulo="La elasticidad de la oferta")
+          .row
+            .col-md-6.mb-4.mb-md-0
+             
+              p.mb-3 Hace referencia a la variación que tiene la cantidad ofertada de un bien o servicio frente a un cambio en el precio de los mismos.
 
-      p.mb-3 Hace referencia a la variación que tiene la cantidad ofertada de un bien o servicio frente a un cambio en el precio de los mismos.
-
-      p.mb-3 La elasticidad se representa en forma numérica y está definida como la variación porcentual en la cantidad que se ofrece, dividida entre la variación porcentual en el precio. Es deseable que una empresa sea altamente receptiva a las variaciones en el precio y a otras condiciones del mercado (Corvo, s.f.). 
+              p La elasticidad se representa en forma numérica y está definida como la variación porcentual en la cantidad que se ofrece, dividida entre la variación porcentual en el precio. Es deseable que una empresa sea altamente receptiva a las variaciones en el precio y a otras condiciones del mercado (Corvo, s.f.). 
+          
+            .col-md-6
+                img.my-3(src="@/assets/curso/images/tema3/img_4.svg", alt= "",style="width:700px; display:block; margin:0 auto;") 
+        .py-4.py-md-5(titulo="Tipos")
+          .row
+            .col-md-6.mb-4.mb-md-0
+              p.mb-3  Se puede describir la oferta del producto como inelástica cuando el coeficiente es menor que uno; a las empresas les resulta difícil cambiar la producción en un período de tiempo determinado. Por ejemplo: la oferta de habitaciones de hotel es inelástica.
+              p Por otro lado, la oferta se puede describir como elástica cuando el coeficiente es mayor que uno; las empresas pueden aumentar la producción fácilmente sin que aumente el costo o haya retrasos de tiempo. La oferta de libros es elástica.
+            
+            .col-md-6
+                img.my-3(src="@/assets/curso/images/tema3/img_5.svg", alt= "",style="width:700px; display:block; margin:0 auto;") 
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-md-8.col-lg-10.col-xl-10.mb-4
-          img.my-3(src="@/assets/curso/images/tema3/img_4.svg", alt= "",style="width:700px; display:block; margin:0 auto;") 
-
-      h5.mb-3 Tipos
-
-      p.mb-3 Se puede describir la oferta del producto como inelástica cuando el coeficiente es menor que uno; a las empresas les resulta difícil cambiar la producción en un período de tiempo determinado. Por ejemplo: la oferta de habitaciones de hotel es inelástica.
-
-      p.mb-5 Por otro lado, la oferta se puede describir como elástica cuando el coeficiente es mayor que uno; las empresas pueden aumentar la producción fácilmente sin que aumente el costo o haya retrasos de tiempo. La oferta de libros es elástica.
-
-      .row.justify-content-center.align-items-center.mb-5
-        .col-12.col-md-8.col-lg-10.col-xl-10.mb-4
-          img.my-3(src="@/assets/curso/images/tema3/img_5.svg", alt= "",style="width:700px; display:block; margin:0 auto;") 
+          
 
       p.mb-3 Para cualquier curva de oferta dada, es probable que la elasticidad de la oferta varíe en toda la curva. Hay tres casos extremos de elasticidad de la oferta: 
 
-
-    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-up-left")
-      .col-lg-8
-        .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/images/tema3/ico_13.svg' alt='AvatarTop')
-          .tarjeta.color-tarjeta-1
-            .p-4
-              h4 Perfectamente elástica
-              p Un cambio porcentual de casi cero en el precio produce un cambio porcentual muy grande en la cantidad ofertada.
-    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-up-right")
-      .col-lg-8
-        .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/images/tema3/ico_14.svg' alt='AvatarTop')
-          .tarjeta.color-tarjeta-1
-            .p-4
-              h4 Perfectamente inelástica
-              p Solo se puede ofertar una cantidad, independientemente del precio. Una elasticidad de cero indica que la cantidad que se ofrece no responde ante un cambio de precio, la cantidad ofertada es fija. La oferta de lotes de terreno frente a la playa es perfectamente inelástica
-    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
-      .col-lg-8
-        .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/images/tema3/ico_15.svg', alt="", style="width:100px; display:block; margin:0 auto;")
-          .tarjeta.color-tarjeta-1
-            .p-4
-              h4 Elasticidad unitaria
-              p El cambio porcentual en la cantidad que se ofrece es igual al cambio porcentual en el precio. La oferta de pescado tiene elasticidad unitaria.
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+        .col-12.col-md-8.col-lg-4.col-xl-4.mb-4
+            img.my-3(src="@/assets/curso/images/tema3/img_14.svg", alt= "",style="width:400px; display:block; margin:0 auto;") 
+        .col-lg-8.mb-5.mb-lg-0
+          .row.justify-content-center.align-items-center.mb-3(data-aos="fade-up-left")
+            .col-lg-8
+              .tarjeta-avatar-b.mb-3
+                img(src='@/assets/curso/images/tema3/ico_13.svg' alt='AvatarTop')
+                .tarjeta.color-tarjeta-1
+                  .p-4
+                    h4 Perfectamente elástica
+                    p Un cambio porcentual de casi cero en el precio produce un cambio porcentual muy grande en la cantidad ofertada.
+          .row.justify-content-center.align-items-center.mb-3(data-aos="fade-up-left")
+            .col-lg-8
+              .tarjeta-avatar-b.mb-5
+                img(src='@/assets/curso/images/tema3/ico_14.svg' alt='AvatarTop')
+                .tarjeta.color-tarjeta-1
+                  .p-4
+                    h4 Perfectamente inelástica
+                    p Solo se puede ofertar una cantidad, independientemente del precio. Una elasticidad de cero indica que la cantidad que se ofrece no responde ante un cambio de precio, la cantidad ofertada es fija. La oferta de lotes de terreno frente a la playa es perfectamente inelástica
+          .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
+            .col-lg-8
+              .tarjeta-avatar-b.mb-5
+                img(src='@/assets/curso/images/tema3/ico_15.svg', alt="", style="width:100px; display:block; margin:0 auto;")
+                .tarjeta.color-tarjeta-1
+                  .p-4
+                    h4 Elasticidad unitaria
+                    p El cambio porcentual en la cantidad que se ofrece es igual al cambio porcentual en el precio. La oferta de pescado tiene elasticidad unitaria.
           
-      p.mb-5 Gráficamente, se muestra como una curva lineal que parte desde el origen:  
+    p.mb-5 Gráficamente, se muestra como una curva lineal que parte desde el origen:  
 
        .row.justify-content-center.align-items-center.mb-5
         .col-12.col-md-8.col-lg-10.col-xl-10.mb-4
           img.my-3(src="@/assets/curso/images/tema3/img_6.svg", alt= "",style="width:700px; display:block; margin:0 auto;") 
 
-      h4.mb-5 Factores que influyen 
+          figcaption Fuente: (Economics Online, 2018)
 
-      AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
+    h4.mb-5 Factores que influyen 
+      br
+      AcordionA.my-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
         .row(titulo="Complejidad de la producción:")
           .col-md-6.mb-4.mb-md-0
 
@@ -198,10 +207,8 @@
             p.mb-3 La mano de obra es en gran parte no calificada y no se necesitan estructuras especiales como instalaciones de producción. Por tanto, la elasticidad de la oferta para textiles es alta.
             p Por otro lado, la elasticidad de la oferta para ciertos tipos de vehículos de motor es relativamente baja debido a que su fabricación es un proceso de varias etapas que requiere equipos especializados, mano de obra calificada, una gran red de proveedores y grandes costos de investigación y desarrollo.
           .col-md-6
-            br
-            br
             figure
-              img(src="@/assets/curso/images/tema3/ico_16.svg", alt= "",style="width:150px; display:block; margin:0 auto;")
+              img(src="@/assets/curso/images/tema3/ico_16.svg", alt= "",style="width:250px; display:block; margin:0 auto;")
           
         .row(titulo="Movilidad de los componentes de la producción:")        
           .col-md-6.mb-4.mb-md-0
@@ -209,7 +216,7 @@
               p Si los componentes asociados a la producción (mano de obra, máquinas, capital y demás.) de una empresa que fabrica un producto están fácilmente disponibles y la empresa puede cambiar sus recursos para ponerlos a fabricar otro producto requerido, entonces se puede decir que su elasticidad de oferta es alta. Si se aplica lo contrario, entonces su elasticidad es baja. Por ejemplo, una imprenta que puede cambiar fácilmente de imprimir revistas a tarjetas de felicitación tiene una oferta elástica.
           .col-md-6
             figure
-              img(src="@/assets/curso/images/tema3/ico_17.svg", alt= "",style="width:150px; display:block; margin:0 auto;")
+              img(src="@/assets/curso/images/tema3/ico_17.svg", alt= "",style="width:250px; display:block; margin:0 auto;")
 
         .row(titulo="Tiempo de respuesta")
 
@@ -223,9 +230,8 @@
 
           .col-md-6
             br
-            br
             figure
-              img(src="@/assets/curso/images/tema3/ico_20.svg",  alt= "",style="width:150px; display:block; margin:0 auto;")
+              img(src="@/assets/curso/images/tema3/ico_20.svg",  alt= "",style="width:250px; display:block; margin:0 auto;")
 
         .row(titulo="Disponibilidad de inventarios")
                   
@@ -237,7 +243,7 @@
 
           .col-md-6
             figure
-              img(src="@/assets/curso/images/tema3/ico_19.svg",  alt= "",style="width:150px; display:block; margin:0 auto;")
+              img(src="@/assets/curso/images/tema3/ico_19.svg",  alt= "",style="width:250px; display:block; margin:0 auto;")
 
         .row(titulo="Capacidad de producción adicional")
             
@@ -255,7 +261,7 @@
             br
             br
             figure
-              img(src="@/assets/curso/images/tema3/ico_18.svg", alt= "",style="width:150px; display:block; margin:0 auto;")
+              img(src="@/assets/curso/images/tema3/ico_18.svg", alt= "",style="width:250px; display:block; margin:0 auto;")
 
       h4.mb-3 ¿Cómo se calcula la elasticidad de la oferta?
       .row
@@ -307,16 +313,19 @@
                         p PRECIO ACTUAL: $4.100
 
       p.mb-5 Aplicando las fórmulas anteriores, la elasticidad de la oferta es:
-
-      .row.mb-5
-        .col-8
-          img(src="@/assets/curso/images/tema3/ecu_4.svg", alt= "",style="width:900px; display:block; margin:0 auto;")
-      .row.mb-5
-        .col-8
-          img(src="@/assets/curso/images/tema3/ecu_5.svg", alt= "",style="width:900px; display:block; margin:0 auto;")
-      .row.mb-5
-        .col-8
-          img(src="@/assets/curso/images/tema3/ecu_6.svg", alt= "",style="width:900px; display:block; margin:0 auto;")
+      TabsB.color-acento-contenido.mb-5
+        .py-4.py-md-5(titulo="Cambio Porcentual en la Cantidad Ofertada (CPCO)")
+          .row
+            .col-md-6
+            img(src="@/assets/curso/images/tema3/img_15.svg", alt= "",style="width:1200px; display:block; margin:0 auto;")
+        .py-4.py-md-5(titulo="Cambio Porcentual en el Precio (CPP)")
+          .row
+            .col
+                img(src="@/assets/curso/images/tema3/img_16.svg", alt= "",style="width:1200px; display:block; margin:0 auto;") 
+        .py-4.py-md-5(titulo="Elasticidad de la oferta (Eo):")
+          .row
+            .col
+                img(src="@/assets/curso/images/tema3/img_17.svg", alt= "",style="width:1200px; display:block; margin:0 auto;") 
 
       p.mb-3 El signo positivo refleja el hecho de que el aumento de los precios operará como incentivo para ofertar más. Por ser el coeficiente mayor que uno, la oferta es elástica, respondiendo la empresa a los cambios de precio. Esto le dará una ventaja competitiva sobre sus rivales.
 

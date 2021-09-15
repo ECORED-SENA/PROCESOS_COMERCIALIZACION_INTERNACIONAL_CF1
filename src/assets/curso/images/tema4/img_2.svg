@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="435.61" height="398.561" viewBox="0 0 435.61 398.561">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="562.918" height="421.651" viewBox="0 0 562.918 421.651">
   <defs>
     <clipPath id="clip-path">
       <path id="Trazado_110884" data-name="Trazado 110884" d="M346.238,279.839V224.786h15.355V168H350.952V111.23H229.661V168h10.661v39.516h-56.3V242.34h-6.54v34.831h9.418v31.943h-28.75V264.053h12.563V217.587H144.835l-.765-46.476H62.706v46.476h8.72v46.467H58.862v45.061H50.344v46.476h8.729v46.467H46.5v46.457H209.869v1.625H438.282l-10.7-.755.373-41.7v-5.737h11.425V359.731h-7.936V320.119h21.809V288.482h-8.538V256.835h5.937V225.2h-67.6v31.637H377.12v31.647h8.6v29.046h-26.2m10.364-119.255V240.82" transform="translate(-46.5 -111.23)" fill="#b5abdb"/>
@@ -10,7 +10,12 @@
       <path id="Trazado_110906" data-name="Trazado 110906" d="M153.76,259.221s-1.692,13.691-11.473,9.36c-7.046-3.088-4.283-14.791,1.224-17.659S156.437,247.643,153.76,259.221Z" transform="translate(-138.076 -249.222)" fill="#da8c8d"/>
     </clipPath>
   </defs>
-  <g id="Grupo_55211" data-name="Grupo 55211" transform="translate(-249.39 -1089.869)">
+  <g id="Grupo_56943" data-name="Grupo 56943" transform="translate(-227.082 -1069.174)">
+    <g id="Grupo_56922" data-name="Grupo 56922" transform="translate(-713.118 697.175)">
+      <path id="Trazado_118363" data-name="Trazado 118363" d="M0,0H375V421H0Z" transform="translate(1125.567 372.189)" fill="#f5f3fc"/>
+      <path id="Trazado_118360" data-name="Trazado 118360" d="M-59.418,767.817v421.651H-11.44l-.01-.266c-.736-19.086.8-69.307,30.9-123.309,30.3-54.36,79.262-94.314,145.526-118.751a232.36,232.36,0,0,0,77.981-47.734,253.641,253.641,0,0,0,46.731-58.866c22.1-38.052,28.566-70.047,28.831-71.39l.263-1.336Z" transform="translate(1184.334 -395.817)" fill="#e2def0"/>
+      <path id="Trazado_118361" data-name="Trazado 118361" d="M53.441,767.817S28.425,894.879-95.705,940.657c-154.076,56.822-183.387,185.229-180.936,248.811H-502.418V767.817Z" transform="translate(1442.617 -395.817)" fill="#fff"/>
+    </g>
     <g id="CF1_banner_copia" data-name="CF1_banner copia" transform="translate(233.07 1041.029)">
       <g id="Grupo_55068" data-name="Grupo 55068" transform="translate(45.175 108.491)">
         <g id="Grupo_55066" data-name="Grupo 55066">

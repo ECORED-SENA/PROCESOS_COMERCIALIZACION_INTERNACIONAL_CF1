@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="356.734" height="337.243" viewBox="0 0 356.734 337.243">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="486" height="343.063" viewBox="0 0 486 343.063">
   <defs>
     <linearGradient id="linear-gradient" x1="1.021" y1="-0.022" x2="0.152" y2="0.948" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#9182ca"/>
@@ -65,8 +65,13 @@
     <linearGradient id="linear-gradient-49" x1="0.669" y1="-4.101" x2="0.407" y2="3.049" xlink:href="#linear-gradient-11"/>
     <linearGradient id="linear-gradient-50" x1="0.71" y1="-5.226" x2="0.448" y2="1.924" xlink:href="#linear-gradient-11"/>
   </defs>
-  <g id="Grupo_54993" data-name="Grupo 54993" transform="translate(-285 -3362.785)">
-    <g id="CF1_curva" transform="translate(265.47 3329.356)">
+  <g id="Grupo_56928" data-name="Grupo 56928" transform="translate(-304 -3409)">
+    <g id="Grupo_56915" data-name="Grupo 56915" transform="translate(-674.677 3037)">
+      <rect id="Rectángulo_6959" data-name="Rectángulo 6959" width="343" height="343" transform="translate(1121.677 372)" fill="#f5f3fc"/>
+      <path id="Trazado_118360" data-name="Trazado 118360" d="M-59.418,767.817V1110.88h39.035l-.008-.216c-.6-15.528.652-56.389,25.142-100.326,24.652-44.228,64.489-76.735,118.4-96.618A189.053,189.053,0,0,0,186.6,874.883a206.367,206.367,0,0,0,38.022-47.894C242.6,796.029,247.865,770,248.08,768.9l.214-1.087Z" transform="translate(1181.032 -395.817)" fill="#e2def0"/>
+      <path id="Trazado_118361" data-name="Trazado 118361" d="M-19.035,767.817S-39.388,871.2-140.383,908.443C-265.743,954.674-289.59,1059.148-287.6,1110.88h-47.822V767.817Z" transform="translate(1442.617 -395.817)" fill="#fff"/>
+    </g>
+    <g id="CF1_curva" transform="translate(284.47 3375.572)">
       <g id="Grupo_54649" data-name="Grupo 54649" transform="translate(22.451 33.428)">
         <g id="Grupo_54644" data-name="Grupo 54644" transform="translate(0 28.505)">
           <g id="Grupo_54641" data-name="Grupo 54641" transform="translate(33.983 34.755)" opacity="0.3">
