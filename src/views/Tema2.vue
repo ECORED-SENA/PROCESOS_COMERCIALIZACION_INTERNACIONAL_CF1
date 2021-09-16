@@ -30,7 +30,7 @@
     p.mb-3 Fourastié también habla sobre el aumento de la calidad de vida, la seguridad social, el florecimiento de la educación y la cultura, una mayor cualificación, la humanización del trabajo y evitar el desempleo. 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10.mb-5.mb-lg-0
+      .col-lg-11.mb-5.mb-lg-0
         .bloque-texto-b.color-custom-1.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
@@ -44,9 +44,9 @@
     #t_2_2.titulo-segundo
       .h2.mb-3 2.2 Distribución de los sectores económicos
 
-    .row
-      .col-lg-12.mb-5.mb-lg-0
-            img(src="@/assets/curso/images/tema2/img_2.svg", alt="", style="width:1200px; display:block; margin:0 auto;")
+    .row.justify-content-center.align-items-center.mb-3
+        .col-lg-12.mb-5.mb-lg-8.fondo-2
+          img(src="@/assets/curso/images/tema2/img_2.svg", alt="", style="width:800px; display:block; margin:0 auto;")
     Separador 
    
     #t_2_3.titulo-segundo
@@ -696,10 +696,45 @@
                   br
                   span(style='color:black') 3,3
                   span(style='background-color:#D9D9D9')
-      .row.my-5
+      
+      .row.justify-content-center.align-items-center.my-5
         br
-        SlyderB.slyder-color-5.mb-5(:datos="datosSlyder1")
-        figcaption Fuente: (ANDI)
+        SlyderE.slyder-color-5
+          .row.p-4
+            .col-md-6.mb-4.mb-md-0
+              br
+              p Al analizar los resultados del Producto Interno Bruto (PIB) de 2019, podemos afirmar que la economía del país registró un crecimiento de 3,3 por ciento, lo que significa una notable aceleración frente al PIB de 2,5 por ciento valorado en 2018. Así mismo, es de destacar un importante crecimiento en la economía colombiana en el tercer y cuarto trimestre de 2019, con registros del 3,5 y 3,4 por ciento, respectivamente.
+          
+            .col-md-6
+              figure
+                img(src='@/assets/curso/images/tema2/img_11.svg',alt= "",style="width:300px; display:block; margin:0 auto;")
+          .row.p-4
+            .col-md-6.mb-4.mb-md-0
+              br
+              p Dentro de las actividades económicas de mayor crecimiento durante el 2019 podemos resaltar las actividades financieras que pasaron de un crecimiento del 3,6 por ciento en 2018 a un 5,7 por ciento en 2019 lo que representa una variación del 2,1 por ciento con respecto al 2018, también tenemos el comercio al por mayor y al por menor; reparación de automotores y motocicletas; transporte y almacenamiento; alojamiento y servicios de comida que presentaron un crecimiento del 2,7 por ciento en 2018 y del 4,9 por ciento en 2019.
+          
+            .col-md-6
+              figure
+                img(src='@/assets/curso/images/tema2/img_12.svg',alt= "",style="width:300px; display:block; margin:0 auto;")
+          .row.p-4
+            .col-md-6.mb-4.mb-md-0
+              br
+              p Conviene mencionar aquellas actividades económicas que presentaron un crecimiento inferior con respecto al comportamiento presentado en 2018, dichas actividades son las industrias de manufactura que pasaron de un crecimiento del 1,8 por ciento en 2018 a 1,6 por ciento en 2019, también está el sector de la información y las comunicaciones que en 2018 logro crecer un 2,9 por ciento y en 2019 apenas logro un crecimiento del 1,7 por ciento.
+          
+            .col-md-6
+              figure
+                img(src='@/assets/curso/images/tema2/img_13.svg',alt= "",style="width:300px; display:block; margin:0 auto;")
+            
+          .row.p-4
+            .col-md-6.mb-4.mb-md-0
+              br
+              p Es de resaltar la fuerte aceleración experimentada por el sector de la explotación de minas y canteras que paso de un crecimiento negativo del 1,9 por ciento en 2018 a un crecimiento del 2,1 por ciento en 2019, resulta preocupante el comportamiento del sector de la construcción el cual presenta un comportamiento negativo que va en picada pasando de un crecimiento negativo del 0,4 por ciento en 2018 a un inquietante crecimiento negativo del 1,3 por ciento en 2019.
+          
+            .col-md-6
+              figure
+                img(src='@/assets/curso/images/tema2/img_14.svg',alt= "",style="width:300px; display:block; margin:0 auto;")
+
+      figcaption Fuente: (ANDI)
     
 
    

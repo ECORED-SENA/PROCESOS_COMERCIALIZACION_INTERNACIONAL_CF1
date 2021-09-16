@@ -63,7 +63,7 @@
       .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
         .col-lg-12.mb-5.mb-lg-0.fondo 
             img.my-3(src="@/assets/curso/images/tema5/img_3_1.svg", alt="", style="width:800px; display:block; margin:0 auto;")
-            figcaption Fuente: Rojas y Medina (2011).
+           
 
       Separador
       #t_5_4.titulo-segundo

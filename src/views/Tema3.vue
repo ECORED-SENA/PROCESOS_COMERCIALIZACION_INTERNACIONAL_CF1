@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-5.mb-lg-0
-        #t_3_2.titulo-segundo
+        #t_3_1.titulo-segundo
          .h4 3.1 Introducción al mercadeo internacional
         p.mb-3 Actualmente, el mercadeo internacional, es la herramienta más útil para las empresas en su deseo de aprovechar las oportunidades que se encuentran a nivel mundial, permitiendo valorar los recursos propios (nacionales), por ejemplo, el café o el algodón en el caso colombiano; y la experiencia que se posee dentro de las empresas para poder procesarlos y adaptarlos a las necesidades de los clientes del exterior.  
 
@@ -45,7 +45,7 @@
               .h5.mb-0 Mankiw, 2017
         .col-6
           .table_overflow
-            table(style="min-width:1042px;").tg
+            table.tg
               thead
                 tr.th-1
                   th.tg-0pky(rowspan='1',colspan='1')
@@ -58,34 +58,34 @@
                     span(style='background-color:#D9D9D9') 
               tbody
                 tr
-                  td.text-center.th-2(colspan='1') $1.00
-                  td.text-center.th-2(colspan='1') 500
+                  td(width='15').text-center.th-2 $1.00
+                  td(width='15').text-center.th-2 500
                 tr
-                  td.text-center(colspan='1').th-3  $1.20
-                  td.text-center(colspan='1').th-3  550
+                  td(width='15').text-center.th-3  $1.20
+                  td(width='15').text-center.th-3  550
                 tr
-                  td.text-center(colspan='1').th-2  $1.40
-                  td.text-center(colspan='1').th-2   600
+                  td(width='15').text-center.th-2  $1.40
+                  td(width='15').text-center.th-2   600
                 tr
-                  td.text-center(colspan='1').th-3   $1.60
-                  td.text-center(colspan='1').th-3  640
+                  td(width='15').text-center.th-3   $1.60
+                  td(width='15').text-center.th-3  640
                 tr
-                  td.text-center(colspan='1').th-2  $1.80
-                  td.text-center(colspan='1').th-2   680
+                  td(width='15').text-center.th-2  $1.80
+                  td(width='15').text-center.th-2   680
                 tr
-                  td.text-center(colspan='1').th-3   $2.00
-                  td.text-center(colspan='1').th-3  700
+                  td(width='15').text-center.th-3   $2.00
+                  td(width='15').text-center.th-3  700
                 tr
-                  td.text-center(colspan='1').th-2   $2.20
-                  td.text-center(colspan='1').th-2   720
+                  td(width='15').text-center.th-2   $2.20
+                  td(width='15').text-center.th-2   720
 
       p.mb-3 El precio se mide en dólares por galón de gasolina y la cantidad ofrecida se mide en millones de galones.
 
       p.mb-5 A continuación, se muestra la misma información como una curva de oferta, con la cantidad en el eje horizontal y el precio por litro en el eje vertical.       
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-12.col-md-8.col-lg-10.col-xl-10.mb-4
-          img.my-3(src="@/assets/curso/images/tema3/img_7.svg", alt= "",style="width:700px; display:block; margin:0 auto;") 
+        .col-12.col-md-8.col-lg-10.col-xl-8.mb-4
+          img(src="@/assets/curso/images/tema3/img_7.svg", alt= "",style="width:1000px; display:block; margin:0 auto;") 
       
       figcaption.mb-5 Fuente:  (Khan Academy, 2015)
       
@@ -94,7 +94,7 @@
       p.mb-5 A medida que el precio se incrementa, por ejemplo, de $1.00 a $2.20 por galón, la cantidad ofrecida aumenta de 500 millones a 720 millones de galones. Por el contrario, a medida que el precio disminuye, la cantidad ofrecida disminuye.
       
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-10.mb-5.mb-lg-0
+        .col-lg-11.mb-5.mb-lg-0
           .bloque-texto-b.color-custom-1.p-4
             .bloque-texto-d__texto.mb-2
               i.fas.fa-quote-left
@@ -122,7 +122,7 @@
       p.mb-5 Desplazamiento de la oferta: el ejemplo de un automóvil.
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-12.col-md-8.col-lg-10.col-xl-10.mb-4
+        .col-12.col-md-8.col-lg-12.col-xl-10.mb-4
           img.my-3(src="@/assets/curso/images/tema3/img_3.svg", alt= "",style="width:700px; display:block; margin:0 auto;") 
         figcaption.mb-5 Fuente:  (Khan Academy, 2015)
 
@@ -192,8 +192,8 @@
     p.mb-5 Gráficamente, se muestra como una curva lineal que parte desde el origen:  
 
        .row.justify-content-center.align-items-center.mb-5
-        .col-12.col-md-8.col-lg-10.col-xl-10.mb-4
-          img.my-3(src="@/assets/curso/images/tema3/img_6.svg", alt= "",style="width:700px; display:block; margin:0 auto;") 
+        .col-12.col-md-8.col-lg-10.col-xl-8.mb-4
+          img.my-3(src="@/assets/curso/images/tema3/img_6.svg", alt= "",style="width:600px; display:block; margin:0 auto;") 
 
           figcaption Fuente: (Economics Online, 2018)
 

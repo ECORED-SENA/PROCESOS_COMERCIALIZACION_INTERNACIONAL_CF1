@@ -69,87 +69,97 @@
     #t_1_4.titulo-segundo
       .h4 1.4 Clasificación de los mercados
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.mb-5.mb-lg-0
-          img.my-3(src="@/assets/curso/images/tema1/img_3.svg" alt="", style="width:1200px; display:block; margin:0 auto;")
+    .row.justify-content-center.align-items-center.fondo-1.mb-5
+      .col-lg-10.mb-5.mb-lg-0
+          img(src="@/assets/curso/images/tema1/img_4.svg" alt="", style="width:800px; display:block; margin:0 auto;")
 
     TabsC.color-primario.mb-5
         .py-3.py-md-4(titulo="Desde el punto de vista geográfico")
           .row
             .col-md-3.mb-3.mb-md-0.d-flex
-              .tarjeta_Sp.p-4
-                h6.text-center.mb-2 Mercados locales y/o regionales
-                p.text-center.mb-3.small.text  En el ámbito geográfico es el espacio más reducido del mercado. Hace referencia a las empresas, emprendimientos y negocios que se encuentran ubicados y desarrollan sus operaciones en veredas, municipios y departamentos. Por ejemplo: “una panadería o fruver” ubicado en el municipio de Espinal (Tolima).  
+              .bg
+                .tarjeta_Sp.p-4
+                  h6.text-center.mb-2 Mercados locales y/o regionales
+                  p.text-center.mb-3.small.text  En el ámbito geográfico es el espacio más reducido del mercado. Hace referencia a las empresas, emprendimientos y negocios que se encuentran ubicados y desarrollan sus operaciones en veredas, municipios y departamentos. Por ejemplo: “una panadería o fruver” ubicado en el municipio de Espinal (Tolima).  
             .col-md-3.mb-3.mb-md-0.d-flex
-              .tarjeta_Sp-1.p-4
-                h6.text-center.mb-4 Mercados nacionales
-                p.text-center.small.text  Este tipo de mercado extiende sus operaciones hacia los clientes potenciales en todo el país. Por ejemplo: “Tomaticos”, empresa de confección de ropa infantil, quienes tienen operaciones a nivel nacional en Colombia. 
+              .bg-1
+                .tarjeta_Sp-1.p-4
+                  h6.text-center.mb-4 Mercados nacionales
+                  p.text-center.small.text  Este tipo de mercado extiende sus operaciones hacia los clientes potenciales en todo el país. Por ejemplo: “Tomaticos”, empresa de confección de ropa infantil, quienes tienen operaciones a nivel nacional en Colombia. 
 
             .col-md-3.mb-3.mb-md-0.d-flex
-              .tarjeta_Sp-2.p-4
-                h6.text-center.mb-3 Mercados multinacionales y extranjeros
-                p.text-center.small.text  Todas aquellas empresas que extienden sus actividades por diversos países, por ende, los compradores potenciales tienen distintas nacionalidades. 
+              .bg-2
+                .tarjeta_Sp-2.p-4
+                  h6.text-center.mb-3 Mercados multinacionales y extranjeros
+                  p.text-center.small.text  Todas aquellas empresas que extienden sus actividades por diversos países, por ende, los compradores potenciales tienen distintas nacionalidades. 
 
             .col-md-3.mb-3.mb-md-0.d-flex
-              .tarjeta_Sp-3.p-4
-                h6.text-center.mb-3 Mercados globales
-                p.text-center.small.text Su origen no es otro que el fenómeno de la globalización. En un mundo tan avanzado como el actual, las empresas operan a nivel mundial realizando operaciones comerciales que incluye prácticamente todas las zonas del planeta. Internet ha jugado un papel decisivo en la consolidación de los mercados globales. 
+              .bg-3
+                .tarjeta_Sp-3.p-4
+                  h6.text-center.mb-3 Mercados globales
+                  p.text-center.small.text Su origen no es otro que el fenómeno de la globalización. En un mundo tan avanzado como el actual, las empresas operan a nivel mundial realizando operaciones comerciales que incluye prácticamente todas las zonas del planeta. Internet ha jugado un papel decisivo en la consolidación de los mercados globales. 
         
         .py-3.py-md-4(titulo="Según el tipo de consumo")
           .row.justify-content-center.align-items-center
             .col-md-3.mb-3.mb-md-0.d-flex
-              .tarjeta_Sp-4.p-5
-                h6.text-center.mb-3 Mercado de consumo
-                p.text-center.small.text Se compone de todos los compradores que buscan suplir una necesidad por medio de la adquisición de un bien y/o servicio de consumo. 
+              .bg-4
+                .tarjeta_Sp-4.p-5
+                  h6.text-center.mb-3 Mercado de consumo
+                  p.text-center.small.text Se compone de todos los compradores que buscan suplir una necesidad por medio de la adquisición de un bien y/o servicio de consumo. 
 
             .col-md-3.mb-3.mb-md-0.d-flex
-              .tarjeta_Sp-5.p-5
-                h6.text-center.mb-3 Mercado de servicios
-                p.text-center.small.text  Todas aquellas empresas que realizan la transacción de intangibles, es decir, de los servicios que suplen las necesidades de los clientes potenciales. Ejemplo, las empresas de telefonía, educación, transporte, servicios públicos, entre otras. 
+              .bg-5
+                .tarjeta_Sp-5.p-5
+                  h6.text-center.mb-3 Mercado de servicios
+                  p.text-center.small.text  Todas aquellas empresas que realizan la transacción de intangibles, es decir, de los servicios que suplen las necesidades de los clientes potenciales. Ejemplo, las empresas de telefonía, educación, transporte, servicios públicos, entre otras. 
           
             .col-md-3.mb-3.mb-md-0.d-flex
-              .tarjeta_Sp-6.p-5
-                h6.text-center.mb-3 Mercado Industrial
-                p.text-center.small.text Es un tipo de mercado profesional al que las empresas acceden para poder comprar los bienes y servicios que necesitan para realizar sus actividades. Un ejemplo sería el caso de una empresa de electricidad que compra materiales necesarios para el día a día de su actividad. 
+              .bg-6
+                .tarjeta_Sp-6.p-5
+                  h6.text-center.mb-3 Mercado Industrial
+                  p.text-center.small.text Es un tipo de mercado profesional al que las empresas acceden para poder comprar los bienes y servicios que necesitan para realizar sus actividades. Un ejemplo sería el caso de una empresa de electricidad que compra materiales necesarios para el día a día de su actividad. 
           
         .py-3.py-md-4(titulo="Según el tipo de producto")
           .row.justify-content-center.align-items-center
             .col-md-3.mb-4.mb-md-0.d-flex
-              .tarjeta_Sp-7.p-5
-                h6.text-center.mb-4 Mercado de materias primas
-                p.text-center.small.text Como su nombre lo indica, es el mercado en el cual hay una oferta de productos que no han sufrido un proceso de transformación, productos extraídos de la naturaleza, tales como las frutas, verduras, petróleo, algodón entre otros. 
+              .bg-7
+                .tarjeta_Sp-7.p-5
+                  h6.text-center.mb-4 Mercado de materias primas
+                  p.text-center.small.text Como su nombre lo indica, es el mercado en el cual hay una oferta de productos que no han sufrido un proceso de transformación, productos extraídos de la naturaleza, tales como las frutas, verduras, petróleo, algodón entre otros. 
             .col-md-3.mb-4.mb-md-0.d-flex
-              .tarjeta_Sp-8.p-5
-                h6.text-center.mb-4 Mercado de productos industriales
-                p.text-center.small.text Se compone de los clientes o usuarios pertenecientes a las organizaciones que compran productos o servicios para elaborar otra clase de productos. Por ejemplo, el fabricante que compra madera para transformarla en camas.   
+              .bg-8
+                .tarjeta_Sp-8.p-5
+                  h6.text-center.mb-4 Mercado de productos industriales
+                  p.text-center.small.text Se compone de los clientes o usuarios pertenecientes a las organizaciones que compran productos o servicios para elaborar otra clase de productos. Por ejemplo, el fabricante que compra madera para transformarla en camas.   
 
         .py-3.py-md-4(titulo="Según el tipo de demanda")
           .row
             .col-md-3.mb-4.mb-md-0.d-flex
-              .tarjeta_Sp-9.p-5
-                h6.text-center.mb-2 Mercados disponible
-                p.text-center.mb-3.small.text  Son todos aquellos que tienen una necesidad especifica y cuenta con las características necesarias para consumir un producto. Un ejemplo de un mercado disponible puede estar constituido por aquellos consumidores que tienen la necesidad de un jabón liquido para manos, y además cuentan con las características del poder adquisitivo, costumbre entre otras; para comprarlos.  
+              .bg-9
+                .tarjeta_Sp-9.p-5
+                  h6.text-center.mb-2 Mercados disponible
+                  p.text-center.mb-3.small.text  Son todos aquellos que tienen una necesidad especifica y cuenta con las características necesarias para consumir un producto. Un ejemplo de un mercado disponible puede estar constituido por aquellos consumidores que tienen la necesidad de un jabón liquido para manos, y además cuentan con las características del poder adquisitivo, costumbre entre otras; para comprarlos.  
         
             .col-md-3.mb-4.mb-md-0.d-flex
-              .tarjeta_Sp-10.p-5
-                h6.text-center.mb-2 Mercados real
-                p.text-center.mb-3.small.text Son todos aquellos consumidores del mercado disponible que compra un producto un producto especifico El ejemplo serían todos aquellos consumidores que  compran un jabón líquido. En esta primera clasificación es importante notar que no todos aquellos consumidores tienen una necesidad y las características especificas para comprar un producto serán consumidores reales, pero si serán consumidores disponibles.
+              .bg-10 
+                .tarjeta_Sp-10.p-5
+                  h6.text-center.mb-2 Mercados real
+                  p.text-center.mb-3.small.text Son todos aquellos consumidores del mercado disponible que compra un producto un producto especifico El ejemplo serían todos aquellos consumidores que  compran un jabón líquido. En esta primera clasificación es importante notar que no todos aquellos consumidores tienen una necesidad y las características especificas para comprar un producto serán consumidores reales, pero si serán consumidores disponibles.
     
             .col-md-3.mb-4.mb-md-0.d-flex
-              .tarjeta_Sp-11.p-5
-                h6.text-center.mb-2 Mercados potencial
-                p.text-center.mb-3.small.text  Es el conjunto de consumidores que  no hacen parte del mercado real, pero en ocasiones sí pueden tener parte del mercado disponible. Este grupo no consume el producto específico, debido a que no tienen las características del segmento o porque consume otro producto. Por ejemplo: los consumidores que cumplen con las características pero compran el jabón en pasta. 
+              .bg-11 
+                .tarjeta_Sp-11.p-5
+                  h6.text-center.mb-2 Mercados potencial
+                  p.text-center.mb-3.small.text  Es el conjunto de consumidores que  no hacen parte del mercado real, pero en ocasiones sí pueden tener parte del mercado disponible. Este grupo no consume el producto específico, debido a que no tienen las características del segmento o porque consume otro producto. Por ejemplo: los consumidores que cumplen con las características pero compran el jabón en pasta. 
 
             .col-md-3.mb-4.mb-md-0.d-flex
-              .tarjeta_Sp-12.p-5
-                h6.text-center.mb-2 Mercados meta
-                p.text-center.mb-3.small.text  Puede definirse como el conjunto de consumidores que pertenecen al mercado disponible, que pueden formar parte del mercado real y potencial; y al cual se dirigen todos los esfuerzos y acciones mercadológicos de la empresa, con la finalidad de que todos logren convertirse en consumidores reales del producto.  
+              .bg-12
+                .tarjeta_Sp-12.p-5
+                  h6.text-center.mb-2 Mercados meta
+                  p.text-center.mb-3.small.text  Puede definirse como el conjunto de consumidores que pertenecen al mercado disponible, que pueden formar parte del mercado real y potencial; y al cual se dirigen todos los esfuerzos y acciones mercadológicos de la empresa, con la finalidad de que todos logren convertirse en consumidores reales del producto.  
 
 
-        
-
-
-
+    
 
 
 

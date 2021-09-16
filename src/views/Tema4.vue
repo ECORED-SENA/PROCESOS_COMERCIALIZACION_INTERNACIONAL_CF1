@@ -61,7 +61,7 @@
           p Principales Sectores 2019
 
            .table_overflow.mb-5
-            table(style="min-width:1042px;").tg
+            table.tg
               thead
                 tr.th-1
                   th.tg-0pky(rowspan='4',colspan='2')
@@ -107,9 +107,9 @@
                   td.text-center(colspan='2').th-2  <b> 100,0 </b>
 
       .row(data-aos="flip-up")
-        .col-12.col-md-8.col-lg-10.col-xl-12.mb-3
+        .col-12.col-md-8.col-lg-10.col-xl-12.fondo-3.mb-3
             figure.mb-5
-                img(src="@/assets/curso/images/tema4/img_4.svg", alt="", style="width:1000px; display:block; margin:0 auto;")
+                img(src="@/assets/curso/images/tema4/img_3.svg", alt="", style="width:750px; display:block; margin:0 auto;")
 
         p.mb-3 Evidenciando una diversidad de oportunidades de exportación con las que cuenta Colombia, aprovechando los recursos naturales que posee al igual que los beneficios que obtiene por tener diferentes tratados de libre comercio (TLC) suscritos y vigentes con diversos países. 
         p.mb-3 Desde 2002 Colombia ha exportado aproximadamente hacia 180 mercados, triplicando sus exportaciones en los últimos 10 años. 
@@ -142,11 +142,11 @@
         #t_4_3.titulo-segundo
           .h4 4.3  Mapa oferta exportable por regiones económicas
         
-        ImagenInfografica.color-secundario.mb-5
+        ImagenInfografica.color-secundario.fondo-4.mb-5
 
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/images/tema4/img_6.svg', alt= "",style="width:1200px; display:block; margin:0 auto;")
+              img(src='@/assets/curso/images/tema4/img_6.svg', alt= "",style="width:400px; display:block; margin:0 auto;")
               
           .tarjeta.slyder-color-1.p-3(x="48%" y="18%") 
             .h5.mb-2 Región Caribe
