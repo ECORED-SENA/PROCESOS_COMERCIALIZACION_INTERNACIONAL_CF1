@@ -7,13 +7,14 @@
         span 1
       h1 Mercados
 
-    #t_1_1.titulo-segundo
-      .h4 1.1 Introducción 
-    p.mb-3 Actualmente en el afán de ser cada día más competitivos y líderes en el mercado, los empresarios y emprendedores han enfocado sus esfuerzos en crear estrategias para lograr la satisfacción de las necesidades, gustos y preferencias de los clientes. En este sentido, el mercadeo se ha convertido en la pieza clave para el éxito y supervivencia de las empresas, ocupando un papel fundamental en el funcionamiento y dinámica de las mismas, las cuales evidencian un notorio cambio casi a diario de las condiciones del mercado y el entorno en el cual desarrollan sus operaciones. 
+    
     .row
       figure.mb-5
       .video.mb-5
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    
+    #t_1_1.titulo-segundo
+      .h4 1.1 ¿Qué es el mercadeo?
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-5.mb-lg-0
@@ -65,6 +66,8 @@
             li 
               i.fas.fa-angle-right
               | Comunicar a los clientes la existencia de los productos e instarlos a preferirlos a aquellos de los competidores (publicidad y ventas).
+            
+            figcaption (Prettel, 2016)
     Separador 
     #t_1_4.titulo-segundo
       .h4 1.4 Clasificación de los mercados

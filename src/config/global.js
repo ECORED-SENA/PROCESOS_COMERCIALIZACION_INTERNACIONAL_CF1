@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'La oferta exportable de bienes y servicios',
     descripcionCurso:
-      'Las empresas colombianas se enfrentan a diferentes cambios y retos que afectan directa e indirectamente la dinámica de sus operaciones, en el momento en el cual desean incursionar en mercados internacionales.<br> <br> Estos retos hacen que las mismas busquen soluciones basadas en el estudio y conocimiento de los diferentes sectores de la economía nacional para lograr localizar, en primer lugar, la oferta exportable y posteriormente, las posibilidades de éxito o fracaso a nivel internacional',
+      'Las empresas colombianas se enfrentan a diferentes cambios y retos que afectan directa e indirectamente la dinámica de sus operaciones, en el momento en el cual desean incursionar en mercados internacionales.<br> Estos retos hacen que las mismas busquen soluciones basadas en el estudio y conocimiento de los diferentes sectores de la economía nacional para lograr localizar, en primer lugar, la oferta exportable y posteriormente, las posibilidades de éxito o fracaso a nivel internacional.',
     imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
   },
@@ -393,7 +393,7 @@ export default {
     {
       referencia:
         'Tejvan Pettinger (2016). Price Elasticity of Supply. Economics Help ',
-      link: 'https://conomicshelp.org',
+      link: 'https://economicshelp.org',
     },
     {
       referencia:
@@ -561,11 +561,6 @@ export default {
         'Indicador económico que refleja el valor monetario de todos los bienes y servicios finales producidos por un país o región en un determinado periodo de tiempo, normalmente un año.',
     },
     {
-      termino: 'Mercados globales',
-      significado:
-        'Su origen no es otro que el fenómeno de la globalización. En un mundo tan avanzado como el actual, las empresas operan a nivel mundial realizando operaciones comerciales que incluye prácticamente todas las zonas del planeta. ',
-    },
-    {
       termino: 'Proveedores',
       significado:
         'Quienes suministran los recursos para la elaboración de un producto o prestación de un servicio.',
@@ -652,12 +647,6 @@ export default {
           'Centro para La Industria de la Comunicación Gráfica - Distrito Capital',
       },
       {
-        nombre: 'Liliana Victoria Morales Gualdron',
-        cargo: 'Evaluador instruccional',
-        centro:
-          'Centro para La Industria de la Comunicación Gráfica - Distrito Capital',
-      },
-      {
         nombre: 'Julieth Paola Vital',
         cargo: 'Corrector de estilo',
         centro:
@@ -695,7 +684,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Yuli Marcela Gómez Tarazona',
+        nombre: 'María Camila Ovalle ospina ',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

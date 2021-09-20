@@ -84,7 +84,7 @@
 
       p.mb-5 En una empresa, existen diferentes tipos y niveles de planes, todos ellos interrelacionados. Estos son de tres tipos: estratégicos, tácticos y operacionales. Véase figura 4.1. a continuación.
       .col-md-10
-          p.BorTit Figura 4.1
+          p.BorTit Figura 4.1 Tipos de planes en la empresa 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10.mb-5.mb-lg-0
           img.my-3(src="@/assets/curso/images/tema5/img_4.svg") 
@@ -290,7 +290,9 @@
                 |  Que estén sujetos a los objetivos estratégicos.
               li 
                 i.fas.fa-angle-right
-                | Que sean expresados en términos cuantitativos (cuánto) y delimitados para ser alcanzados en un determinado plazo cuándo Los objetivos de mercadeo más usuales son: 
+                | Que sean expresados en términos cuantitativos (cuánto) y delimitados para ser alcanzados en un determinado plazo cuándo 
+                
+              p.mb-3 Los objetivos de mercadeo más usuales son: 
               li
                 i.fas.fa-angle-right
                 | Identificar oportunidades de crecimiento en las unidades estratégicas de negocio.

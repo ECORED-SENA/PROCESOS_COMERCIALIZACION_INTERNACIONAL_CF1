@@ -35,7 +35,7 @@
           ul.lista-ul.p-4.mb-5
             li 
               i.fas.fa-angle-right
-              | Ganar competitividad mediante la adquisición de tecnología, <i>Know how</i> y capacidad gerencial obtenidas en el mercado.
+              p Ganar competitividad mediante la adquisición de tecnología, <i>Know how</i> y capacidad gerencial  obtenidas en el mercado.
             li 
               i.fas.fa-angle-right
               |  Hacer alianzas estratégicas con empresas extranjeras para reducir costos, mejorar la eficiencia y diversificar productos.
@@ -107,9 +107,9 @@
                   td.text-center(colspan='2').th-2  <b> 100,0 </b>
 
       .row(data-aos="flip-up")
-        .col-12.col-md-8.col-lg-10.col-xl-12.fondo-3.mb-3
+        .col-12.col-md-8.col-lg-10.col-xl-12.mb-3
             figure.mb-5
-                img(src="@/assets/curso/images/tema4/img_3.svg", alt="", style="width:750px; display:block; margin:0 auto;")
+                img(src="@/assets/curso/images/tema4/img_3.svg", alt="", style="width:1150px; display:block; margin:0 auto;")
 
         p.mb-3 Evidenciando una diversidad de oportunidades de exportación con las que cuenta Colombia, aprovechando los recursos naturales que posee al igual que los beneficios que obtiene por tener diferentes tratados de libre comercio (TLC) suscritos y vigentes con diversos países. 
         p.mb-3 Desde 2002 Colombia ha exportado aproximadamente hacia 180 mercados, triplicando sus exportaciones en los últimos 10 años. 

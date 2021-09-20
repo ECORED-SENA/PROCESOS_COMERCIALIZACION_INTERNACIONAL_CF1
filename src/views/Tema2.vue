@@ -52,6 +52,7 @@
     #t_2_3.titulo-segundo
       .h4 2.3 Clasificación de los sectores económicos
     .row.mb-5
+      p.mb-5 Según estudios económicos presentados por la subgerencia cultural del Banco de la República los sectores se clasifican según el tipo de productos o servicios que ofrecen en:
       br
       SlyderB.mb-5(:datos="datosSlyder")
       figcaption Fuente: Subgerencia Cultural del Banco de la República (2005)
@@ -134,7 +135,7 @@
             p Aglutina actividades empresariales y políticas con un alto grado de especialización y relacionadas con la gestión y distribución (compra, venta y alquiler) de la información, el bien económico fundamental. La sociedad se centraba antes en actividades materiales de tipo industrial y ahora se aglutina en torno a tareas que tienen que ver con el valor intangible de la información, tales como la dirección, la alta investigación, las nuevas tecnologías y la toma de decisiones. Se dice que ha surgido una nueva sociedad en el nuevo milenio, la sociedad de la información (cuyos antecedentes se encuentran en el concepto de Daniel Bell sobre la sociedad postindustrial) o la sociedad del conocimiento, que plasma la revolución de la información y tecnológica que se vive en el sistema del mundo actual, tal vez de similares proporciones a la industrial de finales del siglo XVIII. 
           .row.justify-content-center.align-items-center    
             .col-md-12.mb-4.mb-md-0
-              p.mb-3 Se consideran dentro del sector cuaternario las empresas que tradicionalmente se integran en el sector industrial, pero que están ligadas con las tecnologías de la información, como los fabricantes de ordenadores, programas de ordenador y nuevas tecnologías como los CAD/CAM por sus siglas en inglés Computer Aided Design / Computer Aided Manufacturing (diseño asistido por ordenador / fabricación asistida por computadora); SIG-Geographic Information System (Sistema de información geográfica) y los portales de internet. Así mismo, las actividades relacionadas con las finanzas (cuestiones bancarias y bursátiles, seguros y grandes negocios mercantiles, entre otros)].
+              p.mb-3 Se consideran dentro del sector cuaternario las empresas que tradicionalmente se integran en el sector industrial, pero que están ligadas con las tecnologías de la información, como los fabricantes de ordenadores, programas de ordenador y nuevas tecnologías como los CAD/CAM por sus siglas en inglés <i>Computer Aided Design / Computer Aided Manufacturing (diseño asistido por ordenador / fabricación asistida por computadora); SIG-Geographic Information System</i> (Sistema de información geográfica) y los portales de internet. Así mismo, las actividades relacionadas con las finanzas (cuestiones bancarias y bursátiles, seguros y grandes negocios mercantiles, entre otros)].
 
               p También se consideran dentro del cuaternario ciertos trabajos ligados a la información, como el realizado en las editoriales, los medios de comunicación, las bibliotecas, las consultorías y hasta las empresas telefónicas y el teletrabajo.
 
@@ -755,7 +756,7 @@ export default {
   data: () => ({
     datosSlyder: [
       {
-        titulo: 'Sector primario o agropecuario',
+        titulo: ' Sector primario o agropecuario',
         texto:
           'Obtiene el producto de sus actividades directamente de la naturaleza, sin ningún proceso de transformación. La agricultura, la ganadería, la silvicultura, la caza y la pesca.',
         imagen: require('@/assets/curso/images/tema2/img_3_1.png'),
@@ -763,7 +764,7 @@ export default {
       {
         titulo: 'Sector secundario o industrial ',
         texto:
-          'Comprende todas las actividades económicas de un país relacionadas con la transformación industrial de los alimentos y otros tipos de bienes o mercancías, los cuales se utilizan como base para la fabricación de nuevos productos. <br> Extracción minera y de petróleo. <br> Envasado de legumbres y frutas, embotellado de refrescos, fabricación de abonos y fertilizantes, vehículos, cementos y aparatos electrodomésticos, entre otros.',
+          'Comprende todas las actividades económicas de un país relacionadas con la transformación industrial de los alimentos y otros tipos de bienes o mercancías, los cuales se utilizan como base para la fabricación de nuevos productos. <br> • Extracción minera y de petróleo. <br> • Envasado de legumbres y frutas, embotellado de refrescos, fabricación de abonos y fertilizantes, vehículos, cementos y aparatos electrodomésticos, entre otros.',
         imagen: require('@/assets/curso/images/tema2/img_4_1.png'),
       },
       {
