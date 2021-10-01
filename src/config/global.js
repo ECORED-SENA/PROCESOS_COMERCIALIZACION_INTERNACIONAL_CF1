@@ -47,8 +47,14 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.4',
-            titulo: 'Clasificación de los mercados',
+            titulo: '¿Qué es un mercado?',
             hash: 't_1_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.5',
+            titulo: 'Clasificación de los mercados',
+            hash: 't_1_5',
           },
         ],
       },
