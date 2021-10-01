@@ -423,11 +423,6 @@ export default {
         'Camino seguido por el producto, a través de los intermediarios; va desde el productor al consumidor final.',
     },
     {
-      termino: 'Pirognóstico',
-      significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
-    },
-    {
       termino: 'Capacidad ociosa ',
       significado:
         'Capacidad instalada de producción de una empresa que no se utiliza o que se subutiliza.',
@@ -475,11 +470,6 @@ export default {
       termino: 'Entorno',
       significado:
         'Se puede definir como el conjunto de fuerzas directas e indirectas y controlables e incontrolables que son susceptibles de ejercer influencia, desde un ámbito microeconómico y macroeconómico, en todas sus acciones, decisiones y resultados.',
-    },
-    {
-      termino: 'Pirognóstico',
-      significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
     },
     {
       termino: 'Know how',
