@@ -111,7 +111,7 @@
 
           p.mb-3 Digamos que tenemos una curva de oferta inicial para cierto automóvil. Ahora imagina que aumenta el precio del acero —un material importante de la fabricación de automóviles— de manera que fabricar un automóvil se vuelve más caro.
 
-      p.mb-5 Desplazamiento de la oferta: el ejemplo de un automóvil.
+      h3.mb-5 Desplazamiento de la oferta: el ejemplo de un automóvil.
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-md-8.col-lg-12.col-xl-10.mb-4

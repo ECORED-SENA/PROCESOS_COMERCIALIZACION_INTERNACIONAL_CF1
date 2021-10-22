@@ -15,7 +15,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-5.mb-lg-0
 
-        p.mb-3 Colombia no es ajeno a este proceso y cuenta con un amplio portafolio de productos y servicios, con descripción completa que desea exportar, entre los más destacados se encuentran los productos agrícolas, alimentos, textiles y confección, así como lo indica el catálogo de oferta exportable en Colombia B2B Marketplace de PROCOLOMBIA. 
+        p.mb-3 Colombia no es ajeno a este proceso y cuenta con un amplio portafolio de productos y servicios, con descripción completa que desea exportar, entre los más destacados se encuentran los productos agrícolas, alimentos, textiles y confección, así como lo indica el catálogo de oferta exportable en Colombia B2B <i>Marketplace</i> de PROCOLOMBIA. 
 
         p.mb-3 Para la oferta exportable hay dos enfoques diferentes; uno es cuando la oferta está constituida por la capacidad ociosa y, por otra parte, cuando existan excedentes de producción que necesiten de un nuevo mercado para ser comercializados. 
 
@@ -158,15 +158,15 @@
 
           .tarjeta.slyder-color-1.p-3(x="40%" y="47%")
             .h5.mb-2 Región Pacífico
-            p Manufacturas, agroindustria, logística y biotecnología
+            p Manufacturas, agroindustria, logística y biotecnología.
           
           .tarjeta.slyder-color-1.p-3(x="59%" y="47%")
             .h5.mb-2 Región Orinoquía
-            p Agricultura, forestal, biocombustibles e hidrocarburos
+            p Agricultura, forestal, biocombustibles e hidrocarburos.
 
           .tarjeta.slyder-color-1.p-3(x="56%" y="70%")
             .h5.mb-2 Región Amazonía
-            p Conservación y agroturismos
+            p Conservación y agroturismos.
 
 
 

@@ -290,7 +290,7 @@
                 |  Que estén sujetos a los objetivos estratégicos.
               li 
                 i.fas.fa-angle-right
-                | Que sean expresados en términos cuantitativos (cuánto) y delimitados para ser alcanzados en un determinado plazo cuándo 
+                | Que sean expresados en términos cuantitativos (cuánto) y delimitados para ser alcanzados en un determinado plazo.
                 
               p.mb-3 Los objetivos de mercadeo más usuales son: 
               li

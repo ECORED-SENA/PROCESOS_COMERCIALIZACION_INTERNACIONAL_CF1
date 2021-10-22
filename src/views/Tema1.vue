@@ -116,6 +116,7 @@
                 .tarjeta_Sp-3.p-4
                   h6.text-center.mb-3 Mercados globales
                   p.text-center.small.text Su origen no es otro que el fenómeno de la globalización. En un mundo tan avanzado como el actual, las empresas operan a nivel mundial realizando operaciones comerciales que incluye prácticamente todas las zonas del planeta. Internet ha jugado un papel decisivo en la consolidación de los mercados globales. 
+                  h6 (González, 2016)
         
         .py-3.py-md-4(titulo="Según el tipo de consumo")
           .row.justify-content-center.align-items-center
