@@ -35,6 +35,15 @@
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-6 
           img.my-3(src="@/assets/curso/images/tema3/img_2.svg", alt= "",style="width:400px; display:block; margin:0 auto;") 
+          .row.justify-content-center.align-items-center.mb-5
+            .col-lg-11.mb-5.mb-lg-0
+              .bloque-texto-b.color-custom-1.p-4
+                .bloque-texto-d__texto.mb-2
+                  i.fas.fa-quote-left
+                  h3.text-regular la cantidad ofrecida de cualquier bien o servicio”, es la cantidad que los vendedores quieren y pueden vender
+                  i.fas.fa-quote-right
+                .bloque-texto-d__autor 
+                  .h5.mb-0 Mankiw, 2017  
         .col-6
           .table_overflow
             table.tg

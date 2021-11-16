@@ -1,15 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1333.008" height="629.417" viewBox="0 0 1333.008 629.417">
-  <defs>
-    <clipPath id="clip-path">
-      <path id="Trazado_118355" data-name="Trazado 118355" d="M0,691.961H1333.008V403.57H0Z" transform="translate(0 -403.57)" fill="#472ea6" opacity="0.05"/>
-    </clipPath>
-  </defs>
-  <g id="Grupo_56925" data-name="Grupo 56925" transform="translate(-133 -3136.288)">
-    <g id="Grupo_56924" data-name="Grupo 56924">
-      <g id="Enmascarar_grupo_45" data-name="Enmascarar grupo 45" transform="translate(133 3477.314)" clip-path="url(#clip-path)">
-        <path id="Trazado_118354" data-name="Trazado 118354" d="M1431.243,935.112c197.683,85.99,415.7,135.407,636.238,75.978,437.484-117.89,437-91.85,437-91.85v547.81h-1450.6V868.076S1206.109,837.181,1431.243,935.112Z" transform="translate(-1080.854 -820.066)" fill="#472ea6" opacity="0.11"/>
-      </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="841.813" height="600.653" viewBox="0 0 841.813 600.653">
+  <g id="Grupo_56924" data-name="Grupo 56924" transform="translate(-379 -3136.288)">
     <g id="Grupo_55525" data-name="Grupo 55525" transform="translate(179.906 3101.792)">
       <g id="Grupo_55524" data-name="Grupo 55524">
         <rect id="Rectángulo_6488" data-name="Rectángulo 6488" width="215.915" height="79.04" rx="12.209" transform="translate(512.042 34.496)" fill="#12263f"/>

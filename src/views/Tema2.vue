@@ -50,7 +50,7 @@
     Separador 
    
     #t_2_3.titulo-segundo
-      .h4 2.3 Clasificación de los sectores económicos
+      h4 2.3 Clasificación de los sectores económicos
     .row.mb-5
       p.mb-5 Según estudios económicos presentados por la subgerencia cultural del Banco de la República los sectores se clasifican según el tipo de productos o servicios que ofrecen en:
       br
