@@ -117,7 +117,7 @@
         p.mb-3 Sin embargo, la mayoría de los productos nacionales representan las exportaciones no tradicionales las cuales, en términos generales, crean un amplio uso del manual de procedimientos y requieren innovación y desarrollo para lograr un nivel competitivo de talla mundial. 
         
       .row.justify-content-center.align-items-center.mb-3 
-        .col-12.col-md-8.col-lg-8.col-xl-10.mb-4
+        .col-12.col-md-8.col-lg-8.col-xl-12.mb-4
           img.my-3(src="@/assets/curso/images/tema4/img_7.jpg", alt= "",style="width:900px; display:block; margin:0 auto;") 
 
         p Colombia tiene una oferta exportable diversa que cobija productos post- industriales, manufacturas, rendas y servicios, con presencia en los cinco continentes (PROCOLOMBIA, 2011).
