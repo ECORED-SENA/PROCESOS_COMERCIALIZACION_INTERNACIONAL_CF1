@@ -21,7 +21,7 @@
       .row
         figure.mb-5
         .video.mb-5
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/138g3ojttqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       Separador 
       #t_3_2.titulo-segundo
         .h4 3.2 ¿Qué es la oferta exportable?
@@ -268,7 +268,7 @@
       .row
         figure.mb-5
         .video.mb-5
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/mle1SK5EFn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       p.mb-3 Se utilizan varios métodos de investigación para calcular las elasticidades de la oferta en la vida real, incluido el análisis de datos históricos de ventas y el uso de encuestas sobre las preferencias de los clientes, para así construir mercados de prueba capaces de modelar la elasticidad de dichos cambios.
 
