@@ -14,7 +14,7 @@
        <iframe width="560" height="315" src="https://www.youtube.com/embed/lpS6sY69J1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        
     #t_1_1.titulo-segundo
-      .h4 1.1  Introducción.
+      .h2 1.1  Introducción
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-5.mb-lg-0
@@ -36,11 +36,11 @@
         img.my-3(src="@/assets/curso/images/tema1/img_1.svg" alt="", style="width:500px; display:block; margin:0 auto;")
     Separador 
     #t_1_2.titulo-segundo
-       h4   1.2 ¿Qué es el mercadeo? 
+       h2   1.2 ¿Qué es el mercadeo? 
     p.mb-5 Para definir la palabra mercado, debemos tener claro desde qué punto de vista se va a contemplar. Económicamente hablando, el mercado se puede definir como el conjunto de compradores y vendedores en un lugar determinado, quienes, a través de sus interacciones, determinan el precio de un bien o servicio y lo adecúan según sean las necesidades y requerimientos.  
     Separador     
     #t_1_3.titulo-segundo
-      .h4 1.3 Función
+      .h2 1.3 Función
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-6.mb-5.mb-lg-0
@@ -71,7 +71,7 @@
 
     Separador 
     #t_1_4.titulo-segundo 
-      .h4 1.4 ¿Qué es un mercado?
+      .h2 1.4 ¿Qué es un mercado?
     .row.justify-content-center.align-items-center.mb-3
       .col-10
         .bloque-texto-a.color-custom.p-3.mb-5
@@ -85,7 +85,7 @@
 
     Separador 
     #t_1_5.titulo-segundo
-      .h4 1.5 Clasificación de los mercados
+      .h2 1.5 Clasificación de los mercados
 
     .row.justify-content-center.align-items-center.fondo-1.mb-5
       .col-lg-10.mb-5.mb-lg-0

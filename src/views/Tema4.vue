@@ -8,7 +8,7 @@
       h1 Oferta exportable de Colombia
 
     #t_4_1.titulo-segundo
-      .h4 4.1  Introducción
+      .h2 4.1  Introducción
     
     p.mb-3 Antes de hablar de la oferta exportable de Colombia es necesario entender el término exportación, el cual se define como el proceso de comercializar un bien o servicio en territorio extranjero, es decir, la acción de vender productos y servicios en otros paises. 
     
@@ -118,14 +118,14 @@
         
       .row.justify-content-center.align-items-center.mb-3 
         .col-12.col-md-8.col-lg-8.col-xl-12.mb-4
-          img.my-3(src="@/assets/curso/images/tema4/img_7.jpg", alt= "",style="width:900px; display:block; margin:0 auto;") 
+          img.my-3(src="@/assets/curso/images/tema4/img_7.jpg", alt= "",style="width:1000px; display:block; margin:0 auto;") 
 
         p Colombia tiene una oferta exportable diversa que cobija productos post- industriales, manufacturas, rendas y servicios, con presencia en los cinco continentes (PROCOLOMBIA, 2011).
 
       Separador 
 
       #t_4_2.titulo-segundo
-          .h4 4.2  Regiones económicas de Colombia
+          .h2 4.2  Regiones económicas de Colombia
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-6.mb-5.mb-lg-0
@@ -140,7 +140,7 @@
 
         Separador 
         #t_4_3.titulo-segundo
-          .h4 4.3  Mapa oferta exportable por regiones económicas
+          .h2 4.3  Mapa oferta exportable por regiones económicas
         
         ImagenInfografica.color-secundario.fondo-4.mb-5
 
@@ -156,15 +156,15 @@
             .h5.mb-2 Región Andina/Central
             p Tercerización de servicios, manufacturas de alto valor agregado y agroindustria especializada.
 
-          .tarjeta.slyder-color-1.p-3(x="40%" y="47%")
+          .tarjeta.slyder-color-1.p-3(x="42%" y="47%")
             .h5.mb-2 Región Pacífico
             p Manufacturas, agroindustria, logística y biotecnología.
           
-          .tarjeta.slyder-color-1.p-3(x="59%" y="47%")
+          .tarjeta.slyder-color-1.p-3(x="56%" y="45%")
             .h5.mb-2 Región Orinoquía
             p Agricultura, forestal, biocombustibles e hidrocarburos.
 
-          .tarjeta.slyder-color-1.p-3(x="56%" y="70%")
+          .tarjeta.slyder-color-1.p-3(x="54%" y="65%")
             .h5.mb-2 Región Amazonía
             p Conservación y agroturismos.
 

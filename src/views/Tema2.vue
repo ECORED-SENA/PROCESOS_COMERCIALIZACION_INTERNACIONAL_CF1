@@ -21,7 +21,7 @@
           img.my-3(src="@/assets/curso/images/tema2/img_1_1.svg", alt= "",style="width:400px; display:block; margin:0 auto;") 
     Separador 
     #t_2_1.titulo-segundo
-      .h4 2.1 Teorías económicas
+      .h2 2.1 Teorías económicas
     
     p.mb-3 La actividad económica de un país se encuentra dividida por conjuntos de actividades productivas o comerciales, cada uno de estos conjuntos o sectores, se agrupan de acuerdo a características comunes que guardan relación entre sí. Su división se realiza de acuerdo a los procesos de producción que ocurren al interior de cada uno de estos. 
 
@@ -50,7 +50,7 @@
     Separador 
    
     #t_2_3.titulo-segundo
-      h4 2.3 Clasificación de los sectores económicos
+      h2 2.3 Clasificación de los sectores económicos
     .row.mb-5
       p.mb-5 Según estudios económicos presentados por la subgerencia cultural del Banco de la República los sectores se clasifican según el tipo de productos o servicios que ofrecen en:
       br
@@ -150,7 +150,7 @@
               p Algunos autores ya hablan de un sector quinario, relativo a las actividades relacionadas con la cultura, la educación, el arte y el entretenimiento. Sin embargo, las actividades incluidas en este sector varían de unos autores a otros, incluyendo en ocasiones actividades relacionadas con la sanidad. (Fernández, Llorente y Pérez, 2007, p. 84)
     Separador  
     #t_2_4.titulo-segundo
-      .h4 2.4 Subsectores económicos
+      .h2 2.4 Subsectores económicos
 
     p.mb-5 Los sectores económicos se subdividen a su vez en una clasificación estandarizada internacional bastante específica, por ejemplo, en la rama de la industria manufacturera que pertenece al sector secundario, se encuentra la industria del vidrio y del calzado, entre otros.
 
@@ -170,7 +170,7 @@
     
     Separador 
     #t_2_5.titulo-segundo
-      .h4  2.5 Crecimiento económico colombiano
+      .h2  2.5 Crecimiento económico colombiano
     
     p.mb-5 A continuación, encuentra un análisis comparativo del crecimiento económico comprendido entre el 2018 al 2019: 
 

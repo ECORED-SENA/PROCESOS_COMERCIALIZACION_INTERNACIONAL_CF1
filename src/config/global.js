@@ -623,12 +623,12 @@ export default {
       {
         nombre: 'Kateryn Valderrama',
         cargo: 'Experta técnica',
-        centro: 'Centro de comercio y servicios – Regional Tolima',
+        centro: 'Centro de comercio y servicios - Regional Tolima',
       },
       {
         nombre: 'José Gregorio Ramírez',
         cargo: 'Experto técnico',
-        centro: 'Centro de comercio y servicios – Regional Tolima',
+        centro: 'Centro de comercio y servicios - Regional Tolima',
       },
       {
         nombre: 'Bertha Paola Bejarano Ávila',
@@ -646,7 +646,7 @@ export default {
         nombre: 'Julieth Paola Vital',
         cargo: 'Corrector de estilo',
         centro:
-          'Centro para la Industria y la Comunicación Gráfica – Distrito Capital',
+          'Centro para la Industria y la Comunicación Gráfica - Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -671,7 +671,7 @@ export default {
         nombre: 'Gustavo Adolfo Marún Suárez',
         cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Lady Adriana Ariza Luque',
@@ -688,9 +688,19 @@ export default {
     ],
     gestoresRepositorio: [
       {
+        nombre: 'Alvaro Andrés Angarita Ramirez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

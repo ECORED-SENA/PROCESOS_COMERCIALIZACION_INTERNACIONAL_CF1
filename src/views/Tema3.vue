@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-5.mb-lg-0
         #t_3_1.titulo-segundo
-         .h4 3.1 Introducción al mercadeo internacional
+         .h2 3.1 Introducción al mercadeo internacional
         p.mb-3 Actualmente, el <b>mercadeo internacional</b>, es la herramienta más útil para las empresas en su deseo de aprovechar las oportunidades que se encuentran a nivel mundial, permitiendo valorar los recursos propios (nacionales), por ejemplo, el café o el algodón en el caso colombiano; y la experiencia que se posee dentro de las empresas para poder procesarlos y adaptarlos a las necesidades de los clientes del exterior.  
 
         p.mb-5 En este sentido, el mercadeo internacional se puede definir como la forma en que una empresa extiende sus esfuerzos para incluir mercados en el extranjero, exportando sus productos y servicios y adaptándose a las condiciones de la economía global.
@@ -24,7 +24,7 @@
           <iframe width="560" height="315" src="https://www.youtube.com/embed/138g3ojttqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       Separador 
       #t_3_2.titulo-segundo
-        .h4 3.2 ¿Qué es la oferta exportable?
+        .h2 3.2 ¿Qué es la oferta exportable?
       
       p.mb-3 La oferta es definida como “la cantidad ofrecida de cualquier bien o servicio”, es la cantidad que los vendedores quieren y pueden vender (Mankiw, 2017).
 
@@ -105,7 +105,7 @@
               .h5.mb-0 Mankiw, 2017
       Separador 
       #t_3_3.titulo-segundo
-        .h4 3.3 Desplazamientos de la curva de oferta
+        .h2 3.3 Desplazamientos de la curva de oferta
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-12.col-md-8.col-lg-6.col-xl-6.mb-4
@@ -284,13 +284,13 @@
 
       .row.mb-5
         .col-8
-          img(src="@/assets/curso/images/tema3/ecu_2.svg", alt= "",style="width:950px; display:block; margin:0 auto;")
+          img(src="@/assets/curso/images/tema3/ecu_2.svg", alt= "",style="width:500px; display:block; margin:0 auto;")
           
       p.mb-5 <b>De la misma forma, se calcula el Cambio Porcentual en el Precio (CPP):</b>
 
       .row.mb-5
         .col-8
-          img(src="@/assets/curso/images/tema3/ecu_3.svg", alt= "",style="width:900px; display:block; margin:0 auto;")
+          img(src="@/assets/curso/images/tema3/ecu_3.svg", alt= "",style="width:500px; display:block; margin:0 auto;")
           
       figcaption.mb-3 Fuente: (Pettinge, 2016) 
 
