@@ -252,7 +252,7 @@ export default {
     },
     {
       referencia:
-        'Cerviño, J. (2014). Marketing Internacional, Nuevas perspectivas para un mercado globalizado. ProQuest Ebook Central ',
+        'Cerviño, J. (2014). <i>marketing</i> Internacional, Nuevas perspectivas para un mercado globalizado. ProQuest Ebook Central ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co ',
     },
     {
@@ -279,7 +279,7 @@ export default {
     },
     {
       referencia:
-        'Esteban, T. Á. (2014). Principios de marketing (3a. ed.). ProQuest Ebook Central ',
+        'Esteban, T. Á. (2014). Principios de <i>marketing</i> (3a. ed.). ProQuest Ebook Central ',
       Descarga: ' https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
@@ -321,7 +321,7 @@ export default {
     },
     {
       referencia:
-        'Limas, S. S. J. (2012). Marketing empresarial: Dirección como estrategia competitiva. ProQuest Ebook Central  ',
+        'Limas, S. S. J. (2012). <i>marketing</i> empresarial: Dirección como estrategia competitiva. ProQuest Ebook Central  ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
@@ -331,7 +331,7 @@ export default {
     },
     {
       referencia:
-        'Martínez, A. M., Torres Vargas, A. C., & Jaramillo Mejía, M. (2016). El comportamiento del mercado - SENA Martínez, S. J. M., & Jiménez, E. (2001). Marketing. ProQuest Ebook Central ',
+        'Martínez, A. M., Torres Vargas, A. C., & Jaramillo Mejía, M. (2016). El comportamiento del mercado - SENA Martínez, S. J. M., & Jiménez, E. (2001). <i>marketing</i>. ProQuest Ebook Central ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
@@ -370,7 +370,7 @@ export default {
     },
     {
       referencia:
-        'Prettel, G. (2016). Marketing, una herramienta para el crecimiento. Ediciones de la U.Página: 35. ',
+        'Prettel, G. (2016). <i>marketing</i>, una herramienta para el crecimiento. Ediciones de la U.Página: 35. ',
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5684&pg=35',
     },
     {
@@ -403,11 +403,12 @@ export default {
     },
     {
       referencia:
-        'Vera, N. (2015) Microentorno y Macroentorno del marketing. [Video]. Youtube.  ',
+        'Vera, N. (2015) Microentorno y Macroentorno del <i>marketing</i>. [Video]. Youtube.  ',
       link: 'https://www.youtube.com/watch?v=nCItrbLt6w8',
     },
     {
-      referencia: 'Wantuby. (2015) Plan de  marketing. [Video]. Youtube. ',
+      referencia:
+        'Wantuby. (2015) Plan de  <i>marketing</i>. [Video]. Youtube. ',
       link: 'https://www.youtube.com/watch?v=uzxqP_kwhGg',
     },
   ],
@@ -482,7 +483,7 @@ export default {
         'Son todos los factores externos que influyen en la empresa como son: entorno económico, entorno demográfico, entorno legal, entorno tecnológico, entorno ambiental.',
     },
     {
-      termino: 'Marketing',
+      termino: '<i>marketing</i>',
       significado:
         'Conjunto de actividades destinadas a lograr, con beneficio, la satisfacción del consumidor mediante un producto o servicio.',
     },
@@ -595,12 +596,12 @@ export default {
       link: 'https://www.youtube.com/watch?v=xgr7T3WMX6g',
     },
     {
-      texto: 'Vera, (2015), Microentorno y macroentorno del marketing.',
+      texto: 'Vera, (2015), Microentorno y macroentorno del <i>marketing</i>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=nCItrbLt6w8',
     },
     {
-      texto: 'Wantubi, (2015), Plan de Marketing.',
+      texto: 'Wantubi, (2015), Plan de <i>marketing</i>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=uzxqP_kwhGg',
     },

@@ -123,10 +123,10 @@
 
       p.mb-3 Este incluye dos niveles: el estratégico y el táctico. En el nivel estratégico se toman decisiones para cumplir con el objetivo de <i>marketing</i>, están relacionadas con la definición del mercado meta, posicionamiento, ventaja competitiva y demás decisiones con base en oportunidades de mercadeo. En el nivel táctico, se especifican acciones de <i>marketing</i> para concretar la estrategia de mercadeo, con base en las herramientas de producto, precio, plaza y promoción. (Limas, 2012, p. 246)
 
-      p.mb-5 Este plan cuenta con la siguiente secuencia: 
+      p.mb-5 Este plan cuenta con la siguiente secuencia
 
       AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
-        .row(titulo="Misión:")
+        .row(titulo="Misión")
 
           .col-md-6
 
@@ -268,7 +268,7 @@
                   i.fas.fa-angle-right 
                   | Capacidad competitiva.
 
-        .row(titulo="Objetivos de marketing")
+        .row(titulo="Objetivos de <i>marketing</i>")
           .col-md-6
             br
             br

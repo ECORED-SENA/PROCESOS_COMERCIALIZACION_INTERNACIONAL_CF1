@@ -21,7 +21,7 @@
         .bloque-texto-b.color-custom-1.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h3.text-regular El marketing es una ciencia que después de estudiar el comportamiento de los mercados (personas naturales, personas jurídicas -empresas-, y la sociedad) e identificado el nivel de competencia, permite diseñar productos, capaces de satisfacer necesidades, generar mayor valor, lograr relaciones perdurables.” 
+            h3.text-regular El <i>marketing</i> es una ciencia que después de estudiar el comportamiento de los mercados (personas naturales, personas jurídicas -empresas-, y la sociedad) e identificado el nivel de competencia, permite diseñar productos, capaces de satisfacer necesidades, generar mayor valor, lograr relaciones perdurables.” 
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .h5.mb-0 Prettel, 2016
