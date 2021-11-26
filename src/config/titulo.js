@@ -1,1 +1,1 @@
-module.exports = 'Diagnóstico del mercado'
+module.exports = 'La oferta exportable de bienes y servicios'

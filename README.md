@@ -1,4 +1,4 @@
-# **Diagnóstico del mercado**
+# **La oferta exportable de bienes y servicios**
 
 ## **Enlace GitHubPages**
 

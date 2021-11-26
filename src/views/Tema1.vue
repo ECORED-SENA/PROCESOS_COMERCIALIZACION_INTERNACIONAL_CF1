@@ -21,12 +21,12 @@
         .bloque-texto-b.color-custom-1.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h3.text-regular El <i>marketing</i> es una ciencia que después de estudiar el comportamiento de los mercados (personas naturales, personas jurídicas -empresas-, y la sociedad) e identificado el nivel de competencia, permite diseñar productos, capaces de satisfacer necesidades, generar mayor valor, lograr relaciones perdurables.” 
+            h3.text-regular El #[span.italic marketing] es una ciencia que después de estudiar el comportamiento de los mercados (personas naturales, personas jurídicas -empresas-, y la sociedad) e identificado el nivel de competencia, permite diseñar productos, capaces de satisfacer necesidades, generar mayor valor, lograr relaciones perdurables.” 
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .h5.mb-0 Prettel, 2016
         br
-        p.mb-3 El <i>marketing</i> es el arte de explorar, crear y entregar valor a un producto o servicio para satisfacer necesidades de un mercado objetivo con fines económicos.
+        p.mb-3 El #[span.italic marketing] es el arte de explorar, crear y entregar valor a un producto o servicio para satisfacer necesidades de un mercado objetivo con fines económicos.
 
         p.mb-3 Las organizaciones deben entender que los procesos de administración de clientes, se deben ver como una función estructural, y que no afecta solo al departamento de <i>Marketing</i> sino a toda la organización. Si las empresas, primero piensan en productos, y luego en el mercado, están destinadas a "elaborar zapatos, y luego ver a quien le quedan."
 

@@ -7,7 +7,7 @@
         span 5
       h1 La planeación estratégica 
 
-    #t_5_2.titulo-segundo
+    #t_5_1.titulo-segundo
         .h2 5.1 ¿Qué es planear? 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8.mb-5.mb-lg-0.mb-5
@@ -22,9 +22,9 @@
           br
           img.my-3(src="@/assets/curso/images/tema5/img_1.svg", alt= "",style="width:400px; display:block; margin:0 auto;") 
 
-      Separador 
-      #t_5_2.titulo-segundo
-        .h2 5.2 Ventajas de planear
+    Separador 
+    #t_5_2.titulo-segundo
+      .h2 5.2 Ventajas de planear
       .row.mb-5(data-aos="fade-right")
         .col-lg-6.mb-5.mb-lg-0 
             img.my-3(src="@/assets/curso/images/tema5/img_2.svg", alt="", style="width:400px; display:block; margin:0 auto;")
@@ -56,18 +56,18 @@
                 i.fas.fa-angle-right
                 | Disminuye la incertidumbre en la toma de decisiones gerenciales.
 
-      Separador 
-      #t_5_3.titulo-segundo
-        .h2 5.3 Partes del proceso de planeación
+    Separador 
+    #t_5_3.titulo-segundo
+      .h2 5.3 Partes del proceso de planeación
 
       .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
         .col-lg-12.mb-lg-0.fondo
             img(src="@/assets/curso/images/tema5/img_3_1.svg", alt="", style="width:800px; display:block; margin:0 auto;")
            
 
-      Separador
-      #t_5_4.titulo-segundo
-        .h2 5.4 Planes y tipos
+    Separador
+    #t_5_4.titulo-segundo
+      .h2 5.4 Planes y tipos
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-6.mb-5.mb-lg-0
@@ -115,9 +115,9 @@
       .jumbotron 
         LineaTiempoB.color-secundario.mb-5(:datos="datosLineaTiempoB")
 
-      Separador
-      #t_5_5.titulo-segundo
-        .h2 5.5  Planeación estratégica de mercados
+    Separador
+    #t_5_5.titulo-segundo
+      .h2 5.5  Planeación estratégica de mercados
 
       p.mb-3 Es un documento escrito que define y especifica las acciones necesarias para alcanzar los objetivos empresariales. Se realiza para un bien o servicio, una marca o una línea de producto. Contiene los lineamientos a desarrollar por el área de <i>marketing</i> en un periodo futuro y que responde al plan general o corporativo (plan estratégico gerencial de la empresa). 
 
